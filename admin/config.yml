@@ -30,6 +30,14 @@ collections:
             fields:
               - {label: Image, name: intro_image, widget: image}
               - {label: Title, name: intro_image_title, widget: string}
+          - label: Services
+            name: intro_services
+            widget: list
+            required: false
+            fields:
+              - {label: Icon, name: intro_services_icon, widget: string}
+              - {label: Title, name: intro_services_title, widget: string}
+              - {label: Text, name: intro_services_text, widget: text}
 
   - name: "settings"
     label: "Paramètres du site"

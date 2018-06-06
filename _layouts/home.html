@@ -20,15 +20,11 @@ layout: default
 </div>
 
 <div class="banner w-100 ph3 flex flex-wrap justify-center">
+  {% for item in page.intro_images %}
   <div class="tc pa3 dn db-l">
-    <img src="/img/camsc.jpg"/>
+    <img src="{{item.intro_image}}" alt="{{item.intro_image_title}}"/>
   </div>
-  <div class="tc pa3 dn db-l">
-    <img src="/img/toronto-board-award-2012.png"/>
-  </div>
-  <div class="tc pa3 dn db-l">
-    <img src="/img/ccab.png"/>
-  </div>
+  {% endfor %}
 </div>
 
 
