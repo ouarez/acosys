@@ -39,6 +39,17 @@ collections:
               - {label: Title, name: intro_services_title, widget: string}
               - {label: Text, name: intro_services_text, widget: text}
 
+      - name: "about"
+        file: "about.md"
+        label: "Edit About Page"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Content", name: "content", widget: "markdown"}
+
+
   - name: "settings"
     label: "Paramètres du site"
     delete: false # Prevent users from deleting documents in this collection
