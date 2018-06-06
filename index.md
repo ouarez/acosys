@@ -11,7 +11,6 @@ intro_text: >-
   ## Expertise in business solutions, technology integration, and talent
   management.
 
-
   We opened our doors in 2006, co-founded by David Acco and Julie Lepage. Our
   history of efficient delivery and satisfied clients has given us a solid
   foundation, on which we’ve built a reputation for creative and progressive
@@ -21,4 +20,3 @@ intro_text: >-
   While we wish to be recognized on the strength of our expertise and consistent
   delivery, we are also proud to be an Aboriginal company.
 ---
-

@@ -23,6 +23,13 @@ collections:
           - {label: "Slogan 1", name: "cover_slogan_1", widget: "string"}
           - {label: "Slogan 2", name: "cover_slogan_2", widget: "string"}
           - {label: "Intro text", name: "intro_text", widget: "markdown"}
+          - label: Intro Images
+            name: intro_images
+            widget: list
+            required: false
+            fields:
+              - {label: Image, name: intro_image, widget: image}
+              - {label: Title, name: intro_image_title, widget: string}
 
   - name: "settings"
     label: "Paramètres du site"
