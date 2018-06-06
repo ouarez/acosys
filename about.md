@@ -7,9 +7,8 @@ content: >-
 
 
   Acosys is an Aboriginal consulting firm with different ideas. We have
-  expertise in business solutions,
-
-  technology integration, and talent management.
+  expertise in business solutions, technology integration, and talent
+  management.
 
 
   We opened our doors in 2006, co-founded by David Acco and Julie Lepage. Their
