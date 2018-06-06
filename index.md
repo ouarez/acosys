@@ -19,4 +19,12 @@ intro_text: >-
 
   While we wish to be recognized on the strength of our expertise and consistent
   delivery, we are also proud to be an Aboriginal company.
+intro_images:
+  - intro_image: /img/camsc.jpg
+    intro_image_title: CAMSC Certified Supplier
+  - intro_image: /img/toronto-board-award-2012.png
+    intro_image_title: Toronto Board of Trade 2012 Award Winner
+  - intro_image: /img/ccab.png
+    intro_image_title: Certified Aboriginal Business
 ---
+
