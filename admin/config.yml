@@ -8,7 +8,7 @@ media_folder: "img"
 collections:
 
   - name: "special-pages"
-    label: "Unique pages"
+    label: "Unique Pages"
     delete: false # Prevent users from deleting documents in this collection
     files:
       - name: "home"
@@ -39,6 +39,10 @@ collections:
               - {label: Title, name: intro_services_title, widget: string}
               - {label: Text, name: intro_services_text, widget: text}
 
+  - name: "about-pages"
+    label: "About Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
       - name: "about"
         file: "about.md"
         label: "Edit About Page"

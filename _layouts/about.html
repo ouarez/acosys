@@ -6,12 +6,12 @@ layout: default
 
   {{content}}
 
-</div>
-
-<div class="banner w-100 ph3 flex flex-wrap justify-center">
-  {% for item in page.about_images %}
-  <div class="tc pa3 dn db-l">
-    <img src="{{item.about_image}}" alt="{{item.about_image_title}}"/>
+  <div class="banner w-100 pa3 flex flex-wrap justify-center">
+    {% for item in page.about_images %}
+    <div class="tc pa3 dn db-l">
+      <img src="{{item.about_image}}" alt="{{item.about_image_title}}"/>
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
+
 </div>

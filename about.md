@@ -10,6 +10,8 @@ about_images:
     about_image_title: Toronto Board of Trade 2012 Award Winner
   - about_image: /img/ccab.png
     about_image_title: Certified Aboriginal Business
+  - about_image: /img/psab.jpg
+    about_image_title: Procurement Strategy for Aboriginal Business (PSAB)
 ---
 ## Providing Direction
 
