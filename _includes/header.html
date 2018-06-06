@@ -1,0 +1,43 @@
+<header>
+
+  <div class="header w-100 pv3">
+    <div class="container flex items-center">
+      <a class="w-80 w-30-l pl3 pr5" href="/">
+        <img class="logo" src="{{site.data.settings.site_logo}}" alt="{{site.data.settings.site_title}}"/>
+      </a>
+
+      <nav class="main-nav w-80 dn dib-l tr">
+        <a href="/" class="mr4">Home</a>
+        <a href="/about" class="mr4">About</a>
+        <a href="/services" class="mr4">Services</a>
+        <a href="/internships" class="mr4">Internships</a>
+        <a href="/business" class="mr4">Business Insights</a>
+      </nav>
+
+      <div class="nav-button w-20 tr dn-l">
+        <img alt="MENU" src="/img/icons/nav-menu.svg" class="mr3 mt1"/>
+      </div>
+
+      <nav class="mobile-nav w-100 tc dn absolute">
+        <a href="/" class="db w-100 pv4">Home</a>
+        <a href="/about" class="db w-100 pv4">About</a>
+        <a href="/services" class="db w-100 pv4">Services</a>
+        <a href="/internships" class="db w-100 pv4">Internships</a>
+        <a href="/business" class="db w-100 pv4">Business Insights</a>
+      </nav>
+
+    </div>
+  </div>
+
+
+  {% unless page.layout == "home" %}
+  <div class="cover w-100 dt vh-25 tc" style="background-image: url({{page.cover_image}});">
+    <div class="hero w-100 pv4">
+      <div class="container w-100 tl pa3">
+        <h1 class="f2 white ttu mt5 mb0 b">{{page.title}}</h1>
+      </div>
+    </div>
+  </div>
+  {% endunless %}
+
+</header>

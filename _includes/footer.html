@@ -1,0 +1,57 @@
+<footer class="bg-black tc pv5">
+
+  <div class="container flex flex-wrap ph3">
+
+    <div class="w-90 w-60-l ml-auto mr-auto pb4">
+      {% if site.data.settings.footer_logo %}
+        <img class="logo" src="{{site.data.settings.site_logo}}" alt="{{site.title}}"/>
+      {% else %}
+        <h2 class="f1 white mv0">{{site.data.settings.site_title}}</h2>
+      {% endif %}
+    </div>
+
+    <div class="w-100 social pv4">
+      {% if site.data.settings.url_facebook %}
+      <a href="{{site.data.settings.url_facebook}}">
+        <img class="dib mr3" src="/img/icons/facebook.png" alt="Facebook"/>
+      </a>
+      {% endif %}
+      {% if site.data.settings.url_twitter %}
+      <a href="{{site.data.settings.url_twitter}}">
+        <img class="dib mr3" src="/img/icons/twitter.png" alt="Twitter"/>
+      </a>
+      {% endif %}
+      {% if site.data.settings.url_instagram %}
+      <a href="{{site.data.settings.url_instagram}}">
+        <img class="dib mr3" src="/img/icons/instagram.png" alt="Instagram"/>
+      </a>
+      {% endif %}
+      {% if site.data.settings.url_linkedin %}
+      <a href="{{site.data.settings.url_linkedin}}">
+        <img class="dib mr3" src="/img/icons/linkedin.png" alt="Linked In"/>
+      </a>
+      {% endif %}
+    </div>
+
+    <div class="w-100 w-60-l tc tj-l pt2 pr4">
+      <p class="light-gray f5">
+          {{site.data.settings.site_description}}
+      </p>
+    </div>
+
+    <div class="contact w-100 w-40-l tl pt3 pl4">
+
+      <img class="relative mr3" src="/img/icons/phone.png" alt="Telephone"/>
+      <span class="white">{{site.data.settings.site_tel}}</span>
+
+      <br/><br/>
+
+      <img class="relative mr3" src="/img/icons/email.png" alt="Email"/>
+      <span class="white">{{site.data.settings.site_email}}</span>
+
+      </div>
+
+
+</div> <!-- end container -->
+
+</footer>
