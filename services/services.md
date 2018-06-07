@@ -46,10 +46,6 @@ service:
     icon: handshake
     link: /services/talent-management
     title: Talent Management
-  - desc: test
-    icon: cog
-    link: test
-    title: test
 text_2: >-
   We offer end-to-end business solutions that assist our clients in
   consolidating their vision, planning their next steps, customizing their
