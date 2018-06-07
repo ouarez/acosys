@@ -8,7 +8,13 @@
 
       <nav class="main-nav w-80 dn dib-l tr">
         <a href="/" class="mr4">Home</a>
-        <a href="/about" class="mr4">About</a>
+        <div class="dropdown-nav">
+          <a href="#" class="mr4">About<i class="fa fa-angle-down ml2"></i></a>
+          <ul>
+            <li><a href="/about">Our Company</a></li>
+            <li><a href="/leadership">Leadership</a></li>
+          </ul>
+        </div>
         <a href="/services" class="mr4">Services</a>
         <a href="/internships" class="mr4">Internships</a>
         <a href="/business" class="mr4">Business Insights</a>
@@ -33,7 +39,7 @@
   {% unless page.layout == "home" %}
   <div class="cover w-100 dt vh-25 tc" style="background-image: url({{page.cover_image}});">
     <div class="hero w-100 pv4">
-      <div class="container w-100 tl pa3">
+      <div class="container w-100 tl pa4">
         <h1 class="f2 white ttu mt5 mb0 b">{{page.title}}</h1>
       </div>
     </div>

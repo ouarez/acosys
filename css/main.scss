@@ -102,7 +102,38 @@ header {
       text-transform: uppercase;
       font-weight:bold;
     }
-    a:hover {text-decoration:underline;}
+    a:hover {
+      text-decoration:underline;
+      color:#000;
+    }
+
+    .dropdown-nav {
+      position:relative;
+      display:inline-block;
+      padding:1em 0;
+      &:hover ul {visibility:visible;}
+      ul {
+        visibility:hidden;
+        position:absolute;
+        top:50px;
+        text-align:left;
+        list-style:none;
+        margin:0;
+        padding:0;
+        background-color:$blue;
+        li {
+          padding:1.5em;
+          width:200px;
+          background-color:$blue;
+          &:hover {
+            background-color: darken($blue,10);
+          }
+          a {
+            color:#fff;
+          }
+        }
+      }
+    }
   }
 
   nav.mobile-nav {
