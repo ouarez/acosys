@@ -4,7 +4,7 @@ layout: leadership
 permalink: /about/leadership
 description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
 cover_image: /img/cover.jpg
-Leadership:
+Portrait:
   - content: >-
       **David Acco**, President and CEO, is a Cree-Métis descended from
       Cumberland House, Saskatchewan, and a member of Métis Nation -
