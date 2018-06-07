@@ -73,8 +73,8 @@ collections:
               - {label: Image, name: image, widget: image}
               - {label: Name, name: name, widget: string}
               - {label: Description, name: content, widget: markdown}
-      - name: "social-responsability"
-        file: "about/social-responsability.md"
+      - name: "social-responsibility"
+        file: "about/social-responsibility.md"
         label: "Edit Social Responsibility Page"
         fields:
           - {label: "Title", name: "title", widget: "string"}
