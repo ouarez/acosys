@@ -151,5 +151,36 @@ portfolio:
       presented a strategic plan for improving the Faculty of Engineering’s IT
       service delivery.
     title: IT Services Review for McGill’s Faculty of Engineering
+  - client: Indian and Northern Affairs Canada (INAC)
+    date: Invalid date
+    desc: >-
+      Acosys has worked for the Department of Indian Affairs and Northern
+      Development (DIAND) in three outreach efforts, of similar scope and size,
+      for the Federal Government’s Procurement Strategy for Aboriginal
+      Businesses; the most recent is cited here. The purpose of PSAB is to build
+      capacity among Canadian Aboriginals by providing set-asides in Federal
+      contracts. Our responsibilities during these efforts included:
+
+
+
+
+      • Researching and building of a list of eligible businesses, including
+      contact information
+
+
+      • Creation of a database mirroring survey questions for safe and
+      searchable storage of outreach results
+
+
+      • Interviewing these businesses by telephone, performing over 2,000 calls
+      all told
+
+
+      • Informing them of the benefits and opportunities afforded by PSAB
+
+
+      • If already registered, inquiring about levels of satisfaction with the
+      PSAB process
+    title: Procurement Strategy for Aboriginal Business (PSAB)
 ---
 
