@@ -2,22 +2,25 @@
 
   <div class="header w-100 pv3">
     <div class="container flex items-center">
-      <a class="w-80 w-30-l pl3 pr5" href="/">
+      <a class="w-80 w-20-l pl3 pr5" href="/">
         <img class="logo" src="{{site.data.settings.site_logo}}" alt="{{site.data.settings.site_title}}"/>
       </a>
 
       <nav class="main-nav w-80 dn dib-l tr">
-        <a href="/" class="mr4">Home</a>
-        <div class="dropdown-nav">
-          <a href="#" class="mr4">About<i class="fa fa-angle-down ml2"></i></a>
-          <ul>
-            <li><a href="/about">Our Company</a></li>
-            <li><a href="/leadership">Leadership</a></li>
-          </ul>
-        </div>
-        <a href="/services" class="mr4">Services</a>
-        <a href="/internships" class="mr4">Internships</a>
-        <a href="/business" class="mr4">Business Insights</a>
+        {% for item in site.data.navigation.nav %}
+          {% if item.subnav %}
+          <div class="dropdown-nav">
+            <a href="{{item.url}}" class="mr4">{{item.title}}<i class="fa fa-angle-down ml2"></i></a>
+            <ul>
+              {% for entry in item.subnav %}
+                <li class="{% if entry.url == page.url %}active{% endif %}"><a href="{{entry.url}}">{{entry.title}}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% else %}
+            <a href="{{item.url}}" class="mr4 {% if item.url == page.url %}active{% endif %}">{{item.title}}</a>
+          {% endif %}
+        {% endfor %}
       </nav>
 
       <div class="nav-button w-20 tr dn-l">
@@ -25,11 +28,9 @@
       </div>
 
       <nav class="mobile-nav w-100 tc dn absolute">
-        <a href="/" class="db w-100 pv4">Home</a>
-        <a href="/about" class="db w-100 pv4">About</a>
-        <a href="/services" class="db w-100 pv4">Services</a>
-        <a href="/internships" class="db w-100 pv4">Internships</a>
-        <a href="/business" class="db w-100 pv4">Business Insights</a>
+        {% for item in site.data.navigation.nav %}
+          <a href="{{item.url}}" class="db w-100 pv4">{{item.title}}</a>
+        {% endfor %}
       </nav>
 
     </div>

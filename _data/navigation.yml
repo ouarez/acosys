@@ -1,0 +1,49 @@
+nav:
+  - title: About
+    url: /about
+    subnav:
+      - title: Our Company
+        url: /about
+      - title: Leadership
+        url: /about/leadership
+      - title: Social Responsibility
+        url: /about/social-responsibility
+      - title: Government Clients
+        url: /about/government-clients
+  - title: Services
+    url: /services
+    subnav:
+      - title: Our Services
+        url: /services
+      - title: Business Solutions
+        url: /services/business-solutions
+      - title: Technology Integration
+        url: /services/technology-integration
+      - title: Talent Management
+        url: /services/talent-management
+  - title: Internships
+    url: /internships
+    subnav:
+      - title: Internships
+        url: /internships
+      - title: Become a Partner
+        url: /internships/become-a-partner
+      - title: Social Impact
+        url: /internships/social-impact
+      - title: Candidates
+        url: /internships/candidates
+  - title: Business
+    url: /business
+    subnav:
+      - title: Business Insights
+        url: /business
+      - title: Press Room
+        url: /business/press-room
+      - title: White Papers
+        url: /business/white-papers
+      - title: Portfolio
+        url: /business/portfolio
+  - title: Careers
+    url: /careers
+  - title: Contact
+    url: /contact-us

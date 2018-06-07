@@ -101,10 +101,7 @@ header {
       font-size:14px;
       text-transform: uppercase;
       font-weight:bold;
-    }
-    a:hover {
-      text-decoration:underline;
-      color:#000;
+      &.active {text-decoration:underline;}
     }
 
     .dropdown-nav {
@@ -127,6 +124,11 @@ header {
           background-color:$blue;
           &:hover {
             background-color: darken($blue,10);
+            text-decoration:underline;
+            color:#fff;
+          }
+          &.active {
+            background-color: darken($blue,20);
           }
           a {
             color:#fff;
