@@ -174,7 +174,7 @@ collections:
               - {title: Date, name: date, widget: datetime}
               - {title: Link Title, name: link_title, widget: string}
               - {title: Link URL, name: link_url, widget: string}
-              - {title: Description, name: desc, widget: textarea}
+              - {title: Description, name: desc, widget: text}
 
   - name: "internship-pages"
     label: "Internship Pages"
