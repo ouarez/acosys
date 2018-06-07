@@ -2,7 +2,12 @@
 title: Leadership
 layout: leadership
 permalink: /about/leadership
-description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
+description: >-
+  David Acco, President and CEO, is a Cree-Métis descended from Cumberland
+  House, Saskatchewan, and a member of Métis Nation - Saskatchewan.  Julie
+  Lepage, a member of the Nipissing-Ojibway First Nation, graduated from the
+  University of Ottawa Common Law and Civil Law Programs and is a member of the
+  Law Society of Upper Canada.
 cover_image: /img/cover.jpg
 portrait:
   - content: >-
@@ -56,3 +61,4 @@ portrait:
     image: /img/julie.jpg
     name: Julie Lepage
 ---
+
