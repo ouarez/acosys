@@ -6,7 +6,7 @@ layout: default
 
   {% for item in page.leadership %}
 
-    <p>{{item.content}}</p>
+    {{item.content | markdownify}}
 
   {% endfor %}
 
