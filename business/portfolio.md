@@ -52,12 +52,15 @@ portfolio:
       within a team, our responsibilities included:
 
 
-      • Analyze current states of Canada Post IT infrastructure\
+      • Analyze current states of Canada Post IT infrastructure
 
-      • Research and recommend infrasturcture improvements\
+
+      • Research and recommend infrasturcture improvements
+
 
       • Perform Quality Assurance Testing on Canada Post's equipment and
-      operations\
+      operations
+
 
       • Analyzing mail equipment specifications, vendor RFPs, process
       documentation, and other sources, to recommend and plan future modes of
