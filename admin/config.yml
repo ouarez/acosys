@@ -58,7 +58,8 @@ collections:
             fields:
               - {label: Image, name: about_image, widget: image}
               - {label: Title, name: about_image_title, widget: string}
-      - name: "about"
+
+      - name: "leadership"
         file: "about/leadership.md"
         label: "Edit Leadership Page"
         fields:
