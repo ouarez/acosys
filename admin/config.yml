@@ -170,11 +170,11 @@ collections:
             widget: list
             required: false
             fields:
-              - {title: Title, name: title, widget: string}
-              - {title: Date, name: date, widget: datetime}
-              - {title: Link Title, name: link_title, widget: string}
-              - {title: Link URL, name: link_url, widget: string}
-              - {title: Description, name: desc, widget: text}
+              - {label: Title, name: title, widget: string}
+              - {label: Date, name: date, widget: datetime}
+              - {label: Link Title, name: link_title, widget: string}
+              - {label: Link URL, name: link_url, widget: string}
+              - {label: Description, name: desc, widget: text}
 
   - name: "internship-pages"
     label: "Internship Pages"
