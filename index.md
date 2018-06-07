@@ -1,7 +1,11 @@
 ---
 layout: home
-title: Acosys - First Nations consulting firm - business solutions, technology integration, and talent management
-description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
+title: >-
+  Acosys - First Nations consulting firm - business solutions, technology
+  integration, and talent management
+description: >-
+  Acosys is a First Nations consulting firm with different ideas. We build
+  bridges between private industry, Aboriginal communities, and government.
 cover_image: /img/cover3.jpg
 cover_slogan_1: Acosys is a First Nations consulting firm with different ideas.
 cover_slogan_2: >-
@@ -48,3 +52,4 @@ intro_services:
       and help the candidates ready themselves for the client’s business.
     intro_services_title: TALENT MANAGEMENT
 ---
+
