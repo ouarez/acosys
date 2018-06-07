@@ -11,7 +11,7 @@ cover_image: /img/cover2.jpg
 **Get the best infrastructure available.**
 When facing a time-sensitive delivery, so much can depend on a seamless, up-to-date combination of software and hardware that responds directly to your team’s needs.
 
-**Our technology integration services include:**
+Our technology integration services include:
 
 ### Technology Assessment and Planning
 
