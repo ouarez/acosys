@@ -2,7 +2,9 @@
 title: Social Responsibility
 layout: page
 permalink: /about/social-responsibility
-description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
+description: >-
+  We’re a for-profit business, but we have a self-defined social mission centred
+  on Aboriginal diversity and inclusion.
 cover_image: /img/cover.jpg
 ---
 ## Giving back to the community.
