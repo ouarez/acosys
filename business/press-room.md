@@ -24,5 +24,21 @@ articles:
     link_url: >-
       https://www.ctvnews.ca/canada/aboriginal-community-tests-out-new-dollar-tracking-program-1.1307412
     title: Kahnawake tests out new dollar-tracking program
+  - date: '2013-01-10'
+    desc: >-
+      For aboriginals searching for work off the reserve, it can be a rocky,
+      frustrating path. One Montreal company has made smoothing that road its
+      prime directive by providing meaningful experience and business education
+      for First Nations people.
+
+
+      Acosys Consulting is an aboriginal-owned company founded in 2006 by labour
+      lawyer Julie Lepage and business analyst and project manager David Acco.
+      More than 70 per cent of its staff are Native employees and it won the
+      Toronto Board of Trade Business Excellence award in November.
+    link_title: Breaking New Ground for Aboriginals in the Private Sector
+    link_url: >-
+      https://www.pressreader.com/canada/montreal-gazette/20130110/281552288208738
+    title: Acosys Breaks New Ground – Montreal Gazette Article
 ---
 
