@@ -66,5 +66,90 @@ portfolio:
       documentation, and other sources, to recommend and plan future modes of
       operation.
     title: Postal Transformation
+  - client: Environics Research Group
+    date: Invalid date
+    desc: >-
+      Acosys administered, supported, and helped interpret the results of the
+      Urban Aboriginal Peoples' Survey (UAPS) in two Canadian urban centres:
+      Thunder Bay and Montreal. We introduced an innovative approach of using
+      Aboriginals to administer the survey. Our responsibilities during this
+      effort included:
+
+
+      • Gathering of quantitative and qualitative survey results in a
+      face-to-face interview format
+
+
+      • Coding of results into a database provided by the client
+
+
+      • Interpretation of open-ended responses from an Aboriginal perspective•
+      Analysis and report on results to stakeholders
+
+
+      • Providing recommendations for how the Survey could improve its ability
+      to capture cultural context and nuance
+
+
+      Acosys delivered early in both cities.
+    title: Urban Aboriginal Peoples' Survey
+  - client: Tewatohnhi’saktha
+    date: Invalid date
+    desc: >-
+      Acosys was hired to examine the possibility of bringing the NEMS solution
+      to market and turning it into a source of revenue for KEDC. Our
+      responsibilities during this effort included:
+
+
+      • Identification and investigation of various target markets, including
+      Aboriginal and mainstream organizations
+
+
+      • Development of an outreach script and development of an online survey
+
+
+      • Complete quantitative and qualitative analysis and report of survey
+      results to project stakeholders
+
+
+      • Gathering of intelligence on competitors and market trends
+
+
+      • Go/No-Go recommendation, product costing recommendation, revenue
+      forecast
+    title: Market Feasibility Study
+  - client: 'McGill University, Faculty of Engineering'
+    date: '2018-06-07'
+    desc: >-
+      Acosys was hired to conduct an IT Services Review for McGill’s Faculty of
+      Engineering, specifically to determine client satisfaction levels among
+      various demographics (students, staff, and professors) and provide
+      recommendations for improvement. Our responsibilities during this effort
+      included:
+
+
+      • Conducting individual interviews with IT services and management
+      representatives
+
+
+      • Spearheading internet-based surveys of over 3000 students, staff
+      members, and professors
+
+
+      • Performance of statistical and qualitative analyses of survey results,
+      report and presentation of findings to stakeholders
+
+
+      • Conducting follow-up focus groups with targeted users for more granular
+      feedback
+
+
+      • Inter-faculty interviews to benchmark McGill-wide IT service levels
+
+
+      All of these inputs were used to create a Recommendations document which
+      presented a strategic plan for improving the Faculty of Engineering’s IT
+      service delivery.
+    title: IT Services Review for McGill’s Faculty of Engineering
 ---
 
