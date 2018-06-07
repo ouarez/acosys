@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="container pa4 flex flex-wrap">
+
+  {{content}}
+
+  <div class="w-100 fl pv3">
+
+    {% for item in page.slider %}
+    <div class="w-100 bg-near-white br3 ph4 pv3 mb3 flex items-center pointer slider">
+      <i class="fas fa-check mr3"></i>
+      <span class="f4 w-80">{{item.title}}</span>
+      <i class="fas fa-angle-down mt1 ml2 f3 w-10 tr"></i>
+    </div>
+    <div class="hidden dn ph4">
+      <p><strong>Client: </strong>{{item.client}}</p>
+      {{item.content | markdownify}}
+    </div>
+    {% endfor %}
+
+  </div>
+
+</div>
