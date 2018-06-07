@@ -58,7 +58,6 @@ collections:
             fields:
               - {label: Image, name: about_image, widget: image}
               - {label: Title, name: about_image_title, widget: string}
-
       - name: "leadership"
         file: "about/leadership.md"
         label: "Edit Leadership Page"
@@ -74,7 +73,6 @@ collections:
               - {label: Image, name: image, widget: image}
               - {label: Name, name: name, widget: string}
               - {label: Description, name: content, widget: markdown}
-
       - name: "social-responsability"
         file: "about/social-responsability.md"
         label: "Edit Social Responsibility Page"
