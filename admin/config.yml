@@ -88,6 +88,30 @@ collections:
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - {label: "Content", name: "body", widget: "markdown"}
 
+  - name: "service-pages"
+    label: "Service Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
+      - name: "services"
+        file: "services/services.md"
+        label: "Edit Services Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: service
+            name: service
+            widget: list
+            required: false
+            fields:
+              - {label: Icon, name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Link, name: link, widget: string}
+              - {label: Description, name: desc, widget: text}
+
   - name: "settings"
     label: "Website Configuration"
     delete: false # Prevent users from deleting documents in this collection
