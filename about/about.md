@@ -1,8 +1,11 @@
 ---
-layout: about
 title: Our Company
+layout: about
 permalink: /about
-description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
+description: >-
+  Acosys is an Aboriginal consulting firm with different ideas. We have
+  expertise in business solutions, technology integration, and talent
+  management.
 cover_image: /img/cover.jpg
 about_images:
   - about_image: /img/camsc.jpg
