@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container pa4">
+
+  {{content}}
+
+{% for item in page.articles %}
+  <div class="w-100 pv4">
+    <h3>{{item.title}}</h3>
+    <span>{{item.date}}</span>
+    <p>{{item.content}}</p>
+    <span>Read More: </span><a href="{{item.link_url}}">{{item.link_title}}</a>
+
+  </div>
+{% endfor %}
+
+</div>

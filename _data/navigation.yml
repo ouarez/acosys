@@ -31,10 +31,10 @@ nav:
       - title: Candidates
         url: /internships/candidates
   - title: Business
-    url: /business
+    url: /business/
     subnav:
       - title: Business Insights
-        url: /business
+        url: /business/
       - title: Press Room
         url: /business/press-room
       - title: White Papers

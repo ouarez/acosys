@@ -143,6 +143,39 @@ collections:
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - {label: "Content", name: "body", widget: "markdown"}
 
+  - name: "business-pages"
+    label: "Business Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
+      - name: "business"
+        file: "business/business.md"
+        label: "Edit Business Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+      - name: "business"
+        file: "business/press-room.md"
+        label: "Edit Press Room Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - label: Articles
+            name: articles
+            widget: list
+            required: false
+            fields:
+              - {title: Icon, name: icon, widget: string}
+              - {title: Date, name: date, widget: datetime}
+              - {link_title: Title, name: title, widget: string}
+              - {link_url: Link, name: link, widget: string}
+              - {content: Description, name: desc, widget: textarea}
+
   - name: "internship-pages"
     label: "Internship Pages"
     delete: false # Prevent users from deleting documents in this collection
