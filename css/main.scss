@@ -63,6 +63,10 @@ body {
      line-height:1.5;
    }
 
+   b,strong { // make sure its bold
+     font-weight:bold;
+   }
+
 // header
 
 .cover {
