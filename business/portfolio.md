@@ -183,4 +183,6 @@ portfolio:
       PSAB process
     title: Procurement Strategy for Aboriginal Business (PSAB)
 ---
+**Proud of our project work.**
 
+Acosys can provide both deep and broad experience. Browse through the tabs below for a few examples of our past deliveries, and see what we mean.
