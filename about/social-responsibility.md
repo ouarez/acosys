@@ -5,7 +5,7 @@ cover_image: /img/cover.jpg
 ---
 **Giving back to the community. **
 
-We’re a for-profit business, but we have a self-defined social mission centred on Aboriginal diversity and inclusion. 
+We’re a for-profit business, but we have a self-defined social mission centred on Aboriginal diversity and inclusion.
 
 Our goal is to raise the visibility of Aboriginal professionals in the private sector, by providing meaningful professional opportunities in education and employment. And we actively pursue this mission every day, in several ways: 
 
