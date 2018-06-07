@@ -48,6 +48,8 @@ collections:
         label: "Edit About Page"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - {label: "Content", name: "body", widget: "markdown"}
@@ -63,6 +65,8 @@ collections:
         label: "Edit Leadership Page"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "leadership"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/leadership" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - label: Portraits
