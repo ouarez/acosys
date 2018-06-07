@@ -1,5 +1,5 @@
 ---
-title: Business Insights
+title: Press Room
 layout: press-room
 permalink: /business/press-room
 description: Here you’ll find the latest news about Acosys and what we find interesting.
