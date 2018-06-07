@@ -6,14 +6,16 @@ layout: default
 
   {{content}}
 
+<div class="w-100 mv5">
 {% for item in page.articles %}
-  <div class="w-100 pv4">
-    <h3>{{item.title}}</h3>
-    <span>{{item.date}}</span>
-    <p>{{item.content}}</p>
+  <div class="w-100 pa4 mv3 br3" style="background-color:#fafafa;">
+    <h3 class="mv3">{{item.title}}</h3>
+    <span class="f5 gray">{{item.date}}</span>
+    <p>{{item.desc}}</p>
     <span>Read More: </span><a href="{{item.link_url}}">{{item.link_title}}</a>
 
   </div>
 {% endfor %}
+</div>
 
 </div>

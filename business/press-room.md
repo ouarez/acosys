@@ -42,3 +42,6 @@ articles:
     title: Acosys Breaks New Ground – Montreal Gazette Article
 ---
 
+Here you’ll find the latest news about Acosys and what we find interesting.
+
+You can also keep up with us by joining our [LinkedIn]({{site.data.settings.url_linkedin}}) and [Facebook]({{site.data.settings.url_facebook}}) groups.
