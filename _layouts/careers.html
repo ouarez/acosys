@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="container pa4 flex flex-wrap">
+
+  {{content}}
+
+  <div class="w-100 pv3">
+
+    {% for item in page.jobs %}
+
+      <div>
+        <div class="w-100 bg-near-white br3 ph4 pv3 mb3 flex flex-wrap items-center pointer slider">
+          <div class="w-100 flex pb3">
+            <span class="f4 b w-90">{{item.title}}</span>
+            <i class="fas fa-angle-down mt1 ml2 f3 w-10 tr"></i>
+          </div>
+          <div class="w-100 pb1">
+            <i class="fas fa-calendar-alt f5 tr mh2"></i>
+            <span class="f5 ml2">{{item.date | date: "%-d %B %Y"}}</span>
+          </div>
+          <div class="w-100 pb1">
+            <i class="fas fa-map-marker-alt f5 tr mh2"></i>
+            <span class="f5 ml2">{{item.location}}</span>
+          </div>
+        </div>
+        <div class="hidden dn ph4">
+          {{item.desc | markdownify}}
+          <a href="{{item.link}}">
+            <button class="pv3 ph5 mv3 br3 ttu tracked f5 b white pointer bg-blue" type="button">
+              Consult Job Details <i class="fas fa-angle-right f5 tr mh2"></i>
+            </button>
+          </a>
+        </div>
+      </div>
+
+    {% endfor %}
+
+  </div>
+
+</div>

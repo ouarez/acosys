@@ -38,6 +38,27 @@ collections:
               - {label: Icon, name: intro_services_icon, widget: string}
               - {label: Title, name: intro_services_title, widget: string}
               - {label: Text, name: intro_services_text, widget: text}
+      - name: "careers"
+        file: "careers.md"
+        label: "Edit Careers Page"
+        fields:
+          - label: Jobs
+            name: jobs
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Date, name: date, widget: date}
+              - {label: Location, name: location, widget: string}
+              - {label: Link, name: link, widget: string}
+              - {label: Description, name: desc, widget: markdown}
+
+          - {label: "Layout", name: "layout", widget: "hidden", default: "careers"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/careers" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
 
   - name: "about-pages"
     label: "About Pages"
