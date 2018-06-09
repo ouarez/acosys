@@ -56,14 +56,48 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019805
     location: 'Montreal, QC, Canada'
     title: Proposal Writer
-  - date: '2018-06-01'
+  - date: '2018-06-06'
     desc: Acosys Consulting is looking to hire a HR Intern for one of our clients.
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019379
     location: 'Toronto, ON, Canada'
     title: HR Intern
-  - date: '2018-06-09'
-  - date: '2018-06-09'
+  - date: '2018-06-06'
+    desc: >-
+      Acosys Consulting is looking to hire a Project Coordinator for its client.
+
+
+      The Program Management Office (PMO) is responsible for governance and
+      execution of project delivery within our client.  The PMO is the source of
+      documentation, process and metric for project & program delivery.
+
+
+      Reporting to the Director, Program Management, the Sr. Project
+      Co-Ordinator will work closely with the Agile Program Manager of a large
+      Program and Agile Delivery Managers.  The Sr. PCO will be focused on
+      assisting in all aspects of planning and execution with a specific focus
+      on managing issues and risks across the program.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10997092
+    location: 'Mississauga, ON, Canada'
+    title: Project Coordinator
+  - date: '2018-05-28'
+    desc: >-
+      Acosys Consulting is looking to hire an Aircraft Project Scheduler for its
+      client.
+
+
+      **Key Responsibilities:**
+
+
+      To ensure all aspects of the database operations are effective, efficient
+      and adhere to all applicable laws and regulations. This includes the
+      organization, coordination and data analysis of the client’s integrated
+      Database.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10997050
+    location: 'Ottawa, ON, Canada'
+    title: Aircraft Project Scheduler
   - date: '2018-06-09'
   - date: '2018-06-09'
   - date: '2018-06-09'
