@@ -132,7 +132,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10993345
     location: 'Mississauga, ON, Canada'
     title: Senior Programmer Analyst - DAX
-  - date: '2018-05-22'
+  - date: '2018-05-25'
     desc: >-
       Acosys Consulting is looking to hire a Technology Architect for its
       client.
@@ -169,7 +169,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982722
     location: 'Ottawa, ON, Canada'
     title: Technology Architect
-  - date: '2018-05-22'
+  - date: '2018-06-06'
     desc: >-
       Acosys Consulting is looking to hire a Technical Writer for its client.
 
@@ -207,7 +207,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982644
     location: 'Ottawa, ON, Canada'
     title: Technical Writer
-  - date: '2018-05-22'
+  - date: '2018-06-04'
     desc: >-
       Acosys Consulting is looking to hire a Systems Analyst for its client
 
@@ -231,7 +231,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982596
     location: 'Ottawa, ON, Canada'
     title: Systems Analyst
-  - date: '2018-05-22'
+  - date: '2018-05-31'
     desc: >-
       Acosys Consulting is looking to hire a Project Manager for its client
 
@@ -269,7 +269,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982563
     location: 'Ottawa, ON, Canada'
     title: Project Manager
-  - date: '2018-05-22'
+  - date: '2018-05-28'
     desc: >-
       Acosys Consulting is looking to hire a Business Transformation Architect
       for its client
@@ -301,13 +301,13 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982512
     location: 'Ottawa, ON, Canada'
     title: Business Transformation Architect
-  - date: '2018-05-22'
+  - date: '2018-05-23'
     desc: Acosys Consulting is looking to hire a Project Leader for its client.
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982488
     location: 'Ottawa, ON, Canada'
     title: Project Leader
-  - date: '2018-05-18'
+  - date: '2018-06-04'
     desc: >-
       Acosys Consulting is looking to hire a SQL Database Administrator for its
       client.
@@ -337,7 +337,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10975759
     location: 'Mississauga, ON, Canada'
     title: SQL Database Administrator
-  - date: '2018-05-14'
+  - date: '2018-06-02'
     desc: >-
       Acosys Consulting is looking to hire a Bilingual Help Desk Analyst-Level 1
       and 2 for its client. 
@@ -386,7 +386,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10946401
     location: 'Mississauga, ON, Canada'
     title: Bilingual HelpDesk Analyst
-  - date: '2018-05-08'
+  - date: '2018-06-05'
     desc: >-
       Acosys is seeking the services of a Database Analyst on behalf of a
       Client. 
@@ -404,7 +404,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10934851
     location: 'Edmonton, Alberta, Canada'
     title: Database Analyst
-  - date: '2018-05-01'
+  - date: '2018-06-06'
     desc: >-
       Acosys Consulting is looking to hire a Process Analyst for its client.
 
@@ -450,7 +450,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10917799
     location: 'Winnipeg, Manitoba, Canada'
     title: Business Process Analyst
-  - date: '2018-05-01'
+  - date: '2018-06-05'
     desc: >-
       Acosys Consulting is looking to hire a Change Management Consultant for
       its client.
@@ -478,7 +478,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10917427
     location: 'Winnipeg, Manitoba, Canada'
     title: Change Management Consultant
-  - date: '2018-04-19'
+  - date: '2018-06-04'
     desc: >-
       Acosys Consulting is looking to hire a Senior Business Analyst for its
       client.
