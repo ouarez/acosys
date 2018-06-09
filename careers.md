@@ -596,7 +596,94 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=9872479
     location: 'Montreal, QC'
     title: Web Developer (SHAREPOINT)
-  - date: '2018-06-09'
+  - date: '2018-05-30'
+    desc: >-
+      **Contract period:** As soon as possible - March 31, 2019
+
+
+      **Language:** Bilingual (French-English) an asset
+
+
+      Acosys is seeking the services of a Web Developer to develop Business
+      intelligence (BI) solutions to be used to support community,
+      administrative and health program delivery activities and decision making
+      processes. The Web Developer will be responsible for providing the
+      following services: 
+
+
+      * Develop and prepare diagrammatic plans for web based service delivery
+      over the internet;
+
+      * Analyze the problems outlined by systems analysts/designers in terms of
+      such factors as style and extent of information to be transferred across
+      the internet;
+
+      * Design, creation and maintenance of SharePoint sites as well as
+      test/staging environments;
+
+      * Interpret the business requirements into a functional design;
+
+      * Provide input to the Data Modeller for the development of a new delivery
+      platform with SQL 2012 Business Intelligence as the back-end and MS
+      SharePoint for the user experience;
+
+      * Select and use the best available web development tools for linking the
+      internet based client to the Health Canada “back end” information delivery
+      programs and databases;
+
+      * Design high-usability web pages to meet the identified requirements;
+
+      * Verify accuracy and completeness of programs by preparing sample data,
+      and testing them by means of system acceptance test runs made by operating
+      personnel;
+
+      * Correct program errors by revising instructions or altering the sequence
+      of operations;
+
+      * Test instructions, and assemble specifications, flow charts, diagrams,
+      layouts, programming and operating instructions to document applications
+      for later modification or reference;
+
+      * Create web pages including graphic design;
+
+      * Develop and implement usability tests, analyses result and modify design
+      accordingly;
+
+      * Develop flowcharts (web site flow maps) depicting navigation and
+      content;
+
+      * Develop line drawings or block diagrams illustrating the priority of
+      information, links, navigation and space requirements;
+
+      * Develop content diagrams showing the interactive connection between
+      pages;
+
+      * Develop interactive prototypes showing basic form and functionality used
+      for both usability testing and presentations;
+
+
+      Work will be required in the following environments:
+
+
+      * MS SQL
+
+      * SQL Server
+
+      * MS SharePoint
+
+      * MS SQL Reporting Server
+
+      * MS SQL Integration Services
+
+      * Visual Studio 2012
+
+      * PHP
+
+      * Java
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=9872605
+    location: 'Edmonton, Alberta, Canada'
+    title: Web Developer (SHAREPOINT)
 layout: careers
 title: Careers
 permalink: /careers
