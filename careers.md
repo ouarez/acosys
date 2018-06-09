@@ -508,7 +508,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10890190
     location: 'Mississauga, ON, Canada'
     title: Business Analyst-Microsoft Dynamics AX
-  - date: '2018-06-09'
+  - date: '2018-05-30'
     desc: >-
       **CONTRACT PERIOD:** As soon as possible - March 31, 2019
 
