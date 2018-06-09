@@ -1,22 +1,40 @@
 ---
-title: Careers
-layout: careers
-permalink: /careers
-description: >-
-    If you’re looking to cultivate your skills with a company that’s creative, innovative, and ambitious; if
-    you want to work in an environment where performance makes all the difference, consider applying to
-    work with us.
-cover_image: /img/cover3.jpg
 jobs:
-  - title: Part time Security Analyst
-    date: '2018-06-08'
-    location: Mississauga, ON
-    link: https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11037662
+  - date: '2018-06-08'
     desc: >-
-      The Privacy Analyst is responsible for the completion of specific core compliance functions in relation to training, privacy impact assessments and incident management under the direction of the Privacy and Compliance Officer. This role supports the Privacy Office in its obligations to conduct assurance services, direct privacy incident response and provide privacy design support for policy direction and business requirements.
+      The Privacy Analyst is responsible for the completion of specific core
+      compliance functions in relation to training, privacy impact assessments
+      and incident management under the direction of the Privacy and Compliance
+      Officer. This role supports the Privacy Office in its obligations to
+      conduct assurance services, direct privacy incident response and provide
+      privacy design support for policy direction and business requirements.
 
 
       This is a part-time, 2 year contract (can work remotely).
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11037662
+    location: 'Mississauga, ON'
+    title: Part time Security Analyst
+  - date: '2018-06-08'
+    desc: >-
+      Acosys Consulting is looking to hire a HR Consultant for one of our
+      federal government clients.
+
+
+      Please consult the job description for a detailed description of our
+      requirements.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11037096
+    location: 'Gatineau, QC, Canada'
+    title: HR Consultant
+layout: careers
+title: Careers
+permalink: /careers
+description: >-
+  If you’re looking to cultivate your skills with a company that’s creative,
+  innovative, and ambitious; if you want to work in an environment where
+  performance makes all the difference, consider applying to work with us.
+cover_image: /img/cover3.jpg
 ---
 
 **We’re always looking for people to join our team.**
