@@ -510,10 +510,10 @@ jobs:
     title: Business Analyst-Microsoft Dynamics AX
   - date: '2018-05-30'
     desc: >-
-      **CONTRACT PERIOD:** As soon as possible - March 31, 2019
+      **Contract period:** As soon as possible - March 31, 2019
 
 
-      ** LANGUAGE:** Bilingual (French-English)
+      **Language:** Bilingual (French-English)
 
 
       Acosys is seeking the services of a Web Developer to develop Business
