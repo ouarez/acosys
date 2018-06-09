@@ -8,7 +8,9 @@ layout: default
 
   <div class="w-100 pv3">
 
-    {% for item in page.jobs %}
+    {% assign sorted = (page.jobs | sort: 'date') | reverse %}
+
+    {% for item in sorted %}
 
       <div>
         <div class="w-100 bg-near-white br3 ph4 pv3 mb3 flex flex-wrap items-center pointer slider">
@@ -26,9 +28,10 @@ layout: default
           </div>
         </div>
         <div class="hidden dn ph4">
+          <h3>{{item.title}}</h3>
           {{item.desc | markdownify}}
           <a href="{{item.link}}">
-            <button class="pv3 ph5 mv3 br3 ttu tracked f5 b white pointer bg-blue" type="button">
+            <button class="pv3 ph5 mt3 mb4 br3 ttu tracked f5 b white pointer bg-blue" type="button">
               Consult Job Details <i class="fas fa-angle-right f5 tr mh2"></i>
             </button>
           </a>
