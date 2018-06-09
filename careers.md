@@ -19,14 +19,31 @@ jobs:
     desc: >-
       Acosys Consulting is looking to hire a HR Consultant for one of our
       federal government clients.
-
-
-      Please consult the job description for a detailed description of our
-      requirements.
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11037096
     location: 'Gatineau, QC, Canada'
     title: HR Consultant
+  - date: '2018-06-06'
+    desc: >-
+      Technology Services provides core information technology services to our
+      clients across Canada departments. It provides underlying hardware,
+      software, and network infrastructure and enterprise services in order to
+      keep the organization running.
+
+       
+
+      Our client seeks to hire a Network/VOIP Specialist who will be reporting
+      to the Sr. Manager of Production Operations. As a key member of the
+      Production Operations team, the successful candidate is responsible for
+      the availability, reliability and support of the core network and voice
+      systems based on current routing, switching, security and management
+      technologies. The Network/VOIP Specialist advises and assists System
+      Development and Infrastructure, the customers and providers with the
+      maintenance of the systems in the production infrastructure.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11032519
+    location: 'Mississauga, ON, Canada'
+    title: VOIP specialist
 layout: careers
 title: Careers
 permalink: /careers
