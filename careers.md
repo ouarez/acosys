@@ -169,8 +169,68 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982722
     location: 'Ottawa, ON, Canada'
     title: Technology Architect
-  - date: '2018-06-09'
-  - date: '2018-06-09'
+  - date: '2018-05-22'
+    desc: >-
+      Acosys Consulting is looking to hire a Technical Writer for its client.
+
+
+      **Key Responsibilities:**
+
+
+      * Document help text, user manuals, technical documentation, web page
+      content, etc.
+
+      * Review documentation standards and the existing project documentation
+
+      * Determine documentation requirements and makes plans for meeting them
+
+      * Gather information concerning the features and functions provided by the
+      developers
+
+      * Assess the audience for the documents/manuals which are required and
+      prepare a statement of purpose and scope for each
+
+      * Develop a table of content for each document/manual and write or edit
+      the required content
+
+      * Investigate the accuracy of the information collected by making direct
+      use of the material being documented
+
+      * Prepare or coordinate the preparation of any required illustrations and
+      diagrams
+
+      * Design the layout of the documents and manuals
+
+      * Use word processing, desk top publishing and graphics software packages
+      to produce final camera-ready copy
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982644
+    location: 'Ottawa, ON, Canada'
+    title: Technical Writer
+  - date: '2018-05-22'
+    desc: >-
+      Acosys Consulting is looking to hire a Systems Analyst for its client
+
+
+      **Key Responsibilities**
+
+
+      * Develop requirements, feasibility, cost, design and specification
+      documents for systems
+
+      * Implement systems to support projects, departments, organizations,
+      stakeholders
+
+      * Translate business requirements into systems design and specifications
+
+      * Analyze and recommend alternatives and options for solutions
+
+      * Develop technical specifications for system development, design and
+      implementation
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982596
+    location: 'Ottawa, ON, Canada'
+    title: Systems Analyst
 layout: careers
 title: Careers
 permalink: /careers
