@@ -231,6 +231,80 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982596
     location: 'Ottawa, ON, Canada'
     title: Systems Analyst
+  - date: '2018-05-22'
+    desc: >-
+      Acosys Consulting is looking to hire a Project Manager for its client
+
+
+      **Key Responsibilities:**
+
+
+      * Manage several Project Managers, each responsible for an element of the
+      project and its associated project team.
+
+      *  Manage the project during the development, implementation and
+      operations startup by ensuring that resources are made available and that
+      the project is developed and is fully operational within previously agreed
+      time, cost and performance parameters.
+
+      *  Formulate statements of problems; establishes procedures for the
+      development and implementation of significant, new or modified project
+      elements to solve these problems, and obtains approval thereof.
+
+      * Define and document the objectives for the project; determine budgetary
+      requirements, the composition, roles and responsibilities and terms of
+      reference for the project team.
+
+      * Report progress of the project on an ongoing basis and at scheduled
+      points in the life cycle.
+
+      * Meets in conference with stakeholders and other project managers and
+      states problems in a form capable of being solved.
+
+      * Prepare plans, charts, tables and diagrams to assist in analyzing or
+      displaying problems; work with a variety of project management tools.
+
+      * Project sign-off.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982563
+    location: 'Ottawa, ON, Canada'
+    title: Project Manager
+  - date: '2018-05-22'
+    desc: >-
+      Acosys Consulting is looking to hire a Business Transformation Architect
+      for its client
+
+
+      **Key Responsibilities**
+
+
+      * Analysis and development of business success “critical success factors”
+
+      * Analysis and development of architecture requirements design, process
+      development, process mapping and training
+
+      * Responsible for leading other functional staff to define business
+      strategy and process in support of transformation and change management
+      activities
+
+      * Participate in change impact analysis and change management activities
+
+      * Participate in organizational realignment (job re-design organizational
+      re-structuring)
+
+      * Coordinate development of training and coordination with other
+      stakeholders
+
+      * Create presentations and present to various stakeholders, and facilitate
+      meetings
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982512
+    location: 'Ottawa, ON, Canada'
+    title: Business Transformation Architect
+  - date: '2018-06-09'
+  - date: '2018-06-09'
+  - date: '2018-06-09'
+  - date: '2018-06-09'
 layout: careers
 title: Careers
 permalink: /careers
