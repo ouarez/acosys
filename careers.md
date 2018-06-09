@@ -98,7 +98,40 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10997050
     location: 'Ottawa, ON, Canada'
     title: Aircraft Project Scheduler
-  - date: '2018-06-09'
+  - date: '2018-05-25'
+    desc: >-
+      Acosys Consulting is looking to hire a Senior Programmer Analyst - DAX for
+      its client.
+
+
+      **Description:**
+
+
+      Our client is actively looking for Sr. Programmer Analyst – MS Dynamics AX
+      to work with the business and IS teams to code and support complex
+      customizations to our newly implemented Dynamics AX 2012 system. 
+
+
+      The Senior Programmer Analyst – Dynamics AX Financial Systems provides
+      guidance to cross-functional teams to foster alignment for effective
+      resolution of issues.  The successful candidate will support the
+      development of new business initiatives into fully supported products;
+      analyze user requirements, procedures, and problems to automate processing
+      or to improve existing computer systems, driving decisions to ensure that
+      business needs are prioritized.  
+
+
+      The Senior Programmer Analyst would actively interface with internal and
+      external stakeholders to ensure consistent direction is maintained by all
+      stakeholders, assist with customer product inquiries and RFCs (requests
+      for change) and would serve as key subject matter expert to provide
+      technical and analytical guidance to various teams across the
+      organization, while ensuring adherence to quality standards on
+      deliverables.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10993345
+    location: 'Mississauga, ON, Canada'
+    title: Senior Programmer Analyst - DAX
   - date: '2018-06-09'
   - date: '2018-06-09'
   - date: '2018-06-09'
