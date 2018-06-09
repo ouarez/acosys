@@ -132,7 +132,43 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10993345
     location: 'Mississauga, ON, Canada'
     title: Senior Programmer Analyst - DAX
-  - date: '2018-06-09'
+  - date: '2018-05-22'
+    desc: >-
+      Acosys Consulting is looking to hire a Technology Architect for its
+      client.
+
+
+      **Key Responsibilities **
+
+
+      * Develop technical architectures, frameworks and strategies, either for
+      an organization or for a major application area, to meet the business and
+      application requirements
+
+      * Identify the policies and requirements that drive out a particular
+      solution
+
+      * Analyze and evaluate alternative technology solutions to meet business
+      problems
+
+      * Ensures the integration of all aspects of technology solutions
+
+      *  Monitor industry trends to ensure that solutions fit with government
+      and industry directions for technology
+
+      * Provide information, direction and support for emerging technologies
+
+      * Perform impact analysis or technology changes
+
+      * Provide support to applications and/or technical support teams in the
+      proper application of existing infrastructure
+
+      * Review application and program design or technical infrastructure design
+      to ensure adherence to standards and to recommend performance improvements
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982722
+    location: 'Ottawa, ON, Canada'
+    title: Technology Architect
   - date: '2018-06-09'
   - date: '2018-06-09'
 layout: careers
