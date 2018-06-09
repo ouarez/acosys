@@ -386,7 +386,24 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10946401
     location: 'Mississauga, ON, Canada'
     title: Bilingual HelpDesk Analyst
-  - date: '2018-06-09'
+  - date: '2018-05-08'
+    desc: >-
+      Acosys is seeking the services of a Database Analyst on behalf of a
+      Client. 
+
+
+      The Client’s Business intelligence (BI) solutions are used to support
+      community, administrative and health program delivery activities and
+      decision making processes. 
+
+
+      The tools provide pharmacists, community medicine physicians,
+      epidemiologists, statisticians and program managers with timely access to
+      accurate data via multiple intuitive graphical user interfaces (GUI).
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10934851
+    location: 'Edmonton, Alberta, Canada'
+    title: Database Analyst
 layout: careers
 title: Careers
 permalink: /careers
