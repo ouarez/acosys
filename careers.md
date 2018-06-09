@@ -684,6 +684,38 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=9872605
     location: 'Edmonton, Alberta, Canada'
     title: Web Developer (SHAREPOINT)
+  - date: '2018-05-15'
+    desc: >-
+      Acosys Consulting is currently looking for an Organizational Design and
+      Classification Consultant to perform the following tasks: 
+
+
+      * Reviewing current work descriptions, making revisions and recommending
+      appropriate changes
+
+      * Developing new work descriptions using the organization’s existing job
+      description templates
+
+      * Gathering information concerning duties, organizational relationships,
+      knowledge requirements, problem solving requirements, accountabilities and
+      working environment
+
+      * When required, completing a site visit to the work environment of
+      certain jobs
+
+      * Reviewing related documentation such as the current job description and
+      organization chart and provide options
+
+      * Obtaining feedback on first drafts from clients and preparing second
+      drafts and preparing second drafts to reflect this feedback
+
+      * Reviewing and updating work descriptions while delineating
+      responsibilities within streams of work and from other roles within the
+      same group/function and organizational structure
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10077551
+    location: Montreal / Ottawa
+    title: Organizational Design and Classification Consultant
 layout: careers
 title: Careers
 permalink: /careers
