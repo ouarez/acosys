@@ -138,7 +138,7 @@ jobs:
       client.
 
 
-      **Key Responsibilities **
+      **Key Responsibilities**
 
 
       * Develop technical architectures, frameworks and strategies, either for
