@@ -44,6 +44,30 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11032519
     location: 'Mississauga, ON, Canada'
     title: VOIP specialist
+  - date: '2018-06-01'
+    desc: >-
+      Acosys Consulting is looking to hire a Proposal Writer.
+
+
+      Your job would include preparing proposals by determining concepts,
+      gathering and formatting information, writing drafts and obtaining
+      approvals.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019805
+    location: 'Montreal, QC, Canada'
+    title: Proposal Writer
+  - date: '2018-06-01'
+    desc: Acosys Consulting is looking to hire a HR Intern for one of our clients.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019379
+    location: 'Toronto, ON, Canada'
+    title: HR Intern
+  - date: '2018-06-09'
+  - date: '2018-06-09'
+  - date: '2018-06-09'
+  - date: '2018-06-09'
+  - date: '2018-06-09'
+  - date: '2018-06-09'
 layout: careers
 title: Careers
 permalink: /careers
