@@ -404,6 +404,199 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10934851
     location: 'Edmonton, Alberta, Canada'
     title: Database Analyst
+  - date: '2018-05-01'
+    desc: >-
+      Acosys Consulting is looking to hire a Process Analyst for its client.
+
+
+      **ESSENTIAL FUNCTIONS:**
+
+
+      The ideal candidate role will work with multiple stakeholders to assess
+      and document current and future state processes, and work closely with
+      teams to successfully roll-out and support monitoring of new processes.
+
+
+      * Understands and documents business processes and workflows
+
+      * Critically evaluates information gathered from multiple sources,
+      reconciles conflicts, decomposes high-level information into details,
+      abstracts up from low-level information to a general understanding, and
+      distinguishes user requests from the underlying true needs
+
+      * Assists business clients, project managers and IT leadership in
+      optimizing the scope, benefits and risks of proposed projects; helps
+      manage expectations of clients and management
+
+      * Defines use cases to articulate new functional software needs and the
+      roles of each class of application user
+
+      * Supports traceability from requirements through to QA; assists in the
+      definition of test plans and testing strategies, and in the creation of
+      test cases
+
+      * Creates and/or reviews manuals, procedures, and related user
+      documentation; ensures documentation is targeted to the appropriate
+      audience
+
+      * Successfully engages in multiple initiatives simultaneously
+
+      * Drives and challenges business units on their assumptions of how they
+      will successfully execute their plans
+
+      * Serves as the conduit between the client community and the software
+      development team through which requirements flow
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10917799
+    location: 'Winnipeg, Manitoba, Canada'
+    title: Business Process Analyst
+  - date: '2018-05-01'
+    desc: >-
+      Acosys Consulting is looking to hire a Change Management Consultant for
+      its client.
+
+
+      **ESSENTIAL FUNCTIONS:**
+
+
+      * Research: conduct audience analysis, org impact assessments, and change
+      readiness audits;
+
+      * Strategy: recommend overall approach by role along with work plans and
+      estimates;
+
+      * Develop and coordinates the change management plan, including activities
+      supporting or strengthening such aspects as commitment, communication,
+      organizational 
+
+      * Play an advisory role with the managers involved in the changes taking
+      place
+
+      * Present strategies and action plans to various levels of committees to
+      ensure proper alignment and adhesion.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10917427
+    location: 'Winnipeg, Manitoba, Canada'
+    title: Change Management Consultant
+  - date: '2018-04-19'
+    desc: >-
+      Acosys Consulting is looking to hire a Senior Business Analyst for its
+      client.
+
+
+      **Description:**
+
+
+      Our client is actively looking to hire a Senior Business Analyst with a
+      focus in Microsoft Dynamics AX 2012. 
+
+
+      The successful candidate will analyze the system processes and data in
+      response to business initiatives to help drive higher productivity and
+      streamlined activities and events. 
+
+
+      The analyst will be responsible for working closely with end users in the
+      various offices across Canada to support and analyzing their business
+      needs. 
+
+
+      The analyst must be effective at identifying areas of possible change,
+      defining requirements, and working to improve the overall benefit of the
+      Dynamics AX system
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10890190
+    location: 'Mississauga, ON, Canada'
+    title: Business Analyst-Microsoft Dynamics AX
+  - date: '2018-06-09'
+    desc: >-
+      **CONTRACT PERIOD:** As soon as possible - March 31, 2019
+
+
+      ** LANGUAGE:** Bilingual (French-English)
+
+
+      Acosys is seeking the services of a Web Developer to develop Business
+      intelligence (BI) solutions to be used to support community,
+      administrative and health program delivery activities and decision making
+      processes. The Web Developer will be responsible for providing the
+      following services: 
+
+
+      * Develop and prepare diagrammatic plans for web based service delivery
+      over the internet;
+
+      * Analyze the problems outlined by systems analysts/designers in terms of
+      such factors as style and extent of information to be transferred across
+      the internet;
+
+      * Design, creation and maintenance of SharePoint sites as well as
+      test/staging environments;
+
+      * Interpret the business requirements into a functional design;
+
+      * Provide input to the Data Modeller for the development of a new delivery
+      platform with SQL 2012 Business Intelligence as the back-end and MS
+      SharePoint for the user experience;
+
+      * Select and use the best available web development tools for linking the
+      internet based client to the Health Canada “back end” information delivery
+      programs and databases;
+
+      * Design high-usability web pages to meet the identified requirements;
+
+      * Verify accuracy and completeness of programs by preparing sample data,
+      and testing them by means of system acceptance test runs made by operating
+      personnel;
+
+      * Correct program errors by revising instructions or altering the sequence
+      of operations;
+
+      * Test instructions, and assemble specifications, flow charts, diagrams,
+      layouts, programming and operating instructions to document applications
+      for later modification or reference;
+
+      * Create web pages including graphic design;
+
+      * Develop and implement usability tests, analyses result and modify design
+      accordingly;
+
+      * Develop flowcharts (web site flow maps) depicting navigation and
+      content;
+
+      * Develop line drawings or block diagrams illustrating the priority of
+      information, links, navigation and space requirements;
+
+      * Develop content diagrams showing the interactive connection between
+      pages;
+
+      * Develop interactive prototypes showing basic form and functionality used
+      for both usability testing and presentations;
+
+
+      Work will be required in the following environments:
+
+
+      * MS SQL
+
+      * SQL Server
+
+      * MS SharePoint
+
+      * MS SQL Reporting Server
+
+      * MS SQL Integration Services
+
+      * Visual Studio 2012
+
+      * PHP
+
+      * Java
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=9872479
+    location: 'Montreal, QC'
+    title: Web Developer (SHAREPOINT)
+  - date: '2018-06-09'
 layout: careers
 title: Careers
 permalink: /careers
