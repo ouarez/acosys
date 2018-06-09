@@ -301,9 +301,91 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982512
     location: 'Ottawa, ON, Canada'
     title: Business Transformation Architect
-  - date: '2018-06-09'
-  - date: '2018-06-09'
-  - date: '2018-06-09'
+  - date: '2018-05-22'
+    desc: Acosys Consulting is looking to hire a Project Leader for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10982488
+    location: 'Ottawa, ON, Canada'
+    title: Project Leader
+  - date: '2018-05-18'
+    desc: >-
+      Acosys Consulting is looking to hire a SQL Database Administrator for its
+      client.
+
+
+      **Description:**
+
+
+      Our client is actively looking for a Database Administrator (DBA) who will
+      work closely with Business stakeholders, Project Managers and Sr. IS
+      Management to understand processes and business requirements and translate
+      them into database technology solutions and oversee their implementation
+      and maintenance.
+
+
+      The Sr. SQL DBA will require an individual who thinks outside of the box,
+      to create and analyze solutions based on business value while maintaining
+      best design/development practices, architectural policies, procedures and
+      guidelines throughout the project lifecycle.
+
+
+      Furthermore, the DBA acts as a subject matter expert in Database
+      Administration, has the ability to perform end-to-end impact analysis of
+      source system changes, capacity planning, performance tuning and
+      troubleshooting.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10975759
+    location: 'Mississauga, ON, Canada'
+    title: SQL Database Administrator
+  - date: '2018-05-14'
+    desc: >-
+      Acosys Consulting is looking to hire a Bilingual Help Desk Analyst-Level 1
+      and 2 for its client. 
+
+
+      **Key Responsibilities:**
+
+
+      * Monitor, investigate, answer and log internal application issues and
+      service requests
+
+      * Impart business knowledge to assist and support client’s internal
+      customers on day-to-day system issues
+
+      * Maintain incident management ticket queues and adhere to SLA’s by
+      setting priorities and resolving technical issues
+
+      * Work with internal service providers to identify and resolve
+      system-related issues
+
+      * Triage end user support issues and actively work with other teams within
+      the Information Systems team to resolve in a timely manner
+
+      * Develop and maintain documentation relating to the support process and
+      procedures within the IS department
+
+      * Record, update and track all User ID setup requests for internal
+      software application: modifications, terminations, password resets,
+      including QA and external customer requests
+
+      * Review and update process documents and User templates on a regular
+      basis to reflect current information and processes
+
+      * Answer support calls and participate in an afterhours on-call rotation
+      schedule
+
+      * Provide remote assistance to all Express Scripts Canada locations
+
+      * Develop and maintain good working relationships with user community with
+      a focus on providing best-in-class support services
+
+      * Assist with internal communications regarding system-related issues; and
+
+      * Liaise with other internal departments as required.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10946401
+    location: 'Mississauga, ON, Canada'
+    title: Bilingual HelpDesk Analyst
   - date: '2018-06-09'
 layout: careers
 title: Careers
