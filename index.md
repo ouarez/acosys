@@ -7,7 +7,7 @@ description: >-
   Acosys is an Indigenous consulting firm with different ideas. We build
   bridges between private industry, Indigenous communities, and government.
 cover_image: /img/cover3.jpg
-cover_slogan_1: Acosys is a First Nations consulting firm with different ideas.
+cover_slogan_1: Acosys is an Indigenous consulting firm with different ideas.
 cover_slogan_2: >-
   We build bridges between private industry, Indigenous communities, and
   government.

@@ -8,7 +8,7 @@ layout: default
 
   <div class="w-100 pv3">
 
-    {% assign sorted = (page.jobs | sort: 'date') | reverse %}
+    {% assign sorted = page.jobs | sort: 'date' | reverse %}
 
     {{sorted.count}}
 
