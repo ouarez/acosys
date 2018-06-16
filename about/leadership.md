@@ -29,7 +29,7 @@ portrait:
       projects varying in size and scope. He has extensive experience in
       Information Systems and Information Technology (IS/IT) in the
       telecommunications and engineering industries, and with many non-profit
-      Aboriginal organizations.
+      Indigenous organizations.
 
 
       These experiences have enabled Mr. Acco to develop comprehensive
@@ -43,7 +43,7 @@ portrait:
 
 
       She is a co-founder of Acosys Consulting Services Inc., which leverages an
-      entrepreneurial business model to pursue a social mission for Aboriginal
+      entrepreneurial business model to pursue a social mission for Indigenous
       Inclusion and Capacity Building at the professional level. Acosys provides
       professional consulting services, primarily in the three sectors of
       business solutions, technology integration and talent management.
@@ -52,7 +52,7 @@ portrait:
       Julie is fully bilingual, specializes and provides services in talent
       management. She has mainly worked in the private sector, where she
       acquired her experience in HR. She has also worked as a policy analyst for
-      Aboriginal non-governmental organizations.
+      Indigenous non-governmental organizations.
 
 
       Julie’s combined legal and human resources experience has allowed her to
@@ -61,4 +61,3 @@ portrait:
     image: /img/julie.jpg
     name: Julie Lepage
 ---
-

@@ -21,14 +21,14 @@ recommend this program to anyone who desires a lifelong career._"  **\- Erin Mon
 
 ## Network Growth
 
-Aboriginal networks in the business world tend to be smaller than those in the public sector, meaning there’s less opportunity. Acosys’ AIP counters this by nourishing the corporate networks, setting off an upward spiral of inclusion.
+Indigenous networks in the business world tend to be smaller than those in the public sector, meaning there’s less opportunity. Acosys’ AIP counters this by nourishing the corporate networks, setting off an upward spiral of inclusion.
 
 ## Boosting Capacity
 
 Communities learn to capitalize on development plans like Plan Nord, the Ring of Fire, and the Oil
-Sands, no longer just through labour, but at the professional level. This enhances the management of Aboriginal assets, by Aboriginal people.
+Sands, no longer just through labour, but at the professional level. This enhances the management of Indigenous assets, by Indigenous people.
 
 ## Models for Success
 
 Successful Interns become inspirations for others in their communities: confidence blooms, and
-positive perception of Aboriginals is reinforced.
+positive perception of Indigenous people is reinforced.

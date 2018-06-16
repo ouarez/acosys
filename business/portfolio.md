@@ -72,7 +72,7 @@ portfolio:
       Acosys administered, supported, and helped interpret the results of the
       Urban Aboriginal Peoples' Survey (UAPS) in two Canadian urban centres:
       Thunder Bay and Montreal. We introduced an innovative approach of using
-      Aboriginals to administer the survey. Our responsibilities during this
+      Indigenous peoples to administer the survey. Our responsibilities during this
       effort included:
 
 
@@ -83,7 +83,7 @@ portfolio:
       • Coding of results into a database provided by the client
 
 
-      • Interpretation of open-ended responses from an Aboriginal perspective•
+      • Interpretation of open-ended responses from an Indigenous perspective•
       Analysis and report on results to stakeholders
 
 
@@ -102,7 +102,7 @@ portfolio:
 
 
       • Identification and investigation of various target markets, including
-      Aboriginal and mainstream organizations
+      Indigenous and mainstream organizations
 
 
       • Development of an outreach script and development of an online survey
@@ -158,7 +158,7 @@ portfolio:
       Development (DIAND) in three outreach efforts, of similar scope and size,
       for the Federal Government’s Procurement Strategy for Aboriginal
       Businesses; the most recent is cited here. The purpose of PSAB is to build
-      capacity among Canadian Aboriginals by providing set-asides in Federal
+      capacity among Canadian Indigenous peoples by providing set-asides in Federal
       contracts. Our responsibilities during these efforts included:
 
 

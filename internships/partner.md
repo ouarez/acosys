@@ -7,15 +7,15 @@ description: >-
 cover_image: /img/cover3.jpg
 ---
 
-**Be a leader in Aboriginal professional development.**
+**Be a leader in Indigenous professional development.**
 
 Become a partner in the Acosys Aboriginal Internship Program (AIP).
 
-A subsidized Aboriginal resource provides a low-risk path to greater workforce inclusiveness. This
-ignites your Aboriginal network growth, sets off an upward spiral of inclusion, and helps you meet
+A subsidized Indigenous resource provides a low-risk path to greater workforce inclusiveness. This
+ignites your Indigenous network growth, sets off an upward spiral of inclusion, and helps you meet
 reporting goals.
 
-There are several additional reasons to consider taking on an Aboriginal intern:
+There are several additional reasons to consider taking on an Indigenous intern:
 
 - Education: Our education partners provide our interns with discounted coursework in business
 analysis, project management, and human resources.

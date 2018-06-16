@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="container pa4 flex flex-wrap">
+
+  {{content}}
+
+  <div class="w-100 pv3">
+
+    <form name="contact" data-netlify="true" class="w-100">
+
+      <div class="w-100 w-50-l fl mv3 ph3">
+        <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Name*" type="text" name="name" id="name" required>
+        <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Telephone (xxx-xxx-xxxx)" type="tel" name="tel" id="tel" pattern="^\d{3}-\d{3}-\d{4}$">
+        <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Email*" type="email" name="email" id="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+        <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Subject*" type="text" name="subject" id="subject" required>
+        <input class="w-100 pa3 mv2 input-reset ba b--light-gray br2 white f5 pointer" type="submit" value="Send">
+      </div>
+
+      <div class="w-100 w-50-l fl mv3 ph3">
+        <textarea class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 gray f5" placeholder="Message*" name="message" id="message" required></textarea>
+      </div>
+
+    </form>
+
+  </div>
+</div>

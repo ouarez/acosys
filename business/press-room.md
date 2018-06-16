@@ -13,7 +13,7 @@ articles:
 
       After spending the majority of his adult life around software and IT,
       Acco's latest project has been to develop an accounting program intended
-      specifically for aboriginal communities.
+      specifically for Indigenous communities.
 
 
       The result is the Native Economic Management System. It was created by

@@ -15,12 +15,12 @@ of our customers has its own "on the ground" reality.
 
 **Our services include:**
 
-### Aboriginal Talent Management
+### Indigenous Talent Management
 
-Attracting Aboriginal talent requires unique strategies, and even once recruited, your Aboriginal
-resources have unique needs in the workplace. Whether you’re an Aboriginal or non-Aboriginal
+Attracting Indigenous talent requires unique strategies, and even once recruited, your Indigenous
+resources have unique needs in the workplace. Whether you’re an Indigenous or non-Indigenous
 organization, we can help you manage your talent more effectively. We have assisted a number of
-customers in developing a full-cycle HR recruitment and integration strategy targeting Aboriginal
+customers in developing a full-cycle HR recruitment and integration strategy targeting Indigenous
 professionals.
 
 ### Recruitment and Screening

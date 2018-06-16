@@ -34,9 +34,9 @@ implementing, re-aligning, and re-evaluating it at key milestones.
 Defining and refining intelligent business objectives. Performing market research, analysis, and
 outreach, even into hard-to-reach markets. We can identify for you who to pursue.
 
-### Aboriginal Relations
+### Indigenous Relations
 
-You want to do business with the Aboriginal community, but you need help making the right
-connections. You want to make your workforce more aware of Aboriginal cultures, but you don’t know
+You want to do business with the Indigenous community, but you need help making the right
+connections. You want to make your workforce more aware of Indigenous cultures, but you don’t know
 where to begin. Acosys has assisted many clients achieve success in these areas, and we can do the
 same for you.

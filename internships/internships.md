@@ -3,12 +3,12 @@ title: Internships
 layout: page
 permalink: /internships
 description: >-
-  Training, mentoring and employment. Acosys is committed to providing these things to all Aboriginal people who have a desire to work in the field of business consulting.
+  Training, mentoring and employment. Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting.
 cover_image: /img/cover3.jpg
 ---
 ## Training, mentoring and employment
 
-Acosys is committed to providing these things to all Aboriginal people who have a desire to work in the
+Acosys is committed to providing these things to all Indigenous people who have a desire to work in the
 field of business consulting. Our Aboriginal Internship Program (AIP) helps make that happen. These
 internships provide candidates with the skills and experience necessary to become in-demand professionals.
 
