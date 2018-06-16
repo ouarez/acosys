@@ -1,15 +1,15 @@
 ---
 layout: home
 title: >-
-  Acosys - First Nations consulting firm - business solutions, technology
+  Acosys - Indigenous consulting firm - business solutions, technology
   integration, and talent management
 description: >-
-  Acosys is a First Nations consulting firm with different ideas. We build
-  bridges between private industry, Aboriginal communities, and government.
+  Acosys is an Indigenous consulting firm with different ideas. We build
+  bridges between private industry, Indigenous communities, and government.
 cover_image: /img/cover3.jpg
 cover_slogan_1: Acosys is a First Nations consulting firm with different ideas.
 cover_slogan_2: >-
-  We build bridges between private industry, Aboriginal communities, and
+  We build bridges between private industry, Indigenous communities, and
   government.
 intro_text: >-
   ## Expertise in business solutions, technology integration, and talent
@@ -22,7 +22,7 @@ intro_text: >-
 
 
   While we wish to be recognized on the strength of our expertise and consistent
-  delivery, we are also proud to be an Aboriginal company.
+  delivery, we are also proud to be an Indigenous company.
 intro_images:
   - intro_image: /img/camsc.jpg
     intro_image_title: CAMSC Certified Supplier
@@ -52,4 +52,3 @@ intro_services:
       and help the candidates ready themselves for the client’s business.
     intro_services_title: TALENT MANAGEMENT
 ---
-
