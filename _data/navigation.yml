@@ -8,6 +8,8 @@ nav:
         url: /about/leadership
       - title: Social Responsibility
         url: /about/social-responsibility
+      - title: Our Mission
+        url: /about/mission
   - title: Services
     url: /services
     subnav:
