@@ -13,7 +13,7 @@ text_1: >-
 
   ## Government Clients
 
-  We are qualified suppliers within the federal Tasks and Solutions Professional
+  We are [qualified suppliers](/services/federal-government-clients) within the federal Tasks and Solutions Professional
   Services (TSPS) procurement vehicle, holding both a Supply Arrangement and a
   Standing Offer. In addition, we are qualified both as a standard supplier and
   as an Aboriginal supplier through the Procurement Strategy for Aboriginal
@@ -69,4 +69,3 @@ text_2: >-
 
   * Information and Communications Technology
 ---
-

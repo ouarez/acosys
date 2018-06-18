@@ -7,7 +7,7 @@ cover_image: /img/cover3.jpg
 ---
 **We know our Internships work.**
 
-Twelve success stories to date, and counting.
+We have many success stories and many more to come.
 
 The AIP’s first graduate began in 2009 and graduated in 2010. While at Acosys she performed project work with Acosys senior consultants and achieved a certificate in Business Analyst Masters Certificate from the Schulich School of Business; today she works as a Business Analyst at a major company, a position she secured on her own merits and independently. To quote her, the AIP is “a bridge that provided the skills, experience, and confidence to move me from NGOs into the private sector.” She credits our AIP with jump starting her professional career.
 

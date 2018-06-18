@@ -36,9 +36,15 @@ layout: default
   <div class="services w-100 flex flex-wrap tc pa4">
     {% for item in page.intro_services %}
     <div class="w-100 w-33-l mv3 ph3">
-      <i class="fas fa-{{item.intro_services_icon}} w-100 db pv4"></i>
-      <span class="db f3 pv3 ph2">{{item.intro_services_title}}</span>
-      <p class="gray">{{item.intro_services_text}}</p>
+      <i class="fas fa-{{item.icon}} icon w-100 db pv4"></i>
+      <span class="db f3 pv3 ph2">{{item.title}}</span>
+      <p class="db gray">{{item.text}}</p>
+      <a href="{{item.link_url}}" class="link white">
+        <span class="db f5 pv3 ph2 br4 bg-blue white b w-80 w-60-l ml-auto mr-auto">
+          {{item.link_text}}
+          <i class="fas fa-caret-right ml2"></i>
+        </span>
+      </a>
     </div>
     {% endfor %}
   </div>

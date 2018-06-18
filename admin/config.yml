@@ -35,9 +35,9 @@ collections:
             widget: list
             required: false
             fields:
-              - {label: Icon, name: intro_services_icon, widget: string}
-              - {label: Title, name: intro_services_title, widget: string}
-              - {label: Text, name: intro_services_text, widget: text}
+              - {label: Icon, name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: text}
       - name: "careers"
         file: "careers.md"
         label: "Edit Careers Page"

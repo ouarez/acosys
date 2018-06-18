@@ -35,6 +35,11 @@ body {
 .blue {color:$blue;}
 .green {color:$green;}
 
+.link {
+  text-decoration:none;
+  &:hover {text-decoration: underline;}
+}
+
 // typography
 
    h1,h2 {
@@ -180,11 +185,11 @@ header {
 
 .services {
   div {
-    i {
+    i.icon {
       color:#ccc;
       font-size:6em;
     }
-    span {color:#333}
+    p {min-height:150px;}
   }
 }
 

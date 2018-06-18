@@ -31,24 +31,30 @@ intro_images:
   - intro_image: /img/ccab.png
     intro_image_title: Certified Aboriginal Business
 intro_services:
-  - intro_services_icon: lightbulb
-    intro_services_text: >-
+  - icon: lightbulb
+    text: >-
       Effective management demands continuous improvement, especially in today's
       business world, where change is constant. You may need unique expertise:
       that’s what we’re here for.
-    intro_services_title: BUSINESS SOLUTIONS
-  - intro_services_icon: cog
-    intro_services_text: >-
+    title: BUSINESS SOLUTIONS
+    link_url: /services/business-solutions
+    link_text: LEARN MORE
+  - icon: cog
+    text: >-
       You need the best infrastructure you can get. When it comes to a
 
       tight delivery, so much can depend on a seamless, up-to-date combination
       of software and hardware that responds directly to your needs.
-    intro_services_title: TECHNOLOGY INTEGRATION
-  - intro_services_icon: handshake
-    intro_services_text: >-
+    title: TECHNOLOGY INTEGRATION
+    link_url: /services/technology-integration
+    link_text: LEARN MORE
+  - icon: handshake
+    text: >-
       We help our clients from recruitment, to retention, to policy advice.
 
       We also help both their business units and recruiters engage resources,
       and help the candidates ready themselves for the client’s business.
-    intro_services_title: TALENT MANAGEMENT
+    title: TALENT MANAGEMENT
+    link_url: /services/talent-management
+    link_text: LEARN MORE
 ---
