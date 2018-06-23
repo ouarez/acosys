@@ -1,4 +1,4 @@
-nav:
+main_nav:
   - title: About
     url: /about
     subnav:
