@@ -8,7 +8,7 @@ media_folder: "img"
 collections:
   - name: "pages"
     folder: "pages"
-    label: "New Page"
+    label: "Custom Page"
     create: true
     fields:
         - {label: "Title", name: "title", widget: "string"}
