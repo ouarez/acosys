@@ -7,6 +7,18 @@ media_folder: "img"
 
 collections:
 
+  - name: "pages"
+      folder: "pages"
+      label: "New Page"
+      create: true
+      fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget" "string" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+
   - name: "unique-pages"
     label: "Unique Pages"
     delete: false # Prevent users from deleting documents in this collection
@@ -52,7 +64,6 @@ collections:
               - {label: Location, name: location, widget: string}
               - {label: Link, name: link, widget: string}
               - {label: Description, name: desc, widget: markdown}
-
           - {label: "Layout", name: "layout", widget: "hidden", default: "careers"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/careers" }
