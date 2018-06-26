@@ -409,6 +409,17 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11059310
     location: 'Mississauga, ON'
     title: Bilingual Executive Assistant
+  - date: '2018-06-26'
+    desc: >-
+      Acosys Consulting is looking to hire a Release and Change Management
+      Coordinator for its client.
+
+
+      Its a 6 months long contract with a possibility of extension.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11085002
+    location: Mississauga
+    title: Release and Change Management Coordinator
 layout: careers
 title: Careers
 permalink: /careers
