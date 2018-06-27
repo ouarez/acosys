@@ -420,6 +420,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11085002
     location: Mississauga
     title: Release and Change Management Coordinator
+  - date: '2018-03-08'
+    desc: >-
+      Acosys Consulting is seeking a Professional and Technical Talent Recruiter
+      to work in our office in Montreal.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10566535
+    location: Montreal
+    title: Technical Recruiter
 layout: careers
 title: Careers
 permalink: /careers
