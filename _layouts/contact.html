@@ -21,7 +21,9 @@ layout: default
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Phone Number" type="tel" name="tel" id="tel" pattern="^\d{3}-\d{3}-\d{4}$">
         <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required>
           <option value="" disabled selected>Subject*</option>
-          <option value="hurr">Durr</option>
+          {% for item in page.subjects %}
+          <option value="{{item.subject}}">{{item.subject}}</option>
+          {% endfor %}
         </select>
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray br2 white f5 pointer" type="submit" value="Send">
       </div>
