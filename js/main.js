@@ -4,6 +4,12 @@ $(function() {
     $(".mobile-nav").toggle();
   });
 
+  $(".icon").hover(function() {
+    $(this).toggleClass("bg-light-gray");
+    $(this).toggleClass("bg-blue");
+    $(this).children(".fas").toggleClass("blue");
+  });
+
   $('div.slider').click(function () {
     $('.hidden').slideUp();
       if($(this).next('.hidden').is(':hidden')) {

@@ -10,8 +10,6 @@ layout: default
 
     {% assign sorted = page.jobs | sort: 'date' | reverse %}
 
-    {{sorted.count}}
-
     {% for item in sorted %}
 
       <div>

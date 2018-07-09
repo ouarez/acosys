@@ -9,8 +9,8 @@
       <nav class="main-nav w-80 dn dib-l tr">
         {% for item in site.data.navigation.main_nav %}
           {% if item.subnav %}
-          <div class="dropdown-nav">
-            <a href="{{item.url}}" class="mr4">{{item.title}}<i class="fa fa-angle-down ml2"></i></a>
+          <div class="dropdown-nav mr4">
+            <a href="{{item.url}}">{{item.title}}<i class="fa fa-angle-down ml2"></i></a>
             <ul>
               {% for entry in item.subnav %}
                 <li class="{% if entry.url == page.url %}active{% endif %}"><a href="{{entry.url}}">{{entry.title}}</a></li>
