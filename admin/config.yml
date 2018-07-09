@@ -79,6 +79,12 @@ collections:
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - {label: "Content", name: "body", widget: "markdown"}
+          - label: Email Subject
+            name: subjects
+            widget: list
+            required: false
+            fields:
+              - {label: Subject, name: subject, widget: string}
           - {label: "Contact Info", name: "contact_info", widget: "markdown"}
           - {label: "Latitude (Map)", name: "map_lat", widget: "string"}
           - {label: "Longitude (Map)", name: "map_long", widget: "string"}

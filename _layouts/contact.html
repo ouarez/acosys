@@ -19,7 +19,10 @@ layout: default
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Email*" type="email" name="email" id="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Organization" type="text" name="name" id="name">
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Phone Number" type="tel" name="tel" id="tel" pattern="^\d{3}-\d{3}-\d{4}$">
-        <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Subject*" type="text" name="subject" id="subject" required>
+        <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required>
+          <option value="" disabled selected>Subject*</option>
+          <option value="hurr">Durr</option>
+        </select>
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray br2 white f5 pointer" type="submit" value="Send">
       </div>
 
@@ -34,9 +37,11 @@ layout: default
   <div class="w-100 w-30-l f5">
     <h4>Montreal (Head Office)</h4>
     <p>{{site.data.settings.site_address_1}}<br/>{{site.data.settings.site_address_2}}</p>
-    <span><i class="fas fa-phone dark-gray mr3"></i>{{site.data.settings.site_tel}}</span>
+    <span><i class="fas fa-phone dark-gray mr2"></i>{{site.data.settings.site_tel}}</span>
     <br/>
-    <span><i class="fas fa-at dark-gray mr3"></i>{{site.data.settings.site_email}}</span>
+    <span><i class="fas fa-at dark-gray mr2"></i>{{site.data.settings.site_email}}</span>
+    <br/>
+    {{page.contact_info | markdownify}}
   </div>
 
   <div class="w-100 w-70-l mv3" id="map"></div> <!-- map -->
