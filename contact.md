@@ -7,7 +7,7 @@ cover_image: /img/cover3.jpg
 contact_info: |-
   **Business hours:**
 
-  Monday to Friday\
+  Monday to Friday  
   from 9:00 a.m. to 5:00 p.m. (Eastern Time)
 map_lat: '45.496466'
 map_long: '-73.6772346'
