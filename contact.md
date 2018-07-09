@@ -10,6 +10,14 @@ subjects:
   - subject: General Inquiry
   - subject: Other
 contact_info: |-
+  ****Montreal (Head Office)****
+
+  {{site.data.settings.site_address_1}}
+  {{site.data.settings.site_address_2}}
+
+  <i class="fas fa-phone dark-gray mr2"></i>{{site.data.settings.site_tel}}
+  <i class="fas fa-at dark-gray mr2"></i>{{site.data.settings.site_email}}
+
   **Business hours:**
 
   Monday to Friday  
