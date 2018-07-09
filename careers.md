@@ -428,6 +428,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10566535
     location: Montreal
     title: Technical Recruiter
+  - date: '2018-07-06'
+    desc: >-
+      Acosys Consulting is looking to hire a Agile Delivery Manager for its
+      client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11121815
+    location: Mississauga
+    title: Agile Delivery Manager
 layout: careers
 title: Careers
 permalink: /careers
