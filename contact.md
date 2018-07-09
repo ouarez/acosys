@@ -1,14 +1,18 @@
 ---
-title: Contact
 layout: contact
+title: Contact
 permalink: /contact
-description: >-
-  You can reach us here through our contact form.
+description: You can reach us here through our contact form.
 cover_image: /img/cover3.jpg
+contact_info: |-
+  **Business hours:**
+
+  Monday to Friday
+
+  from 9:00 a.m. to 5:00 p.m. (Eastern Time)
 map_lat: '45.496466'
 map_long: '-73.6772346'
 map_zoom: '13'
-
 ---
 ### Get in touch with us
 
