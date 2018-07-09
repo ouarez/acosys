@@ -12,9 +12,9 @@ cover_image: /img/cover2.jpg
 
 We are qualified suppliers with the following federal government vehicles:
 
-\    [Tasks and Solutions Professional Services (TSPS)](http://www.tpsgc-pwgsc.gc.ca/app-acq/spc-cps/spcts-tsps-eng.html)
-
-\    [ProServices](https://www.tpsgc-pwgsc.gc.ca/app-acq/sp-ps/index-eng.html)
+- Tasks and Solutions Professional Services (TSPS)
+- ProServices
+- Task-Based Informatics Professional Services (TBIPS)
 
 In the TSPS procurement vehicle, we hold both a Supply Arrangement and a Standing Offer. We are qualified both as a standard supplier and as an Aboriginal supplier through the Procurement Strategy for Aboriginal Businesses (PSAB), which opens additional avenues of procurement for our government clients.
 
