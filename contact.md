@@ -4,6 +4,11 @@ title: Contact
 permalink: /contact
 description: You can reach us here through our contact form.
 cover_image: /img/cover3.jpg
+subjects:
+  - subject: Internships
+  - subject: Careers
+  - subject: General Inquiry
+  - subject: Other
 contact_info: |-
   **Business hours:**
 
