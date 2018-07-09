@@ -12,11 +12,11 @@ subjects:
 contact_info: |-
   ****Montreal (Head Office)****
 
-  {{site.data.settings.site_address_1}}
-  {{site.data.settings.site_address_2}}
+  Suite 591, 100 Boulevard Alexis-Nihon
+  Saint-Laurent, QC H4M 2P1
 
-  <i class="fas fa-phone dark-gray mr2"></i>{{site.data.settings.site_tel}}
-  <i class="fas fa-at dark-gray mr2"></i>{{site.data.settings.site_email}}
+  <i class="fas fa-phone dark-gray mr2"></i>(514) 744-9433 ext. 118
+  <i class="fas fa-at dark-gray mr2"></i>info@acosysconsulting.com
 
   **Business hours:**
 
