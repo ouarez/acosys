@@ -143,7 +143,6 @@ collections:
 
   - name: "service-pages"
     label: "Service Pages"
-    delete: false # Prevent users from deleting documents in this collection
     files:
       - name: "services"
         file: "services/services.md"
