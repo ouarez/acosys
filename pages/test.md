@@ -1,7 +1,7 @@
 ---
 title: test
 layout: page
-permalink: test
+permalink: /test
 description: test
 cover_image: /img/cover3.jpg
 ---
