@@ -338,12 +338,26 @@ collections:
             widget: list
             required: false
             fields:
-              - {label: Titre, name: title, widget: string}
+              - {label: Title, name: title, widget: string}
               - {label: URL, name: url, widget: string}
               - label: "Sub Navigation"
                 name: subnav
                 widget: list
                 required: false
                 fields:
-                  - {label: Titre, name: title, widget: string}
+                  - {label: Title, name: title, widget: string}
                   - {label: URL, name: url, widget: string}
+          - label: "Footer Quick Links"
+            name: footer_nav
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: URL, name: url, widget: string}
+          - label: "Bottom Navigation"
+            name: bottom_nav
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: URL, name: url, widget: string}
