@@ -1,51 +1,76 @@
-<footer class="bg-black tc pv5">
+<footer class="bg-navy tc pv4 mt4">
 
   <div class="container flex flex-wrap ph3">
 
-    <div class="w-90 w-60-l ml-auto mr-auto pb4">
-      {% if site.data.settings.footer_logo %}
-        <img class="logo" src="{{site.data.settings.site_logo}}" alt="{{site.title}}"/>
-      {% else %}
-        <h2 class="f1 white mv0">{{site.data.settings.site_title}}</h2>
-      {% endif %}
+    <div class="w-100 w-50-l white tl f5 pr5">
+      <h3 class="f3 mv3 b">Who we are</h3>
+      {{site.data.settings.site_desc | markdownify}}
     </div>
 
-    <div class="w-100 social pv4">
+    <div class="w-100 w-25-l white tl">
+      <h3 class="f3 mv3 b">Contact us</h3>
+      <span class="f5 white">{{site.data.settings.site_title}}</span>
+      <br/>
+      {% if site.data.settings.site_address_1 %}
+        <span class="f5 white">{{site.data.settings.site_address_1}}</span>
+      {% endif %}
+      <br/>
+      {% if site.data.settings.site_address_2 %}
+        <span class="f5 white">{{site.data.settings.site_address_2}}</span>
+      {% endif %}
+      <br/><br/>
+      {% if site.data.settings.site_tel %}
+        <i class="fas fa-phone white mr2 f5"></i>
+        <span class="f5 white">{{site.data.settings.site_tel}}</span>
+      {% endif %}
+      <br/>
+      {% if site.data.settings.site_fax %}
+        <i class="fas fa-fax white mr2 f5"></i>
+        <span class="f5 white">{{site.data.settings.site_fax}}</span>
+      {% endif %}
+      <br/><br/>
       {% if site.data.settings.url_facebook %}
-      <a href="{{site.data.settings.url_facebook}}">
-        <img class="dib mr3" src="/img/icons/facebook.png" alt="Facebook"/>
-      </a>
-      {% endif %}
-      {% if site.data.settings.url_twitter %}
-      <a href="{{site.data.settings.url_twitter}}">
-        <img class="dib mr3" src="/img/icons/twitter.png" alt="Twitter"/>
-      </a>
-      {% endif %}
-      {% if site.data.settings.url_instagram %}
-      <a href="{{site.data.settings.url_instagram}}">
-        <img class="dib mr3" src="/img/icons/instagram.png" alt="Instagram"/>
-      </a>
+        <a class="link mr2" href="{{site.data.settings.url_facebook}}">
+        <i class="fab fa-facebook white f3"></i>
+        </a>
       {% endif %}
       {% if site.data.settings.url_linkedin %}
-      <a href="{{site.data.settings.url_linkedin}}">
-        <img class="dib mr3" src="/img/icons/linkedin.png" alt="Linked In"/>
-      </a>
+        <a class="link mr2" href="{{site.data.settings.url_linkedin}}">
+        <i class="fab fa-linkedin white f3"></i>
+        </a>
+      {% endif %}
+      {% if site.data.settings.url_twitter %}
+        <a class="link mr2" href="{{site.data.settings.url_twitter}}">
+        <i class="fab fa-twitter white f3"></i>
+        </a>
+      {% endif %}
+      {% if site.data.settings.url_instagram %}
+        <a class="link mr2" href="{{site.data.settings.url_instagram}}">
+        <i class="fab fa-instagram white f3"></i>
+        </a>
       {% endif %}
     </div>
 
-    <div class="contact w-100 tc pt3 pl4">
+    <div class="w-100 w-25-l white tl pl5">
+      <h3 class="f3 b mv3">Quick Links</h3>
+      {% for item in site.data.navigation.footer_nav %}
+        <a href="{{item.url}}" class="link moon-gray b f5 db pb2">{{item.title}}</a>
+      {% endfor %}
+    </div>
 
-      <img class="relative mr3" src="/img/icons/phone.png" alt="Telephone"/>
-      <span class="white">{{site.data.settings.site_tel}}</span>
-
-      <br/><br/>
-
-      <img class="relative mr3" src="/img/icons/email.png" alt="Email"/>
-      <span class="white">{{site.data.settings.site_email}}</span>
-
-      </div>
-
-
-</div> <!-- end container -->
+  </div> <!-- end container -->
 
 </footer>
+
+<div class="copyright pv3">
+  <div class="container flex flex-wrap ph3">
+
+    <div class="w-100 tl">
+      <span class="f5 moon-gray mr3">&copy; 2018 {{site.data.settings.site_title}}</span>
+      <a class="link f6 moon-gray" href="/privacy-policy">Privacy Policy</a>
+      <span class="f5 moon-gray">—</span>
+      <a class="link f6 moon-gray" href="/terms-of-use">Terms of Use</a>
+    </div>
+
+  </div> <!-- end container -->
+</div>

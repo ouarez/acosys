@@ -195,6 +195,16 @@ collections:
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - {label: "Content", name: "body", widget: "markdown"}
+      - name: "federal-government-clients"
+        file: "services/federal-government-clients.md"
+        label: "Edit Government Clients Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/federal-government-clients" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
 
   - name: "business-pages"
     label: "Business Pages"
@@ -310,6 +320,7 @@ collections:
            - {label: "Website Logo", name: "site_logo", widget: "image"}
            - {label: "Contact Email", name: "site_email", widget: "string", required: false}
            - {label: "Contact Phone Number", name: "site_tel", widget: "string", required: false}
+           - {label: "Contact Fax Number", name: "site_fax", widget: "string", required: false}
            - {label: "Address (Line 1)", name: "site_address_1", widget: "string", required: false}
            - {label: "Address (Line 2)", name: "site_address_2", widget: "string", required: false}
            - {label: "Footer Logo", name: "footer_logo", widget: "image", required: false}

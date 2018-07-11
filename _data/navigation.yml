@@ -47,3 +47,17 @@ main_nav:
     url: /careers
   - title: Contact
     url: /contact
+
+footer_nav:
+  - title: About
+    url: /about
+  - title: Services
+    url: /services
+  - title: Internships
+    url: /internships
+  - title: Business
+    url: /business
+  - title: Careers
+    url: /careers
+  - title: Contact
+    url: /contact
