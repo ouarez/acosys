@@ -68,6 +68,7 @@ jobs:
   title: LATEST JOB OFFERS
 box:
   title: INTERNSHIPS
+  image: /img/internships.jpg
   slogan: TRAINING, MENTORING AND EMPLOYMENT
   text: >-
     Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting. Our Aboriginal Internship Program (AIP) helps make that happen. These internships provide candidates with the skills and experience necessary to become in-demand professionals.
