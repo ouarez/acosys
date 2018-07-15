@@ -30,13 +30,6 @@ collections:
           - {label: "Intro Text 2", name: "text_2", widget: "markdown"}
           - {label: "Intro Link 2", name: "url_2", widget: "string"}
           - {label: "Intro Link Text 2", name: "url_text_2", widget: "string"}
-          - label: Intro Images
-            name: intro_images
-            widget: list
-            required: false
-            fields:
-              - {label: Image, name: intro_image, widget: image}
-              - {label: Title, name: intro_image_title, widget: string}
           - label: Services
             name: intro_services
             widget: list
@@ -45,6 +38,14 @@ collections:
               - {label: Icon, name: icon, widget: string}
               - {label: Title, name: title, widget: string}
               - {label: Text, name: text, widget: text}
+          - label: "Jobs"
+            name: "jobs"
+            widget: "object"
+            fields:
+              - {label: Title, name: jobs_title, widget: string}
+              - {label: "Show Latest Job offers on home page", name: "show_jobs", widget: "boolean", default: true}
+              - {label" "Number of jobs to show (1-10)", name: "number_jobs", widget: "number", default: 3, valueType: "int", min: 1, max:10}
+
       - name: "careers"
         file: "careers.md"
         label: "Edit Careers Page"
