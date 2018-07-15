@@ -39,13 +39,6 @@ text_2: >-
   incubator for Indigenous talent.
 url_2: /business
 url_text_2: Business Insights
-intro_images:
-  - intro_image: /img/camsc.jpg
-    intro_image_title: CAMSC Certified Supplier
-  - intro_image: /img/toronto-board-award-2012.png
-    intro_image_title: Toronto Board of Trade 2012 Award Winner
-  - intro_image: /img/ccab.png
-    intro_image_title: Certified Aboriginal Business
 intro_services:
   - icon: lightbulb
     text: >-
@@ -67,5 +60,8 @@ intro_services:
       We also help both their business units and recruiters engage resources,
       and help the candidates ready themselves for the client’s business.
     title: TALENT MANAGEMENT
+jobs:
+  jobs_title: LATEST JOB OFFERS
+  show_jobs: true
 ---
 
