@@ -61,7 +61,5 @@ intro_services:
       and help the candidates ready themselves for the client’s business.
     title: TALENT MANAGEMENT
 jobs:
-  jobs_title: LATEST JOB OFFERS
-  show_jobs: true
+  title: LATEST JOB OFFERS
 ---
-
