@@ -22,7 +22,14 @@ collections:
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - {label: "Slogan 1", name: "cover_slogan_1", widget: "string"}
           - {label: "Slogan 2", name: "cover_slogan_2", widget: "string"}
-          - {label: "Intro text", name: "intro_text", widget: "markdown"}
+          - {label: "Intro Title 1", name: "title_1", widget: "string"}
+          - {label: "Intro Text 1", name: "text_1", widget: "markdown"}
+          - {label: "Intro Link 1", name: "url_1", widget: "string"}
+          - {label: "Intro Link Text 1", name: "url_text_1", widget: "string"}
+          - {label: "Intro Title 2", name: "title_2", widget: "string"}
+          - {label: "Intro Text 2", name: "text_2", widget: "markdown"}
+          - {label: "Intro Link 2", name: "url_2", widget: "string"}
+          - {label: "Intro Link Text 2", name: "url_text_2", widget: "string"}
           - label: Intro Images
             name: intro_images
             widget: list
