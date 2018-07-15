@@ -38,12 +38,23 @@ collections:
               - {label: Icon, name: icon, widget: string}
               - {label: Title, name: title, widget: string}
               - {label: Text, name: text, widget: text}
+              - {label: Link, name: link, widget: string}
           - label: "Jobs"
             name: "jobs"
             widget: "object"
             fields:
-              - {label: Title, name: jobs_title, widget: string}
+              - {label: Title, name: title, widget: string}
               - {label: "Number of jobs to show (1-10)", name: "amount", widget: "number", default: 3, valueType: "int", min: 1, max:10}
+          - label: "Internship box"
+            name: "box"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Slogan, name: slogan, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Link, name: link, widget: string}
+              - {label: Link Text, name: link_text, widget: string}
 
       - name: "careers"
         file: "careers.md"

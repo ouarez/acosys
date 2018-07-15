@@ -38,7 +38,7 @@ layout: default
       <h2 class="f2 w-100 tc mt5 white b">OUR SERVICES</h2>
       {% for item in page.intro_services %}
       <div class="w-100 w-33-l mv3 ph3">
-        <a href="{{item.link_url}}" class="white">
+        <a href="{{item.link}}" class="white">
           <div class="icon pa4 br-100 bg-light-gray ml-auto mr-auto">
             <i class="fas fa-{{item.icon}} db blue"></i>
           </div>
@@ -98,12 +98,10 @@ layout: default
   <div class="w-100 cover" style="background-image:url('/img/internships.jpg');">
     <div class="shadow pv5">
       <div class="container tc white">
-        <h3 class="f2">INTERNSHIPS</h3>
-        <h4 class="f3">TRAINING, MENTORING AND EMPLOYMENT</h4>
-        <p>
-          Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting. Our Aboriginal Internship Program (AIP) helps make that happen. These internships provide candidates with the skills and experience necessary to become in-demand professionals.
-        </p>
-        <a href="/careers" class="link white bg-blue mt3 dib ph4 pv3 ba br3 f5">Learn more about Internships<i class="fas fa-arrow-right dib pl2 f6"></i></a>
+        <h3 class="f2">{{page.box.title}}</h3>
+        <h4 class="f3">{{page.box.slogan}}</h4>
+        <p>{{page.box.text}}</p>
+        <a href="{{page.box.link}}" class="link white bg-blue mt3 dib ph4 pv3 ba br3 f5">{{page.box.link_text}}<i class="fas fa-arrow-right dib pl2 f6"></i></a>
       </div>
     </div>
 
