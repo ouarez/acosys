@@ -1,0 +1,120 @@
+---
+layout: default
+---
+
+<div class="cover vh-85 w-100 dt tc" style="background-image: url({{page.cover_image}});">
+  <div class="hero w-100 dtc v-mid pv5">
+    <div class="container w-100 w-50-l tc pa3">
+      <h1 class="f2 white ttu mv5 b">{{page.cover_slogan_1}}</h1>
+      <h2 class="f3 white ttu mv5">{{page.cover_slogan_2}}</h2>
+    </div>
+  </div>
+</div>
+
+  <div class="w-100 bg-near-white">
+    <div class="container tc tl-l ph5 pv4 pv5-l flex flex-wrap">
+
+      <div class="w-100 w-50-l f5 pr5-l pb4 pb0-l">
+        <h2 class="mv0 pv3 f3">PROVIDING DIRECTION</h2>
+        <div class="min-height">
+          <p>
+            We opened our doors in 2006, co-founded by David Acco and Julie Lepage. Our history of efficient delivery and satisfied clients has given us a solid foundation, on which we’ve built a reputation for creative and progressive solutions catering to nearly every major industry.
+          </p>
+          <p>
+            While we wish to be recognized on the strength of our expertise and consistent delivery, we are also proud to be an Indigenous company.
+          </p>
+        </div>
+        <a href="/about" class="link white bg-blue mt3 dib ph3 pv2 ba br3">Our company <i class="fas fa-arrow-right dib pl2 f6"></i></a>
+      </div>
+
+      <div class="w-100 w-50-l f5 pl5-l pb4 pb0-l">
+        <h2 class="mv0 pv3 f3">BUILDING BRIDGES</h2>
+        <div class="min-height">
+          <p>
+            We act as the preferred liaison in enabling community, corporate, and government stakeholders to create vital and profitable relationships.
+          </p>
+          <p>
+            This role is complemented by our Aboriginal Internship Program, which brings together government organizations, private sector partners, Indigenous professionals, and even educational institutions, to act together as an incubator for Indigenous talent.
+          </p>
+        </div>
+        <a href="/about" class="link white bg-blue mt3 dib ph3 pv2 ba br3">Business Insights <i class="fas fa-arrow-right dib pl2 f6"></i></a>
+      </div>
+
+    </div>
+  </div>
+
+  <div style="background-image:url('/img/internships.jpg');">
+    <div class="shadow services w-100 flex flex-wrap tc ph4 pb4">
+      <h2 class="f2 w-100 tc mt5 white b">OUR SERVICES</h2>
+      {% for item in page.intro_services %}
+      <div class="w-100 w-33-l mv3 ph3">
+        <a href="{{item.link_url}}" class="white">
+          <div class="icon pa4 br-100 bg-light-gray ml-auto mr-auto">
+            <i class="fas fa-{{item.icon}} db blue"></i>
+          </div>
+          <span class="db f3 mv3 ph2 white">{{item.title}}</span>
+          <p class="db gray mv3 pb3 f4 white">{{item.text}}</p>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="w-100">
+    <div class="container tl ph3 ph5-l pv3 pv5-l flex flex-wrap">
+
+      <h3 class="w-100 tc tl-l mv0 pb5">LATEST JOB OFFERS</h2>
+
+        {% assign careers = site.pages | where: 'layout','careers' %}
+
+        {% for item in careers %}
+
+          {% assign sorted = item.jobs | sort: 'date' | reverse %}
+
+          {% for job in sorted limit:3 %}
+
+            <div class="w-100 bg-near-white br3 ph4 pv3 mb3 flex flex-wrap items-center pointer slider">
+              <div class="w-100 flex pb3">
+                <span class="f4 b w-90">{{job.title}}</span>
+                <i class="fas fa-angle-down mt1 ml2 f3 w-10 tr"></i>
+              </div>
+              <div class="w-100 pb1">
+                <i class="fas fa-calendar-alt f5 tr mh2"></i>
+                <span class="f5 ml2">{{job.date | date: "%-d %B %Y"}}</span>
+              </div>
+              <div class="w-100 pb1">
+                <i class="fas fa-map-marker-alt f5 tr mh2"></i>
+                <span class="f5 ml2">{{job.location}}</span>
+              </div>
+            </div>
+            <div class="hidden dn ph4">
+              <h3>{{job.title}}</h3>
+              {{job.desc | markdownify}}
+              <a href="{{item.link}}">
+                <button class="pv3 ph5 mt3 mb4 br3 ttu tracked f5 b white pointer bg-blue" type="button">
+                  Consult Job Details <i class="fas fa-angle-right f5 tr mh2"></i>
+                </button>
+              </a>
+            </div>
+
+          {% endfor %}
+        {% endfor %}
+
+      <a href="/careers" class="link white bg-blue mt3 dib ph4 pv3 ba br3">View all opportunities<i class="fas fa-arrow-right dib pl2 f6"></i></a>
+
+    </div>
+  </div>
+
+  <div class="w-100 cover" style="background-image:url('/img/internships.jpg');">
+    <div class="shadow pv5">
+      <div class="container tc white">
+        <h3 class="f2">INTERNSHIPS</h3>
+        <h4 class="f3">TRAINING, MENTORING AND EMPLOYMENT</h4>
+        <p>
+          Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting. Our Aboriginal Internship Program (AIP) helps make that happen. These internships provide candidates with the skills and experience necessary to become in-demand professionals.
+        </p>
+        <a href="/careers" class="link white bg-blue mt3 dib ph4 pv3 ba br3 f5">Learn more about Internships<i class="fas fa-arrow-right dib pl2 f6"></i></a>
+      </div>
+    </div>
+
+  </div>

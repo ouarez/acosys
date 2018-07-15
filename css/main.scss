@@ -55,9 +55,9 @@ body {
      font-weight:$font-weight;
    }
 
-   h1 {font-size:2.5rem;}
-   h2 {font-size:2rem;}
-   h3 {font-size:1.75rem;}
+   h1 {font-size:2.3rem;}
+   h2 {font-size:1.8rem;}
+   h3 {font-size:1.6rem;}
    h4 {font-size:1.25rem;}
    h5 {font-size:1rem;}
    h6 {font-size:0.75rem;}
@@ -86,6 +86,19 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   overflow:hidden;
+}
+
+
+.shadow {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    );
+}
+
+.vh-85 {
+    height: 85vh;
 }
 
 header {
@@ -183,16 +196,22 @@ header {
   img {height:200px;}
 }
 
-.services {
-  div {
-    i.icon {
-      color:#ccc;
-      font-size:6em;
-    }
-    p {min-height:150px;}
-  }
+.min-height {
+  min-height:200px;
 }
 
+.services {
+  a {text-decoration:none;}
+  div {
+    div.icon {
+      width:140px;
+      i {
+        font-size:60px;
+        width:80px;
+      }
+    }
+  }
+}
 
 textarea {
   height:428px;
