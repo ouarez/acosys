@@ -127,6 +127,7 @@ collections:
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/leadership" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
           - label: Portraits
             name: portrait
             widget: list
@@ -145,6 +146,24 @@ collections:
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
           - {label: "Content", name: "body", widget: "markdown"}
+      - name: "mission"
+        file: "about/mission.md"
+        label: "Edit Mission Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "leadership"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/mission" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: Brand
+            name: brand
+            widget: object
+            required: false
+            fields:
+              - {label: Name, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Text, name: text, widget: markdown}
 
   - name: "service-pages"
     label: "Service Pages"

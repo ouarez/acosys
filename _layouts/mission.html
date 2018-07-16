@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="container pa4">
+
+  {{content}}
+
+  <h3>{{page.brand.title}}</h3>
+
+  <div class="w-100 flex flex-wrap">
+    <div class="w-100 w-20-l dib tc">
+      <img src="{{page.brand.image}}" alt="Acosys Brand"/>
+    </div>
+    <div class="w-100 w-70-l dib">
+      {{page.brand.text | markdownify}}
+    </div>
+  </div>
+
+</div>
