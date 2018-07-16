@@ -354,6 +354,7 @@ collections:
          fields:
            - {label: "Website Title", name: "site_title", widget: "string"}
            - {label: "Website Logo", name: "site_logo", widget: "image"}
+           - {label: "Website Description", name: "site_desc", widget: "text"}
            - {label: "Contact Email", name: "site_email", widget: "string", required: false}
            - {label: "Contact Phone Number", name: "site_tel", widget: "string", required: false}
            - {label: "Contact Fax Number", name: "site_fax", widget: "string", required: false}
