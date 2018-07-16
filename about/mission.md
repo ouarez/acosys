@@ -1,6 +1,6 @@
 ---
 title: Our Mission
-layout: page
+layout: mission
 permalink: /about/mission
 description: >-
   To provide direction to our customers, through professional, timely and value-based consulting services
