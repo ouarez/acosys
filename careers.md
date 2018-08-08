@@ -295,7 +295,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11201057
     location: 'Mississauga, ON'
     title: Technical Writer
-  - date: '2018-08-08'
 layout: careers
 title: Careers
 permalink: /careers
