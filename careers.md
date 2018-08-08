@@ -15,35 +15,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11037662
     location: 'Mississauga, ON'
     title: Part time Security Analyst
-  - date: '2018-06-08'
-    desc: >-
-      Acosys Consulting is looking to hire a HR Consultant for one of our
-      federal government clients.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11037096
-    location: 'Gatineau, QC, Canada'
-    title: HR Consultant
-  - date: '2018-06-06'
-    desc: >-
-      Technology Services provides core information technology services to our
-      clients across Canada departments. It provides underlying hardware,
-      software, and network infrastructure and enterprise services in order to
-      keep the organization running.
-
-       
-
-      Our client seeks to hire a Network/VOIP Specialist who will be reporting
-      to the Sr. Manager of Production Operations. As a key member of the
-      Production Operations team, the successful candidate is responsible for
-      the availability, reliability and support of the core network and voice
-      systems based on current routing, switching, security and management
-      technologies. The Network/VOIP Specialist advises and assists System
-      Development and Infrastructure, the customers and providers with the
-      maintenance of the systems in the production infrastructure.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11032519
-    location: 'Mississauga, ON, Canada'
-    title: VOIP specialist
   - date: '2018-06-01'
     desc: >-
       Acosys Consulting is looking to hire a Proposal Writer.
@@ -81,102 +52,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10997092
     location: 'Mississauga, ON, Canada'
     title: Project Coordinator
-  - date: '2018-05-28'
-    desc: >-
-      Acosys Consulting is looking to hire an Aircraft Project Scheduler for its
-      client.
-
-
-      **Key Responsibilities:**
-
-
-      To ensure all aspects of the database operations are effective, efficient
-      and adhere to all applicable laws and regulations. This includes the
-      organization, coordination and data analysis of the client’s integrated
-      Database.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10997050
-    location: 'Ottawa, ON, Canada'
-    title: Aircraft Project Scheduler
-  - date: '2018-06-04'
-    desc: >-
-      Acosys Consulting is looking to hire a SQL Database Administrator for its
-      client.
-
-
-      **Description:**
-
-
-      Our client is actively looking for a Database Administrator (DBA) who will
-      work closely with Business stakeholders, Project Managers and Sr. IS
-      Management to understand processes and business requirements and translate
-      them into database technology solutions and oversee their implementation
-      and maintenance.
-
-
-      The Sr. SQL DBA will require an individual who thinks outside of the box,
-      to create and analyze solutions based on business value while maintaining
-      best design/development practices, architectural policies, procedures and
-      guidelines throughout the project lifecycle.
-
-
-      Furthermore, the DBA acts as a subject matter expert in Database
-      Administration, has the ability to perform end-to-end impact analysis of
-      source system changes, capacity planning, performance tuning and
-      troubleshooting.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10975759
-    location: 'Mississauga, ON, Canada'
-    title: SQL Database Administrator
-  - date: '2018-06-02'
-    desc: >-
-      Acosys Consulting is looking to hire a Bilingual Help Desk Analyst-Level 1
-      and 2 for its client. 
-
-
-      **Key Responsibilities:**
-
-
-      * Monitor, investigate, answer and log internal application issues and
-      service requests
-
-      * Impart business knowledge to assist and support client’s internal
-      customers on day-to-day system issues
-
-      * Maintain incident management ticket queues and adhere to SLA’s by
-      setting priorities and resolving technical issues
-
-      * Work with internal service providers to identify and resolve
-      system-related issues
-
-      * Triage end user support issues and actively work with other teams within
-      the Information Systems team to resolve in a timely manner
-
-      * Develop and maintain documentation relating to the support process and
-      procedures within the IS department
-
-      * Record, update and track all User ID setup requests for internal
-      software application: modifications, terminations, password resets,
-      including QA and external customer requests
-
-      * Review and update process documents and User templates on a regular
-      basis to reflect current information and processes
-
-      * Answer support calls and participate in an afterhours on-call rotation
-      schedule
-
-      * Provide remote assistance to all Express Scripts Canada locations
-
-      * Develop and maintain good working relationships with user community with
-      a focus on providing best-in-class support services
-
-      * Assist with internal communications regarding system-related issues; and
-
-      * Liaise with other internal departments as required.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10946401
-    location: 'Mississauga, ON, Canada'
-    title: Bilingual HelpDesk Analyst
   - date: '2018-06-05'
     desc: >-
       Acosys is seeking the services of a Database Analyst on behalf of a
@@ -403,23 +278,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10077551
     location: Montreal / Ottawa
     title: Organizational Design and Classification Consultant
-  - date: '2018-06-15'
-    desc: "Acosys Consulting is looking to hire a Bilingual Executive Assistant for its client:\r\n\nOur client is actively looking for an Executive Assistant (Bilingual in French and English) to provide administrative support to their Executive Team. This position will be assisting with special projects and other administrative responsibilities as assigned."
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11059310
-    location: 'Mississauga, ON'
-    title: Bilingual Executive Assistant
-  - date: '2018-06-26'
-    desc: >-
-      Acosys Consulting is looking to hire a Release and Change Management
-      Coordinator for its client.
-
-
-      Its a 6 months long contract with a possibility of extension.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11085002
-    location: Mississauga
-    title: Release and Change Management Coordinator
   - date: '2018-03-08'
     desc: >-
       Acosys Consulting is seeking a Professional and Technical Talent Recruiter
@@ -428,14 +286,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10566535
     location: Montreal
     title: Technical Recruiter
-  - date: '2018-07-06'
-    desc: >-
-      Acosys Consulting is looking to hire a Agile Delivery Manager for its
-      client.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11121815
-    location: Mississauga
-    title: Agile Delivery Manager
 layout: careers
 title: Careers
 permalink: /careers
