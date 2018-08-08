@@ -286,6 +286,17 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10566535
     location: Montreal
     title: Technical Recruiter
+  - date: '2018-07-24'
+    desc: >-
+      Acosys Consulting is looking to hire a Technical Writer for its client.
+      Our client is looking for a dynamic and self-motivated Technical Writer to
+      work within the Technical Writing Services Team.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11201057
+    location: 'Mississauga, ON'
+    title: Technical Writer
+  - date: '2018-08-08'
+  - date: '2018-08-08'
 layout: careers
 title: Careers
 permalink: /careers
