@@ -296,7 +296,6 @@ jobs:
     location: 'Mississauga, ON'
     title: Technical Writer
   - date: '2018-08-08'
-  - date: '2018-08-08'
 layout: careers
 title: Careers
 permalink: /careers
