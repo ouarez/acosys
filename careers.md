@@ -295,6 +295,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11201057
     location: 'Mississauga, ON'
     title: Technical Writer
+  - date: '2018-06-15'
+    desc: "Acosys Consulting is looking to hire a Bilingual Executive Assistant for its client:\r\n\nOur client is actively looking for an Executive Assistant (Bilingual in French and English) to provide administrative support to their Executive Team."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11059310
+    location: 'Mississauga, ON'
+    title: Bilingual Executive Assistant
 layout: careers
 title: Careers
 permalink: /careers
