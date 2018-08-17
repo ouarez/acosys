@@ -67,6 +67,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278217
     location: 'Montreal, QC'
     title: Web Developer-Sharepoint
+  - date: '2018-08-17'
 layout: careers
 title: Careers
 permalink: /careers
