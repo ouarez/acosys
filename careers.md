@@ -91,6 +91,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11127545
     location: 'Mississauga, ON'
     title: Senior Security Analyst
+  - date: '2018-08-17'
+    desc: Acosys Consulting is looking to hire a  Privacy Analyst for our client
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278322
+    location: 'Mississauga, ON'
+    title: Privacy Analyst
 layout: careers
 title: Careers
 permalink: /careers
