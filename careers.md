@@ -82,7 +82,7 @@ jobs:
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278187
     location: 'Mississauga, ON'
-    title: Bilingual Help Desk Analys
+    title: Bilingual Help Desk Analyst
 layout: careers
 title: Careers
 permalink: /careers
