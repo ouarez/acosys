@@ -83,6 +83,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278187
     location: 'Mississauga, ON'
     title: Bilingual Help Desk Analyst
+  - date: '2018-08-17'
+    desc: >-
+      Acosys Consulting is looking to hire a Senior Security Analyst for its
+      client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11127545
+    location: 'Mississauga, ON'
+    title: Senior Security Analyst
 layout: careers
 title: Careers
 permalink: /careers
