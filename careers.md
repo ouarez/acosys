@@ -57,6 +57,16 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278241
     location: 'Edmonton, Alberta'
     title: Web Developer-Sharepoint
+  - date: '2018-08-17'
+    desc: >-
+      Acosys Consulting is seeking the services of a Web Developer to develop
+      Business intelligence (BI) solutions to be used to support community,
+      administrative and health program delivery activities and decision making
+      processes
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278217
+    location: 'Montreal, QC'
+    title: Web Developer-Sharepoint
 layout: careers
 title: Careers
 permalink: /careers
