@@ -97,6 +97,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278322
     location: 'Mississauga, ON'
     title: Privacy Analyst
+  - date: '2018-08-20'
+    desc: >-
+      Acosys Consulting is looking to hire a Business Continuity/Disaster
+      Recovery Planner for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11287184
+    location: 'Mississauga, ON'
+    title: Business Continuity/Disaster Recovery Planner
 layout: careers
 title: Careers
 permalink: /careers
