@@ -105,6 +105,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11287184
     location: 'Mississauga, ON'
     title: Business Continuity/Disaster Recovery Planner
+  - date: '2018-08-21'
+    desc: Acosys Consulting is looking to hire an Automation QA for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11290016
+    location: 'Mississauga, ON'
+    title: Automation QA
 layout: careers
 title: Careers
 permalink: /careers
