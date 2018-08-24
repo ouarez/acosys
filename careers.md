@@ -117,6 +117,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297732
     location: 'Ottawa, ON'
     title: Organizational Design and Classification Consultant
+  - date: '2018-08-24'
+    desc: >-
+      Acosys Consulting is looking to hire an Agile Program Manager for its
+      client
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11298734
+    location: 'Mississauga, ON'
+    title: Agile Program Manager
 layout: careers
 title: Careers
 permalink: /careers
