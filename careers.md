@@ -111,6 +111,11 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11290016
     location: 'Mississauga, ON'
     title: Automation QA
+  - date: '2018-08-24'
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297732
+    location: 'Ottawa, ON'
+    title: Organizational Design and Classification Consultant
 layout: careers
 title: Careers
 permalink: /careers
