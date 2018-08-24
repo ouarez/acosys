@@ -28,11 +28,23 @@ https://www.netlifycms.org/
     - `\curl -sSL https://get.rvm.io | bash -s stable --ruby`
   - Install Jekyll and clone the repo (https://jekyllrb.com/docs/quickstart/)
     - `gem install jekyll bundler`
-    - `mkdir acosys-website`
-    - `cd acosys-website`
+    - `mkdir website`
+    - `cd website`
     - `git init`
-    - `git clone https://github.com/ouarez/acosys.git`
+    - `git clone {{URL OF THIS REPO}}`
   - Inside the directory for the code you just cloned, start up the Jekyll dev server!
-    - `bundle install` # install the needed libraries with Bundler
-    - `jekyll serve` # Start up the Jekyll dev server!
+    - `bundle install`
+    - `jekyll serve`
   - Visit `http://localhost:4000/` in your browser - you are up and running. Happy coding.
+
+## Quick steps to publish (deploy) the website
+
+  1. You will need a hosting account with Netlify (https://www.netlify.com/) or any other JAMstack hosting provider. You will also need a Git (or GitLab, or Bitbucket) repo with your code.
+
+  2. Assuming you signed up for Netlify, click on "New site from Git"
+
+  3. Watch your website be deployed.
+
+  4. You are done. Netlify is awesome.
+
+  5. Anytime you need to make changes, push your new code to the Git repo and Netlify will recompile and serve it automatically.
