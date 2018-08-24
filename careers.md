@@ -112,6 +112,7 @@ jobs:
     location: 'Mississauga, ON'
     title: Automation QA
   - date: '2018-08-24'
+    desc: "Acosys Consulting is looking to hire an Organizational Design and Classification Consultant for its client\r\n\n\rOur Client is seeking the services of Organizational Design and Classification consultants on a part-time basis (2-3 days per week) for up to 5 years.  The proposed resources would need to provide services onsite."
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297732
     location: 'Ottawa, ON'
