@@ -125,6 +125,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11298734
     location: 'Mississauga, ON'
     title: Agile Program Manager
+  - date: '2018-08-24'
+    desc: "Acosys Consulting is looking to hire a Financial Analyst for its client\r\n\n\rOur client seeks to hire an IT Financial Analyst who will be responsible for the budgeting, forecasting and analyzing of data to support the IS forecasting and budgeting process. Overall responsibilities include financial reporting, KPI reporting, preparation of all financial data for the Executive Steering Committee packages, reporting on project expenditures and analyzing trends.  Creation of reporting tools to assist in ongoing analysis and dissemination of information will be required.  This role will work closely with Finance department acting as a liaison between IS and Finance."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11298899
+    location: 'Mississauga, ON'
+    title: Financial Analyst
 layout: careers
 title: Careers
 permalink: /careers
