@@ -7,9 +7,9 @@ layout: default
   {{page.text_1 | markdownify}}
 
 {% for item in page.service %}
-  <div class="w-100 flex pv4">
-      <a class="w-20 tc" href="{{item.link}}"><i class="fas fa-{{item.icon}} gray" style="font-size:130px;"></i></a>
-      <div class="w-80 pv2 ph3">
+  <div class="w-100 flex flex-wrap pv3">
+      <a class="w-100 w-20-l tc pb4" href="{{item.link}}"><i class="fas fa-{{item.icon}} gray" style="font-size:130px;"></i></a>
+      <div class="w-100 w-80-l">
         <a href="{{item.link}}"><h4 class="mv0">{{item.title}}</h4></a>
         <p>{{item.desc}}</p>
       </div>
