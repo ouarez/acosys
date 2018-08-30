@@ -1,6 +1,7 @@
 ---
 title: Our Company
 layout: about
+translation_url: 'https://fr.acosysconsulting.com/a-propos'
 permalink: /about
 description: >-
   Acosys is an Indigenous consulting firm with different ideas. We have
