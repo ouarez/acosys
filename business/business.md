@@ -1,9 +1,11 @@
 ---
 title: Business Insights
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/affaires/'
 permalink: /business/
 description: >-
-  We know our Internships work. Twelve success stories to date, and counting.
+  We act as the preferred liaison in enabling community, corporate, and
+  government stakeholders to create vital and profitable relationships. 
 cover_image: /img/cover3.jpg
 ---
 
