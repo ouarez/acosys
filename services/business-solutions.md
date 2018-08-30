@@ -1,9 +1,12 @@
 ---
 title: Business Solutions
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/services/solutions-affaires'
 permalink: /services/business-solutions
-description: 'Effective management demands continuous improvement, especially in today’s business world, where
-change is constant. You may need unique expertise, and an impartial opinion: that’s what we’re here for.'
+description: >-
+  Effective management demands continuous improvement, especially in today’s
+  business world, where change is constant. You may need unique expertise, and
+  an impartial opinion: that’s what we’re here for.
 cover_image: /img/cover2.jpg
 ---
 **Hit your Targets.**
