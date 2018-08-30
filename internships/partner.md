@@ -1,9 +1,9 @@
 ---
 title: Become a Partner
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/stages/partenariat'
 permalink: /internships/become-a-partner
-description: >-
-  Become a partner in the Acosys Aboriginal Internship Program (AIP).
+description: Become a partner in the Acosys Aboriginal Internship Program (AIP).
 cover_image: /img/cover3.jpg
 ---
 
