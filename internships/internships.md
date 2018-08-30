@@ -1,9 +1,12 @@
 ---
 title: Internships
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/stages'
 permalink: /internships
 description: >-
-  Training, mentoring and employment. Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting.
+  Training, mentoring and employment. Acosys is committed to providing these
+  things to all Indigenous people who have a desire to work in the field of
+  business consulting.
 cover_image: /img/cover3.jpg
 ---
 ## Training, mentoring and employment
