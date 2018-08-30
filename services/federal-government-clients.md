@@ -1,6 +1,7 @@
 ---
 title: ' Federal Government Clients'
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/services/clients-gouvernement-federal'
 permalink: /services/federal-government-clients
 description: >-
   We are qualified suppliers within the federal Tasks and Solutions Professional
