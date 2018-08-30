@@ -1,6 +1,7 @@
 ---
 title: Technology Integration
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/services/integration-de-ti'
 permalink: /services/technology-integration
 description: >-
   Get the best infrastructure available. When facing a time-sensitive delivery,
