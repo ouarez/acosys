@@ -1,6 +1,7 @@
 ---
 title: Leadership
 layout: leadership
+translation_url: 'https://fr.acosysconsulting.com/a-propos/leadership'
 permalink: /about/leadership
 description: >-
   David Acco, President and CEO, is a Cree-Métis descended from Cumberland
@@ -61,3 +62,4 @@ portrait:
     image: /img/julie.jpg
     name: Julie Lepage
 ---
+Acosys Consulting is led by David Acco and Julie Lepage.
