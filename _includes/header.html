@@ -9,8 +9,9 @@
       <nav class="main-nav w-80 dn dib-l tr">
         {% for item in site.data.navigation.main_nav %}
           {% if item.subnav %}
-          <div class="dropdown-nav mr4">
-            <a href="{{item.url}}">{{item.title}}<i class="fa fa-angle-down ml2"></i></a>
+          <div class="dropdown-nav">
+            <a href="{{item.url}}" alt="{{item.title}}" {% if page.url == item.url %}class="active"{% endif %}>{{item.title}}</a>
+            <i class="fa fa-angle-down ml1 pr3 mr1"></i>
             <ul>
               {% for entry in item.subnav %}
                 <li class="{% if entry.url == page.url %}active{% endif %}"><a href="{{entry.url}}">{{entry.title}}</a></li>
@@ -21,6 +22,7 @@
             <a href="{{item.url}}" class="mr4 {% if item.url == page.url %}active{% endif %}">{{item.title}}</a>
           {% endif %}
         {% endfor %}
+        <a class="mr3" href="{{page.translation_url}}" alt="Visit the French website">FR<i class="ml1 f6 fas fa-long-arrow-alt-right"></i></a>
       </nav>
 
       <div class="nav-button w-20 tr dn-l">
@@ -31,20 +33,21 @@
         {% for item in site.data.navigation.main_nav %}
           <a href="{{item.url}}" class="db w-100 pv4">{{item.title}}</a>
         {% endfor %}
+        <a href="{{page.translation_url}}" class="db w-100 pv4">FRANÇAIS</a>
       </nav>
 
     </div>
   </div>
 
+  </header>
+
 
   {% unless page.layout == "home" %}
   <div class="cover w-100 dt vh-25 tc" style="background-image: url({{page.cover_image}});">
-    <div class="hero w-100 pv4">
+    <div class="hero w-100 pv4 mt5">
       <div class="container w-100 tl pa4">
         <h1 class="f2 white ttu mt5 mb0 b">{{page.title}}</h1>
       </div>
     </div>
   </div>
   {% endunless %}
-
-</header>

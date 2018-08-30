@@ -104,6 +104,9 @@ body {
 header {
   width:100%;
   font-family: $header-font;
+  position:fixed;
+  z-index:9999;
+  border-bottom: solid #ccc 1px;
 
   .logo {
     width:200px;
@@ -127,7 +130,9 @@ header {
       font-size:14px;
       text-transform: uppercase;
       font-weight:bold;
-      &.active {text-decoration:underline;}
+      padding-bottom:2px;
+      &.active {border-bottom: solid #333 2px;transition: border-width 0.1s linear;}
+      &:hover {border-bottom: solid #333 2px;transition: border-width 0.1s linear;}
     }
 
     .dropdown-nav {
@@ -158,6 +163,8 @@ header {
           }
           a {
             color:#fff;
+            border:none;
+            transition:none;
           }
         }
       }

@@ -3,6 +3,7 @@ layout: home
 title: >-
   Acosys - Indigenous consulting firm - business solutions, technology
   integration, and talent management
+translation_url: 'https://fr.acosysconsulting.com'
 description: >-
   Acosys is an Indigenous consulting firm with different ideas. We build bridges
   between private industry, Indigenous communities, and government.
