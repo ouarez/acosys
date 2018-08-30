@@ -1,8 +1,12 @@
 ---
 title: Our Services
 layout: services
+translation_url: 'https://fr.acosysconsulting.com/services/'
 permalink: /services/
-description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
+description: >-
+  Our clients are all different. They have diverse needs, which we address with
+  custom-made solutions. Providing direction is the golden thread that runs
+  through our operations, and it’s why our clients come to us.
 cover_image: /img/cover2.jpg
 text_1: >-
   ## Consulting with a Difference
@@ -13,12 +17,12 @@ text_1: >-
 
   ## Government Clients
 
-  We are [qualified suppliers](/services/federal-government-clients) within the federal Tasks and Solutions Professional
-  Services (TSPS) procurement vehicle, holding both a Supply Arrangement and a
-  Standing Offer. In addition, we are qualified both as a standard supplier and
-  as an Aboriginal supplier through the Procurement Strategy for Aboriginal
-  Businesses (PSAB), which opens additional avenues of procurement for our
-  government clients.
+  We are [qualified suppliers](/services/federal-government-clients) within the
+  federal Tasks and Solutions Professional Services (TSPS) procurement vehicle,
+  holding both a Supply Arrangement and a Standing Offer. In addition, we are
+  qualified both as a standard supplier and as an Aboriginal supplier through
+  the Procurement Strategy for Aboriginal Businesses (PSAB), which opens
+  additional avenues of procurement for our government clients.
 
   ## Service streams
 
@@ -69,3 +73,4 @@ text_2: >-
 
   * Information and Communications Technology
 ---
+
