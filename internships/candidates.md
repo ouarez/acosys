@@ -1,9 +1,9 @@
 ---
 title: Candidates
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/stages/candidats'
 permalink: /internships/candidates
-description: >-
-  We know our Internships work. Twelve success stories to date, and counting.
+description: 'We know our Internships work. Twelve success stories to date, and counting.'
 cover_image: /img/cover3.jpg
 ---
 
