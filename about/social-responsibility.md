@@ -1,6 +1,7 @@
 ---
 title: Social Mission
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/a-propos/responsabilite-sociale'
 permalink: /about/social-responsibility
 description: >-
   We’re a for-profit business, but we have a self-defined social mission
