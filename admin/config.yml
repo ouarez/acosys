@@ -17,7 +17,7 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -73,7 +73,7 @@ collections:
               - {label: Description, name: desc, widget: markdown}
           - {label: "Layout", name: "layout", widget: "hidden", default: "careers"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/careers" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -84,7 +84,7 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "contact"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/contact" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -110,7 +110,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -128,7 +128,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "leadership"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/leadership" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -147,7 +147,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/social-responsibility" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -158,7 +158,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "leadership"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/mission" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -182,7 +182,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -203,7 +203,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/talent-management" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -214,7 +214,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/business-solutions" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -225,7 +225,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/technology-integration" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -236,7 +236,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/federal-government-clients" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -252,7 +252,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/business" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -263,7 +263,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "press-room"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/business/press-room" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -284,7 +284,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "portfolio"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/business/portfolio" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -309,7 +309,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -320,7 +320,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -331,7 +331,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -342,7 +342,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
-          - {label: "Translation URL", name: "title", widget: "string"}
+          - {label: "Translation URL", name: "translation_url", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Cover Image", name: "cover_image", widget: "image"}
@@ -355,7 +355,7 @@ collections:
     fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-        - {label: "Translation URL", name: "title", widget: "string"}
+        - {label: "Translation URL", name: "translation_url", widget: "string"}
         - {label: "Permalink", name: "permalink", widget" "string" }
         - {label: "Description", name: "description", widget: "string"}
         - {label: "Cover Image", name: "cover_image", widget: "image"}
