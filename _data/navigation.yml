@@ -60,6 +60,8 @@ footer_nav:
     url: /careers
   - title: Contact
     url: /contact
+  - title: Français
+    url: 'https://fr.acosysconsulting.com'
 bottom_nav:
   - title: Privacy Policy
     url: /privacy-policy
