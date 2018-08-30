@@ -1,17 +1,17 @@
 ---
 title: Talent Management
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/services/gestion-de-talent'
 permalink: /services/talent-management
-description: 'We assist our clients from recruitment, to retention, to policy advice. We also assist both their business units and recruiters in engaging resources, and readying the candidates themselves for the client’s
-business and operations.'
+description: >-
+  We assist our clients from recruitment, to retention, to policy advice. We
+  also assist both their business units and recruiters in engaging resources,
+  and readying the candidates themselves for the client’s business and
+  operations.
 cover_image: /img/cover2.jpg
 ---
 **Help your team grow.**
-We assist our clients from recruitment, to retention, to policy advice. We also assist both their business
-units and recruiters in engaging resources, and readying the candidates themselves for the client’s
-business and operations. This attention to detail stems from our formal training as Certified Human
-Resources Professionals, our experience of what works and what doesn’t, and the knowledge that each
-of our customers has its own "on the ground" reality.
+We assist our clients from recruitment, to retention, to policy advice. We also assist both their business units and recruiters in engaging resources, and readying the candidates themselves for the client’s business and operations. This attention to detail stems from our formal training as Certified Human Resources Professionals, our experience of what works and what doesn’t, and the knowledge that each of our customers has its own "on the ground" reality.
 
 **Our services include:**
 
@@ -29,6 +29,7 @@ Our talent management team has been training in a rigorous methodology that ensu
 responds fully and directly to your requirements, within your timelines.
 
 ### Training
+
 From developing, organizing, delivering, and evaluating, to cross-industry benchmarking. Acosys has
 created and delivered live workshops and online courses in Human Resources Management, Critical
 Thinking for Decision Makers, and others.
