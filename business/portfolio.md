@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 layout: portfolio
+translation_url: 'https://fr.acosysconsulting.com/affaires/portfolio'
 permalink: /business/portfolio
 description: >-
   Proud of our project work. Acosys can provide both deep and broad experience.
@@ -72,8 +73,8 @@ portfolio:
       Acosys administered, supported, and helped interpret the results of the
       Urban Aboriginal Peoples' Survey (UAPS) in two Canadian urban centres:
       Thunder Bay and Montreal. We introduced an innovative approach of using
-      Indigenous peoples to administer the survey. Our responsibilities during this
-      effort included:
+      Indigenous peoples to administer the survey. Our responsibilities during
+      this effort included:
 
 
       • Gathering of quantitative and qualitative survey results in a
@@ -158,8 +159,8 @@ portfolio:
       Development (DIAND) in three outreach efforts, of similar scope and size,
       for the Federal Government’s Procurement Strategy for Aboriginal
       Businesses; the most recent is cited here. The purpose of PSAB is to build
-      capacity among Canadian Indigenous peoples by providing set-asides in Federal
-      contracts. Our responsibilities during these efforts included:
+      capacity among Canadian Indigenous peoples by providing set-asides in
+      Federal contracts. Our responsibilities during these efforts included:
 
 
 
