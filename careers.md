@@ -133,6 +133,7 @@ jobs:
     title: Financial Analyst
 layout: careers
 title: Careers
+translation_url: 'https://fr.acosysconsulting.com/emplois'
 permalink: /careers
 description: >-
   If you’re looking to cultivate your skills with a company that’s creative,
