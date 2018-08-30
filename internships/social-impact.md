@@ -1,6 +1,7 @@
 ---
 title: Social Impact
 layout: page
+translation_url: 'https://fr.acosysconsulting.com/stages/impact-social'
 permalink: /internships/social-impact
 description: 'We know our Internships work. Twelve success stories to date, and counting.'
 cover_image: /img/cover3.jpg
