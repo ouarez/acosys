@@ -18,14 +18,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019379
     location: 'Toronto, ON, Canada'
     title: HR Intern
-  - date: '2018-03-08'
-    desc: >-
-      Acosys Consulting is seeking a Professional and Technical Talent Recruiter
-      to work in our office in Montreal.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10566535
-    location: Montreal
-    title: Technical Recruiter
   - date: '2018-07-24'
     desc: >-
       Acosys Consulting is looking to hire a Technical Writer for its client.
@@ -131,6 +123,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11298899
     location: 'Mississauga, ON'
     title: Financial Analyst
+  - date: '2018-08-31'
+    desc: "Acosys Consulting is a leading Indigenous consulting providing professional consulting services firm in Information Technology, Human Resources and Aboriginal Policy Development.\r\n\n\r\n\nAcosys is seeking a Professional and Technical Talent Recruiter to work in our office in Montreal. The selected candidate’s primary function will be to complete the entire recruitment process, both for our professional and technical positions."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318516
+    location: 'Montreal, QC'
+    title: Technical Recruiter
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
