@@ -1,17 +1,5 @@
 ---
 jobs:
-  - date: '2018-06-01'
-    desc: >-
-      Acosys Consulting is looking to hire a Proposal Writer.
-
-
-      Your job would include preparing proposals by determining concepts,
-      gathering and formatting information, writing drafts and obtaining
-      approvals.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019805
-    location: 'Montreal, QC, Canada'
-    title: Proposal Writer
   - date: '2018-06-06'
     desc: Acosys Consulting is looking to hire a HR Intern for one of our clients.
     link: >-
@@ -129,6 +117,11 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318516
     location: 'Montreal, QC'
     title: Technical Recruiter
+  - date: '2018-09-05'
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11330603
+    location: 'Toronto, ON'
+    title: Application Designer- Informatica
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
