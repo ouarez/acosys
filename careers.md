@@ -122,6 +122,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11330603
     location: 'Toronto, ON'
     title: Application Designer- Informatica
+  - date: '2018-09-05'
+    desc: Acosys Consulting is looking to hire a Test Lead for its client
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11330576
+    location: 'Montreal, QC'
+    title: Test Lead
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
