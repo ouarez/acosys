@@ -117,11 +117,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318516
     location: 'Montreal, QC'
     title: Technical Recruiter
-  - date: '2018-09-05'
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11330603
-    location: 'Toronto, ON'
-    title: Application Designer- Informatica
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
