@@ -117,6 +117,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318516
     location: 'Montreal, QC'
     title: Technical Recruiter
+  - date: '2018-09-12'
+    desc: Acosys Consulting is looking to hire a Business Analyst for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11364071
+    location: 'Ottawa, ON'
+    title: Business Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
