@@ -21,7 +21,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11059310
     location: 'Mississauga, ON'
     title: Bilingual Executive Assistant
-  - date: '2018-08-01'
+  - date: '2018-09-25'
     desc: "Acosys Consulting is looking to hire a Bilingual Training Specialist for its client\r\n\n\r\n\nThe primary role of this position is to design, develop, and deliver a bilingual Training program for super users in support of the client’s Project implementation. The incumbent will apply adult learning and instructional design principles to create a train-the-trainer program that covers all functions of client’s claims adjudication systems. This dynamic individual will deliver the program in English and French to external and internal super users, in class and online, all while ensuring quality."
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11176952
