@@ -115,6 +115,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11364071
     location: 'Ottawa, ON'
     title: Business Analyst
+  - date: '2018-09-25'
+    desc: Acosys Consulting is looking to hire a HR Intern for one of our clients.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411018
+    location: 'Mississauga, ON'
+    title: Bilingual Help Desk Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
