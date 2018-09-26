@@ -88,12 +88,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11298899
     location: 'Mississauga, ON'
     title: Financial Analyst
-  - date: '2018-08-31'
-    desc: "Acosys Consulting is a leading Indigenous consulting providing professional consulting services firm in Information Technology, Human Resources and Aboriginal Policy Development.\r\n\n\r\n\nAcosys is seeking a Technical Talent Recruiter to work in our office in Montreal. The selected candidate’s primary function will be to complete the entire recruitment process, both for our professional and technical positions."
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318516
-    location: 'Montreal, QC'
-    title: Technical Recruiter
   - date: '2018-09-12'
     desc: Acosys Consulting is looking to hire a Business Analyst for its client.
     link: >-
