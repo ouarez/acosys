@@ -112,6 +112,21 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411057
     location: 'Mississauga, ON'
     title: Bilingual Training Specialist
+  - date: '2018-09-26'
+    desc: >-
+      Acosys Consulting is looking to hire a Technical Writer for its client.
+      Our client is looking for a dynamic and self-motivated Technical Writer to
+      work within the Technical Writing Services Team. The successful incumbent
+      will be responsible for the research, creation and maintenance of system
+      documentation for internal software applications, such as user manuals,
+      release notes, and detailed design documents (DDD). The successful
+      candidate will be able to interpret and integrate technical concepts and
+      literature into user-friendly documentation and write technical subject
+      matter for a variety of audiences; technical, business and end-user.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11416865
+    location: 'Mississauga, ON'
+    title: Technical Writer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
