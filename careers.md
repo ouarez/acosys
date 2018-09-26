@@ -6,15 +6,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019379
     location: 'Toronto, ON, Canada'
     title: HR Intern
-  - date: '2018-07-24'
-    desc: >-
-      Acosys Consulting is looking to hire a Technical Writer for its client.
-      Our client is looking for a dynamic and self-motivated Technical Writer to
-      work within the Technical Writing Services Team.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11201057
-    location: 'Mississauga, ON'
-    title: Technical Writer
   - date: '2018-06-15'
     desc: "Acosys Consulting is looking to hire a Bilingual Executive Assistant for its client:\r\n\nOur client is actively looking for an Executive Assistant (Bilingual in French and English) to provide administrative support to their Executive Team."
     link: >-
