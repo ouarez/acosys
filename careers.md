@@ -121,6 +121,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11416865
     location: 'Mississauga, ON'
     title: Technical Writer
+  - date: '2018-09-26'
+    desc: "Acosys Consulting is a leading Indigenous consulting providing professional consulting services firm in Information Technology, Human Resources and Aboriginal Policy Development.\r\n\n\r\n\nWe are seeking a  Technical Talent Recruiter to work in our office in Montreal. The selected candidate’s primary function will be to complete the entire recruitment process, both for our professional and technical positions."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11417000
+    location: 'Montreal, QC'
+    title: Technical Recruiter
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
