@@ -127,6 +127,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11417000
     location: 'Montreal, QC'
     title: Technical Recruiter
+  - date: '2018-10-03'
+    desc: >-
+      Acosys Consulting is looking to hire a Change and Release Coordinator for
+      its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11442614
+    location: 'Mississauga, ON'
+    title: Change and Release Coordinator
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
