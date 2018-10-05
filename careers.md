@@ -135,6 +135,13 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11442614
     location: 'Mississauga, ON'
     title: Change and Release Coordinator
+  - date: '2018-10-05'
+    desc: Acosys Consulting is looking to hire a Front-End Developer for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11449856
+    location: 'Mississauga, ON'
+    title: Front End Developer
+  - date: '2018-10-05'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
