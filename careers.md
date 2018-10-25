@@ -6,12 +6,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11019379
     location: 'Toronto, ON, Canada'
     title: HR Intern
-  - date: '2018-06-15'
-    desc: "Acosys Consulting is looking to hire a Bilingual Executive Assistant for its client:\r\n\nOur client is actively looking for an Executive Assistant (Bilingual in French and English) to provide administrative support to their Executive Team."
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11059310
-    location: 'Mississauga, ON'
-    title: Bilingual Executive Assistant
   - date: '2018-08-17'
     desc: >-
       Acosys Consulting is seeking the services of a Web Developer to develop
@@ -41,14 +35,6 @@ jobs:
     location: 'Montreal, QC'
     title: Bilingual Help Desk Analyst
   - date: '2018-08-17'
-    desc: >-
-      Acosys Consulting is looking to hire a Senior Security Analyst for its
-      client.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11127545
-    location: 'Mississauga, ON'
-    title: Senior Security Analyst
-  - date: '2018-08-17'
     desc: Acosys Consulting is looking to hire a  Privacy Analyst for our client
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278322
@@ -62,12 +48,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11287184
     location: 'Mississauga, ON'
     title: Business Continuity/Disaster Recovery Planner
-  - date: '2018-08-21'
-    desc: Acosys Consulting is looking to hire an Automation QA for its client.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11290016
-    location: 'Mississauga, ON'
-    title: Automation QA
   - date: '2018-08-24'
     desc: "Acosys Consulting is looking to hire an Organizational Design and Classification Consultant for its client\r\n\n\rOur Client is seeking the services of Organizational Design and Classification consultants on a part-time basis (2-3 days per week) for up to 5 years.  The proposed resources would need to provide services onsite."
     link: >-
@@ -82,12 +62,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11298734
     location: 'Mississauga, ON'
     title: Agile Program Manager
-  - date: '2018-08-24'
-    desc: "Acosys Consulting is looking to hire a Financial Analyst for its client\r\n\n\rOur client seeks to hire an IT Financial Analyst who will be responsible for the budgeting, forecasting and analyzing of data to support the IS forecasting and budgeting process. Overall responsibilities include financial reporting, KPI reporting, preparation of all financial data for the Executive Steering Committee packages, reporting on project expenditures and analyzing trends.  Creation of reporting tools to assist in ongoing analysis and dissemination of information will be required.  This role will work closely with Finance department acting as a liaison between IS and Finance."
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11298899
-    location: 'Mississauga, ON'
-    title: Financial Analyst
   - date: '2018-09-12'
     desc: Acosys Consulting is looking to hire a Business Analyst for its client.
     link: >-
@@ -135,12 +109,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11442614
     location: 'Mississauga, ON'
     title: Change and Release Coordinator
-  - date: '2018-10-05'
-    desc: Acosys Consulting is looking to hire a Front-End Developer for its client.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11449856
-    location: 'Mississauga, ON'
-    title: Front End Developer
   - date: '2018-10-12'
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11479586
