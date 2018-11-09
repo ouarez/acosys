@@ -122,6 +122,23 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11568380
     location: 'Montreal, Qc'
     title: Wintel Administrator
+  - date: '2018-11-09'
+    desc: >-
+      Acosys is currently looking for a Contract Associate Manager to join the
+      Contract Management group of one of our client’s. 
+
+
+      You will be responsible for providing support to the Contract Management
+      team or directly to the Client Engagement team to enable the
+      administration of government, international and commercial contracts and
+      subcontracts in accordance with company policies and procedures,
+      applicable laws, and customer requirements. Responsible for tracking and
+      monitoring contract changes, deliverables, correspondence and risks, and
+      maintaining associated documentation.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11584418
+    location: 'Toronto, Ontario'
+    title: Contract Associate Manager
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
