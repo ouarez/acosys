@@ -165,6 +165,20 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11587566
     location: 'Mississauga, Ontario'
     title: Senior AX Developer
+  - date: '2018-11-13'
+    desc: >-
+      Acosys is currently looking for a Senior Technical Analyst to lead the
+      delivery group of one of our client’s. Our client is looking to expand
+      into Western Canada and are searching for the best individual to lead this
+      initiative. In this remote position as a Senior Technical Analyst, not
+      only will you kick off their presence in Western Canada, you will create
+      solutions for clients and collaborate with developers to turn ideas into
+      reality. You will need top-notch communication skills, a commitment to
+      success, and an easy familiarity with technical matters.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11595735
+    location: 'Saskatoon, Saskatchewan'
+    title: Senior Technical Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
