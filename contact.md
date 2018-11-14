@@ -13,7 +13,8 @@ subjects:
 contact_info: |-
   **Montreal (Head Office)**
 
-  1194 Stanley Street\
+  1194 Stanley Street 
+
   Montreal, QC H3B 2S7
 
   **Toronto**
