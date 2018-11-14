@@ -10,22 +10,28 @@ subjects:
   - subject: Careers
   - subject: General Inquiry
   - subject: Other
-contact_info: |-
+contact_info: >-
   **Montreal (Head Office)**
 
+
   1194 Stanley Street 
+
 
   Montreal, QC H3B 2S7
 
 
 
+
   **Toronto**
+
 
   350 - 1 First Canadian Place
 
-  Toronto Region Board of Trade Tower
 
+  Toronto Region Board of Trade
+  Tower                                                                                           
   Toronto, On M5X 1C1
+
 
 
 
@@ -33,11 +39,14 @@ contact_info: |-
 
 
 
+
   **Business hours:**
 
 
 
+
   Monday to Friday\
+
   from 9:00 a.m. to 5:00 p.m. (Eastern Time)
 map_lat: '45.498372'
 map_long: '-73.571775'
