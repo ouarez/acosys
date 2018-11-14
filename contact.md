@@ -13,17 +13,23 @@ subjects:
 contact_info: |-
   **Montreal (Head Office)**
 
-  Suite 591, 100 Boulevard Alexis-Nihon  
-  Saint-Laurent, QC H4M 2P1
+  1194 Stanley Street\
+  Montreal, QC H3B 2S7
+
+  **Toronto**
+
+  350 - 1 First Canadian Place\
+  Toronto Region Board of Trade Tower\
+  Toronto, On M5X 1C1
 
   <i class="fas fa-phone dark-gray mr2"></i>(514) 744-9433 ext. 118  
 
   **Business hours:**
 
-  Monday to Friday  
+  Monday to Friday\
   from 9:00 a.m. to 5:00 p.m. (Eastern Time)
-map_lat: '45.496466'
-map_long: '-73.6772346'
+map_lat: '45.498372'
+map_long: '-73.571775'
 map_zoom: '13'
 ---
 ### Get in touch with us
