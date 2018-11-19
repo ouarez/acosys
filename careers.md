@@ -190,6 +190,20 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11615019
     location: 'Calgary, Alberta'
     title: Contract Specialist
+  - date: '2018-11-19'
+    desc: >-
+      Acosys Consulting is looking to hire a Intermediate Java Developer for its
+      client. As a Java Developer you will work closely with the business to
+      define how best to address business challenges faced by our customers and
+      our internal operations. As the Java Developer you will clarify functional
+      requirements and non-functional requirements and develop effective designs
+      and implementation approaches for the delivery of business applications.
+      The successful candidate will assure the quality of deliverables ensuring
+      that developed products are fit for use, supportable and maintainable.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11615970
+    location: 'Mississauga, Ontario'
+    title: Java Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
