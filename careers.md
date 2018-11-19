@@ -31,8 +31,8 @@ jobs:
       Acosys Consulting is looking to hire a Bilingual Help Desk Analyst-Level 1
       and 2 for its client.
     link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278187
-    location: 'Montreal, QC'
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278181
+    location: 'Mississauga, Ontario'
     title: Bilingual Help Desk Analyst
   - date: '2018-08-17'
     desc: Acosys Consulting is looking to hire a  Privacy Analyst for our client
@@ -179,6 +179,17 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11595735
     location: 'Saskatoon, Saskatchewan'
     title: Senior Technical Analyst
+  - date: '2018-11-19'
+    desc: >-
+      Acosys is currently looking for a Contract Specialist to join the Contract
+      Management group of one of our client’s. The Contract Specialist provides
+      contract execution and administrative support to Contract Management
+      personnel. Track deliverables, provide documentation control and perform
+      other duties as required.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11615019
+    location: 'Calgary, Alberta'
+    title: Contract Specialist
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
