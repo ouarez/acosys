@@ -212,6 +212,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11651718
     location: 'Toronto, Ontario'
     title: Aboriginal Human Resources Intern
+  - date: '2018-11-30'
+    desc: >-
+      Acosys Consulting is looking to hire a Secretary / Administrative
+      Assistant for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11652078
+    location: 'Montreal, Quebec'
+    title: Secretary / Administrative Assistant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
