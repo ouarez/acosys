@@ -204,6 +204,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11615970
     location: 'Mississauga, Ontario'
     title: Java Developer
+  - date: '2018-11-30'
+    desc: >-
+      Acosys Consulting is looking to hire a Aboriginal Human Resources Intern
+      for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11651718
+    location: 'Toronto, Ontario'
+    title: Aboriginal Human Resources Intern
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
