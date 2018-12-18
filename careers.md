@@ -220,6 +220,45 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11652078
     location: 'Montreal, Quebec'
     title: Secretary / Administrative Assistant
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is seeking the services of a Organization Development Consultant
+      for a Government client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11740470
+    location: 'Ottawa, Ontario'
+    title: Organization Development Consultant
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is seeking the services of a Change Management Consultant for a
+      Government client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11740434
+    location: 'Ottawa, Ontario'
+    title: Change Management Consultant
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is currently looking for an Jira/Confluence Engineer to join our
+      leading providers of health benefits management services client. The
+      successful JIRA Engineer has to create, maintain and update best practice
+      workflows in Jira. Our client is a collaborative environment where
+      individuals have impact well beyond their job description. We seek people
+      who “do the right thing” the “right way”.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11736432
+    location: 'Mississauga, Ontario'
+    title: Jira / Confluence Engineer
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is currently looking for an Application Support Specialist Level 1
+      and 2 to join our leading providers of health benefits management services
+      client. The successful candidate shall possess a strong client-centric
+      focus with a keen eye for problem solving. This candidate must have a
+      willingness to work a flexible schedule with on-call duties as required.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11707365
+    location: 'Mississauga, Ontario'
+    title: Application Support Specialist
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
