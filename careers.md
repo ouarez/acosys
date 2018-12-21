@@ -31,8 +31,8 @@ jobs:
       Acosys Consulting is looking to hire a Bilingual Help Desk Analyst-Level 1
       and 2 for its client.
     link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278187
-    location: 'Montreal, QC'
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278181
+    location: 'Mississauga, Ontario'
     title: Bilingual Help Desk Analyst
   - date: '2018-08-17'
     desc: Acosys Consulting is looking to hire a  Privacy Analyst for our client
@@ -122,6 +122,143 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11568380
     location: 'Montreal, Qc'
     title: Wintel Administrator
+  - date: '2018-11-09'
+    desc: >-
+      Acosys is currently looking for a Contract Associate Manager to join the
+      Contract Management group of one of our client’s. 
+
+
+      You will be responsible for providing support to the Contract Management
+      team or directly to the Client Engagement team to enable the
+      administration of government, international and commercial contracts and
+      subcontracts in accordance with company policies and procedures,
+      applicable laws, and customer requirements. Responsible for tracking and
+      monitoring contract changes, deliverables, correspondence and risks, and
+      maintaining associated documentation.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11584418
+    location: 'Toronto, Ontario'
+    title: Contract Associate Manager
+  - date: '2018-11-13'
+    desc: >-
+      Acosys is currently looking for a Senior Business Analyst with a focus in
+      Microsoft Dynamics AX to join our leading providers of health benefits
+      management services client. You will be responsible for analyzing the
+      system processes and data in response to business initiatives to help
+      drive higher productivity and streamlined activities and events. Also,
+      will be responsible for working closely with end users in the various
+      offices across Canada to support and analyzing their business needs. The
+      analyst must be effective at identifying areas of possible change,
+      defining requirements, and working to improve the overall benefit of the
+      Dynamics AX system.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11587428
+    location: 'Mississauga, Ontario'
+    title: Senior Business Analyst
+  - date: '2018-11-13'
+    desc: >-
+      Acosys is currently looking for a Senior AX Developer to join our leading
+      providers of health benefits management services client. You will be
+      working with the business and IS teams to code and support complex
+      customizations to our newly implemented Dynamics AX 2012 system.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11587566
+    location: 'Mississauga, Ontario'
+    title: Senior AX Developer
+  - date: '2018-11-13'
+    desc: >-
+      Acosys is currently looking for a Senior Technical Analyst to lead the
+      delivery group of one of our client’s. Our client is looking to expand
+      into Western Canada and are searching for the best individual to lead this
+      initiative. In this remote position as a Senior Technical Analyst, not
+      only will you kick off their presence in Western Canada, you will create
+      solutions for clients and collaborate with developers to turn ideas into
+      reality. You will need top-notch communication skills, a commitment to
+      success, and an easy familiarity with technical matters.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11595735
+    location: 'Saskatoon, Saskatchewan'
+    title: Senior Technical Analyst
+  - date: '2018-11-19'
+    desc: >-
+      Acosys is currently looking for a Contract Specialist to join the Contract
+      Management group of one of our client’s. The Contract Specialist provides
+      contract execution and administrative support to Contract Management
+      personnel. Track deliverables, provide documentation control and perform
+      other duties as required.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11615019
+    location: 'Calgary, Alberta'
+    title: Contract Specialist
+  - date: '2018-11-19'
+    desc: >-
+      Acosys Consulting is looking to hire a Intermediate Java Developer for its
+      client. As a Java Developer you will work closely with the business to
+      define how best to address business challenges faced by our customers and
+      our internal operations. As the Java Developer you will clarify functional
+      requirements and non-functional requirements and develop effective designs
+      and implementation approaches for the delivery of business applications.
+      The successful candidate will assure the quality of deliverables ensuring
+      that developed products are fit for use, supportable and maintainable.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11615970
+    location: 'Mississauga, Ontario'
+    title: Java Developer
+  - date: '2018-11-30'
+    desc: >-
+      Acosys Consulting is looking to hire a Aboriginal Human Resources Intern
+      for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11651718
+    location: 'Toronto, Ontario'
+    title: Aboriginal Human Resources Intern
+  - date: '2018-11-30'
+    desc: >-
+      Acosys Consulting is looking to hire a Secretary / Administrative
+      Assistant for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11652078
+    location: 'Montreal, Quebec'
+    title: Secretary / Administrative Assistant
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is seeking the services of a Organization Development Consultant
+      for a Government client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11740470
+    location: 'Ottawa, Ontario'
+    title: Organization Development Consultant
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is seeking the services of a Change Management Consultant for a
+      Government client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11740434
+    location: 'Ottawa, Ontario'
+    title: Change Management Consultant
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is currently looking for an Jira/Confluence Engineer to join our
+      leading providers of health benefits management services client. The
+      successful JIRA Engineer has to create, maintain and update best practice
+      workflows in Jira. Our client is a collaborative environment where
+      individuals have impact well beyond their job description. We seek people
+      who “do the right thing” the “right way”.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11736432
+    location: 'Mississauga, Ontario'
+    title: Jira / Confluence Engineer
+  - date: '2018-12-18'
+    desc: >-
+      Acosys is currently looking for an Application Support Specialist Level 1
+      and 2 to join our leading providers of health benefits management services
+      client. The successful candidate shall possess a strong client-centric
+      focus with a keen eye for problem solving. This candidate must have a
+      willingness to work a flexible schedule with on-call duties as required.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11707365
+    location: 'Mississauga, Ontario'
+    title: Application Support Specialist
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
