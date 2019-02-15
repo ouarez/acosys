@@ -15,7 +15,7 @@ We are qualified both as a standard supplier and as an Aboriginal supplier throu
 
 Below is a list showcasing we are qualified suppliers with the following federal government vehicles, with all our categories falling under these streams:
 
-* **Tasks and Solutions Professional Services (TSPS)
+* `b`**Tasks and Solutions Professional Services (TSPS)
   **
 
 HUMAN RESOURCES SERVICES STREAM
@@ -39,8 +39,6 @@ HUMAN RESOURCES SERVICES STREAM
 1.9 HR Policy Development Consultant
 
 1.10 HR Assistant Consultant
-
-
 
 BUSINESS CONSULTING / CHANGE MANAGEMENT SERVICES STREAM
 
@@ -239,8 +237,6 @@ PROJECT MANAGEMENT SERVICES STREAM
 10.10 Technical Writer
 
 10.11 Communications Consultant
-
-
 
 * **Task-Based Informatics Professional Services (TBIPS)
   **
