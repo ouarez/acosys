@@ -15,11 +15,8 @@ We are qualified both as a standard supplier and as an Aboriginal supplier throu
 
 Below is a list showcasing we are qualified suppliers with the following federal government vehicles, with all our categories falling under these streams:
 
-
-
-**•	Tasks and Solutions Professional Services (TSPS)**
-
-
+* **Tasks and Solutions Professional Services (TSPS)
+  **
 
 HUMAN RESOURCES SERVICES STREAM
 
@@ -67,8 +64,6 @@ BUSINESS CONSULTING / CHANGE MANAGEMENT SERVICES STREAM
 
 2.12 Evaluation Services Consultant
 
-
-
 PROJECT MANAGEMENT SERVICES STREAM
 
 3.1 Project Administrator
@@ -91,15 +86,11 @@ PROJECT MANAGEMENT SERVICES STREAM
 
 3.11 Communications Consultant
 
+_In the TSPS procurement vehicle, we hold both a Supply Arrangement and a Standing Offer, TIER 1. 
+_
 
-
-_In the TSPS procurement vehicle, we hold both a Supply Arrangement and a Standing Offer, TIER 1. _
-
-
-
-**•	ProServices**
-
-
+* **ProServices
+  **
 
 APPLICATION SERVICES STREAM
 
@@ -121,8 +112,6 @@ APPLICATION SERVICES STREAM
 
 1.14 Web Developer
 
-
-
 IM/IT SERVICES STREAM
 
 3.3 Database Analyst
@@ -132,8 +121,6 @@ IM/IT SERVICES STREAM
 3.6 Network Analyst
 
 3.9 System Administrator
-
-
 
 BUSINESS SERVICES STREAM
 
@@ -156,8 +143,6 @@ BUSINESS SERVICES STREAM
 4.13 Operations Support Specialist
 
 4.14 Technical Writer
-
-
 
 PROJECT MANAGEMENT SERVICES STREAM
 
@@ -185,8 +170,6 @@ PROJECT MANAGEMENT SERVICES STREAM
 
 5.12 Risk Management Specialist
 
-
-
 HUMAN RESOURCES SERVICES STREAM
 
 8.1 Human Resources Consultant
@@ -206,8 +189,6 @@ HUMAN RESOURCES SERVICES STREAM
 8.9 HR Policy Development Consultant
 
 8.10 HR Assistant Consultant
-
-
 
 BUSINESS CONSULTING / CHANGE MANAGEMENT SERVICES STREAM
 
@@ -235,8 +216,6 @@ BUSINESS CONSULTING / CHANGE MANAGEMENT SERVICES STREAM
 
 9.15 Facilitator Consultant
 
-
-
 PROJECT MANAGEMENT SERVICES STREAM
 
 10.1 Project Administrator
@@ -263,15 +242,15 @@ PROJECT MANAGEMENT SERVICES STREAM
 
 
 
-**•	Task-Based Informatics Professional Services (TBIPS)**
+* **Task-Based Informatics Professional Services (TBIPS)
+  **
 
-_ACOSYS solo Supply Arrangement, TIER 1_
-
-
+_ACOSYS solo Supply Arrangement, TIER 1
+_
 
 STREAM 3 (I) IM/IT SERVICES
 
-I.1 Data Conversion Specialist 
+I.1 Data Conversion Specialist 
 
 I.2 Database Administrator 
 
@@ -285,11 +264,9 @@ I.7 Platform Analyst
 
 I.10 Technical Architect
 
-
-
 STREAM 5 PROJECT MANAGEMENT SERVICES
 
-P.1 Change Management Consultant 
+P.1 Change Management Consultant 
 
 P.2 Enterprise Architect 
 
@@ -309,11 +286,8 @@ P.9 Project Manager
 
 P.11 Quality Assurance Specialist/Analyst 
 
-
-
-_ACOSYS in a Joint Venture, Supply Arrangement, TIER 1 & 2_
-
-
+_ACOSYS in a Joint Venture, Supply Arrangement, TIER 1 & 2
+_
 
 APPLICATION SERVICES STREAM
 
@@ -349,8 +323,6 @@ A.15 Web Graphics Designer
 
 A.16 Web Multi-Media Content Consultant
 
-
-
 STREAM 3 (I) IM/IT SERVICES
 
 I.1 Data Conversion Specialist 
@@ -370,8 +342,6 @@ I.7 Platform Analyst
 I.9 System Administrator 
 
 I.11 Technology Architect
-
-
 
 STREAM 4 BUSINESS SERVICES
 
@@ -403,8 +373,6 @@ B.13 Operations Support Specialist
 
 B.14 Technical Writer
 
-
-
 STREAM 5 PROJECT MANAGEMENT SERVICES
 
 P.1 Change Management Consultant 
@@ -434,8 +402,6 @@ P.12 Risk Management Specialist
 P.13 Independent IT Project Review Team Leader 
 
 P.14 Independent IT Project Reviewer
-
-
 
 ## Further Information
 
