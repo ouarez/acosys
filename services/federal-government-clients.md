@@ -87,10 +87,9 @@ PROJECT MANAGEMENT SERVICES STREAM
 
 3.11 Communications Consultant
 
-_In the TSPS procurement vehicle, we hold both a Supply Arrangement and a Standing Offer, TIER 1
-_
+_In the TSPS procurement vehicle, we hold both a Supply Arrangement and a Standing Offer, TIER 1_
 
-* **ProServices
+* **`ProServices`
   **
 
 APPLICATION SERVICES STREAM
