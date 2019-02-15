@@ -94,6 +94,8 @@ _In the TSPS procurement vehicle, we hold both a Supply Arrangement and a Standi
 * **ProServices
   **
 
+
+
 APPLICATION SERVICES STREAM
 
 1.1 Application/Software Architect
@@ -245,7 +247,7 @@ PROJECT MANAGEMENT SERVICES STREAM
 * **Task-Based Informatics Professional Services (TBIPS)
   **
 
-_ACOSYS solo Supply Arrangement, TIER 1
+_ACOSYS solo Supply Arrangement, TIER 1.
 _
 
 STREAM 3 (I) IM/IT SERVICES
@@ -288,7 +290,7 @@ P.11 Quality Assurance Specialist/Analyst
 
 
 
-_ACOSYS in a Joint Venture, Supply Arrangement, TIER 1 & 2
+_ACOSYS in a Joint Venture, Supply Arrangement, TIER 1 & 2.
 _
 
 APPLICATION SERVICES STREAM
