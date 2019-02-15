@@ -243,10 +243,13 @@ PROJECT MANAGEMENT SERVICES STREAM
 
 10.11 Communications Consultant
 
-* **Task-Based Informatics Professional Services (TBIPS)
-  **
 
-_ACOSYS solo Supply Arrangement, TIER 1.
+
+* **Task-Based Informatics Professional Services (TBIPS)**
+
+
+
+_ACOSYS solo Supply Arrangement, TIER 1
 _
 
 STREAM 3 (I) IM/IT SERVICES
