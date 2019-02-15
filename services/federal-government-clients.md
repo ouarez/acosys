@@ -18,6 +18,7 @@ Below is a list showcasing we are qualified suppliers with the following federal
 * **Tasks and Solutions Professional Services (TSPS)**
 
 
+
 HUMAN RESOURCES SERVICES STREAM
 
 1.1 Human Resources Consultant
@@ -39,6 +40,8 @@ HUMAN RESOURCES SERVICES STREAM
 1.9 HR Policy Development Consultant
 
 1.10 HR Assistant Consultant
+
+
 
 BUSINESS CONSULTING / CHANGE MANAGEMENT SERVICES STREAM
 
@@ -281,6 +284,8 @@ P.8 Project Leader
 P.9 Project Manager 
 
 P.11 Quality Assurance Specialist/Analyst 
+
+
 
 _ACOSYS in a Joint Venture, Supply Arrangement, TIER 1 & 2
 _
