@@ -292,7 +292,7 @@ P.11 Quality Assurance Specialist/Analyst
 
 
 
-_ACOSYS in a Joint Venture, Supply Arrangement, TIER 1 & 2.
+_ACOSYS in a Joint Venture, Supply Arrangement, TIER 1 & 2
 _
 
 APPLICATION SERVICES STREAM
