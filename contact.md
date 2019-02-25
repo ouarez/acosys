@@ -20,8 +20,6 @@ contact_info: >-
   Montreal, QC H3B 2S7
 
 
-
-
   **Toronto**
 
 
@@ -33,16 +31,10 @@ contact_info: >-
   Toronto, On M5X 1C1
 
 
-
-
   <i class="fas fa-phone dark-gray mr2"></i>(514) 744-9433 ext. 118  
 
 
-
-
   **Business hours:**
-
-
 
 
   Monday to Friday\
