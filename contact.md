@@ -42,7 +42,7 @@ contact_info: >-
   from 9:00 a.m. to 5:00 p.m. (Eastern Time)
 map_lat: '45.498372'
 map_long: '-73.571775'
-map_zoom: '13'
+map_zoom: '14'
 ---
 ### Get in touch with us
 
