@@ -259,6 +259,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11707365
     location: 'Mississauga, Ontario'
     title: Application Support Specialist
+  - date: '2019-04-29'
+    desc: >-
+      Acosys Consulting is looking to hire a Web Developer - Intermediate for
+      its Public client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12186191
+    location: 'Montreal, Quebec'
+    title: ' Web Developer'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
