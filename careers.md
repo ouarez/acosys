@@ -209,6 +209,30 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11963848
     location: 'Mississauga, Ontario'
     title: ' Senior Full Stack Developer'
+  - date: '2019-04-26'
+    desc: >-
+      Acosys Consulting is looking to hire a DevOps Engineer for its leading
+      health and benefits provider client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11963842
+    location: 'Mississauga, Ontario'
+    title: ' DevOps Engineer'
+  - date: '2019-04-24'
+    desc: >-
+      Acosys Consulting is looking to hire a Senior HR Advisor (contract) for
+      its leading health and benefits provider client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12222497
+    location: 'Mississauga, Ontario'
+    title: Senior Human Resource (HR) Advisor
+  - date: '2019-04-26'
+    desc: >-
+      > Acosys Consulting is looking to hire a Aboriginal Human Resources Intern
+      for its client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11651718
+    location: 'Toronto or Mississauga, Ontario'
+    title: ' Aboriginal Human Resources Intern'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
