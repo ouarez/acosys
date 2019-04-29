@@ -64,23 +64,16 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11479586
     location: 'Toronto, ON'
     title: Problem Coordinator
-  - date: '2018-11-13'
+  - date: '2019-04-26'
     desc: >-
       Acosys is currently looking for a Senior Business Analyst with a focus in
       Microsoft Dynamics AX to join our leading providers of health benefits
-      management services client. You will be responsible for analyzing the
-      system processes and data in response to business initiatives to help
-      drive higher productivity and streamlined activities and events. Also,
-      will be responsible for working closely with end users in the various
-      offices across Canada to support and analyzing their business needs. The
-      analyst must be effective at identifying areas of possible change,
-      defining requirements, and working to improve the overall benefit of the
-      Dynamics AX system.
+      management services client.
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11587428
     location: 'Mississauga, Ontario'
     title: Senior Business Analyst
-  - date: '2018-11-13'
+  - date: '2019-04-22'
     desc: >-
       Acosys is currently looking for a Senior AX Developer to join our leading
       providers of health benefits management services client. You will be
