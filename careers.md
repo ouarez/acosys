@@ -210,24 +210,42 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12222497
     location: 'Mississauga, Ontario'
     title: Senior Human Resource (HR) Advisor
-  - date: '2019-04-26'
+  - date: '2019-05-21'
     desc: >-
-      Acosys Consulting is looking to hire a Senior HR Advisor (contract) for
-      its leading health and benefits provider client.
-
-
-      Acosys is currently looking for a Senior Technical Analyst to lead the
-      delivery group of one of our client’s. Our client is looking to expand
-      into Western Canada and are searching for the best individual to lead this
-      initiative. In this remote position as a Senior Technical Analyst, not
-      only will you kick off their presence in Western Canada, you will create
-      solutions for clients and collaborate with developers to turn ideas into
-      reality. You will need top-notch communication skills, a commitment to
-      success, and an easy familiarity with technical matters.
+      Our leading Health and Benefits client in Canada is actively seeking an
+      energetic, conscientious Indigenous Assistant to join their Human
+      Resources Team to gain valuable insight into Talent Management.
     link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11651718
-    location: 'Toronto or Mississauga, Ontario'
-    title: ' Aboriginal Human Resources Intern'
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327200
+    location: 'Mississauga, Ontario'
+    title: ' Indigenous/Aboriginal Human Resource Assistant'
+  - date: '2019-05-22'
+    desc: >-
+      Our leading Health and Benefits client in Canada is actively seeking an
+      energetic, conscientious Indigenous person as an assistant to join their
+      Marketing Team. In this position, you will be responsible for coordinating
+      and administering various marketing projects, including the planning,
+      execution, tracking and reporting of key metrics.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327218
+    location: 'Mississauga, Ontario'
+    title: ' Indigenous/Aboriginal Marketing Assistant'
+  - date: '2019-05-31'
+    desc: >-
+      Our Public client is actively seeking to hire a Technology Architect –
+      Intermediate for a 9 month contract plus 2 option years.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12371975
+    location: 'Ottawa, Ontario'
+    title: ' Technology Architect'
+  - date: '2019-05-31'
+    desc: >-
+      Our Public client is actively seeking to hire a Platform Analyst – Level 2
+      for a 9 month contract plus 2 option years.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12372002
+    location: 'Ottawa, Ontario'
+    title: ' Platform Analyst'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
