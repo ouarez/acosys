@@ -238,6 +238,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12372002
     location: 'Ottawa, Ontario'
     title: ' Platform Analyst'
+  - date: '2019-08-15'
+    desc: "Acosys Consulting is looking to hire a Facilities Manager for its leading health and benefits provider client.\r\n\n\r\n\nThe Facilities Manager serves as the primary contact for Facilities Services in regards to planning and managing facilities improvement projects."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12532538
+    location: Mississauga
+    title: Facilities Manager
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
