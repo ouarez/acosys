@@ -97,14 +97,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11615970
     location: 'Mississauga, Ontario'
     title: Java Developer
-  - date: '2018-11-30'
-    desc: >-
-      Acosys Consulting is looking to hire a Secretary / Administrative
-      Assistant for its client.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11652078
-    location: 'Montreal, Quebec'
-    title: Secretary / Administrative Assistant
   - date: '2018-12-18'
     desc: >-
       Acosys is seeking the services of a Organization Development Consultant
