@@ -244,6 +244,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12532538
     location: Mississauga
     title: Facilities Manager
+  - date: '2019-08-29'
+    desc: >-
+      Acosys Consulting is looking to hire an Indigenous Project Management for
+      its client
+    link: >-
+      https://acosysconsulting.catsone.com/index.php?m=joborders&a=show&jobOrderID=12701290
+    location: Toronto
+    title: Indigenous Project Management
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
