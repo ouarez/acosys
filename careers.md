@@ -249,7 +249,7 @@ jobs:
       Acosys Consulting is looking to hire an Indigenous Project Management for
       its client
     link: >-
-      https://acosysconsulting.catsone.com/index.php?m=joborders&a=show&jobOrderID=12701290
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12701290
     location: Toronto
     title: Indigenous Project Management
 layout: careers
