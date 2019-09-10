@@ -252,6 +252,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12701290
     location: Toronto
     title: Indigenous Project Management
+  - date: '2019-09-10'
+    desc: >-
+      Acosys is currently looking for our public client a Senior Network
+      Analyst. This is a contract opportunity for more than a year + extension.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12742354
+    location: Ottawa
+    title: Senior Network Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
