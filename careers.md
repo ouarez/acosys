@@ -1,25 +1,11 @@
 ---
 jobs:
-  - date: '2018-08-24'
-    desc: >-
-      Acosys Consulting is looking to hire an Organizational Design and
-      Classification Consultant for its client
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297732
-    location: 'Ottawa, ON'
-    title: Organizational Design and Classification Consultant
   - date: '2018-09-25'
     desc: Acosys Consulting is looking to hire a HR Intern for one of our clients.
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411018
     location: 'Mississauga, ON'
     title: Bilingual Help Desk Analyst
-  - date: '2019-04-23'
-    desc: Acosys Consulting is looking to hire a Technical Writer for its client.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11416865
-    location: 'Mississauga, ON'
-    title: Technical Writer
   - date: '2019-04-22'
     desc: >-
       Acosys is currently looking for a Senior AX Developer to join our leading
@@ -52,17 +38,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327200
     location: 'Mississauga, Ontario'
     title: ' Indigenous/Aboriginal Human Resource Assistant'
-  - date: '2019-05-22'
-    desc: >-
-      Our leading Health and Benefits client in Canada is actively seeking an
-      energetic, conscientious Indigenous person as an assistant to join their
-      Marketing Team. In this position, you will be responsible for coordinating
-      and administering various marketing projects, including the planning,
-      execution, tracking and reporting of key metrics.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327218
-    location: 'Mississauga, Ontario'
-    title: ' Indigenous/Aboriginal Marketing Assistant'
   - date: '2019-08-15'
     desc: "Acosys Consulting is looking to hire a Facilities Manager for its leading health and benefits provider client.\r\n\n\r\n\nThe Facilities Manager serves as the primary contact for Facilities Services in regards to planning and managing facilities improvement projects."
     link: >-
@@ -77,14 +52,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12701290
     location: Toronto
     title: Indigenous Project Management
-  - date: '2019-09-10'
-    desc: >-
-      Acosys is currently looking for our public client a Senior Network
-      Analyst. This is a contract opportunity for more than a year + extension.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12742354
-    location: Ottawa
-    title: Senior Network Analyst
   - date: '2019-09-23'
     desc: >-
       Acosys Consulting is looking to hire a Sales and Proposal Coordinator to
@@ -93,6 +60,15 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12771412
     location: Montreal
     title: Sales and Proposal Coordinator
+  - date: '2019-09-23'
+    desc: >-
+      Acosys consulting is looking for a Senior Blaze Developer who will be
+      working closely with the product owners to define how best to address
+      business challenges faced by our customers and our internal operations.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12761254
+    location: Mississauga
+    title: Senior FICO Blaze Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
