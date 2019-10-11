@@ -43,7 +43,7 @@ jobs:
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12532538
     location: Mississauga
-    title: Facilities Coordinator
+    title: Facilities Senior Coordinator
   - date: '2019-08-29'
     desc: >-
       Acosys Consulting is looking to hire an Indigenous Project Management for
