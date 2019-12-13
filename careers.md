@@ -1,21 +1,5 @@
 ---
 jobs:
-  - date: '2018-09-25'
-    desc: Acosys Consulting is looking to hire a HR Intern for one of our clients.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411018
-    location: 'Mississauga, ON'
-    title: Bilingual Help Desk Analyst
-  - date: '2019-04-22'
-    desc: >-
-      Acosys is currently looking for a Senior AX Developer to join our leading
-      providers of health benefits management services client. You will be
-      working with the business and IS teams to code and support complex
-      customizations to our newly implemented Dynamics AX 2012 system.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11587566
-    location: 'Mississauga, Ontario'
-    title: Senior AX Developer
   - date: '2019-04-22'
     desc: >-
       Our client is actively seeking to hire a Network/VOIP Specialist who will
@@ -38,12 +22,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327200
     location: 'Mississauga, Ontario'
     title: ' Indigenous/Aboriginal Human Resource Assistant'
-  - date: '2019-08-15'
-    desc: "Acosys Consulting is looking to hire a Facilities Manager for its leading health and benefits provider client.\r\n\n\r\n\nThe Facilities Manager serves as the primary contact for Facilities Services in regards to planning and managing facilities improvement projects."
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12532538
-    location: Mississauga
-    title: Facilities Senior Coordinator
   - date: '2019-08-29'
     desc: >-
       Acosys Consulting is looking to hire an Indigenous Project Management for
@@ -52,23 +30,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12701290
     location: Toronto
     title: Indigenous Project Management
-  - date: '2019-09-23'
-    desc: >-
-      Acosys Consulting is looking to hire a Sales and Proposal Coordinator to
-      work in our office in Montreal.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12771412
-    location: Montreal
-    title: Sales and Proposal Coordinator
-  - date: '2019-09-23'
-    desc: >-
-      Acosys consulting is looking for a Senior Blaze Developer who will be
-      working closely with the product owners to define how best to address
-      business challenges faced by our customers and our internal operations.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12761254
-    location: Mississauga
-    title: Senior FICO Blaze Developer
   - date: '2019-11-01'
     desc: >-
       Our Public client is actively seeking to hire a Project Manager - Release
@@ -125,6 +86,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13009345
     location: Vancouver
     title: Proposal Coordinator
+  - date: '2019-12-13'
+    desc: "\r\n\nOur client is actively seeking Bilingual customer service representatives."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13016029
+    location: Montreal
+    title: Bilingual Customer Service Representative
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
