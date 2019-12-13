@@ -117,6 +117,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083582
     location: Ottawa
     title: 'Risk Management Specialist (Level 3) '
+  - date: '2019-12-13'
+    desc: >-
+      Our public client is actively seeking to hire a Proposal Coordinator for a
+      contract position
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13009345
+    location: Vancouver
+    title: Proposal Coordinator
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
