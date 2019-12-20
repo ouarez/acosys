@@ -22,14 +22,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327200
     location: 'Mississauga, Ontario'
     title: ' Indigenous/Aboriginal Human Resource Assistant'
-  - date: '2019-08-29'
-    desc: >-
-      Acosys Consulting is looking to hire an Indigenous Project Management for
-      its client
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12701290
-    location: Toronto
-    title: Indigenous Project Management
   - date: '2019-11-01'
     desc: >-
       Our Public client is actively seeking to hire a Project Manager - Release
@@ -92,6 +84,15 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13016029
     location: Montreal
     title: Bilingual Customer Service Representative
+  - date: '2019-12-20'
+    desc: >-
+      Acosys Consulting is looking for an experienced Indigenous Bookkeeper/
+      Office Coordinator for a 6 months contract with potential extension or
+      conversion to full-time employment.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13037251
+    location: Montreal
+    title: Indigenous Bookkeeper/ Office Coordinator
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
