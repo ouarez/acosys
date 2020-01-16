@@ -93,6 +93,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13037251
     location: Montreal
     title: Indigenous Bookkeeper/ Office Coordinator
+  - date: '2020-01-16'
+    desc: >-
+      Our Public sector client is actively seeking to hire a Senior Business
+      Analyst  for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13116658
+    location: Ottawa
+    title: Senior Business Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
