@@ -92,6 +92,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13116658
     location: Ottawa
     title: Senior Business Analyst
+  - date: '2020-02-03'
+    desc: >-
+      Our Public client is actively seeking to hire a Junior Web Developer for a
+      contract position. Work from home position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13167601
+    location: Ottawa
+    title: Web Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
