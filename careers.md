@@ -77,22 +77,13 @@ jobs:
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13009345
     location: Vancouver
-    title: Proposal Coordinator
+    title: Project Administrator
   - date: '2019-12-13'
     desc: "\r\n\nOur client is actively seeking Bilingual customer service representatives."
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13016029
     location: Montreal
     title: Bilingual Customer Service Representative
-  - date: '2019-12-20'
-    desc: >-
-      Acosys Consulting is looking for an experienced Indigenous Bookkeeper/
-      Office Coordinator for a 6 months contract with potential extension or
-      conversion to full-time employment.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13037251
-    location: Montreal
-    title: Indigenous Bookkeeper/ Office Coordinator
   - date: '2020-01-16'
     desc: >-
       Our Public sector client is actively seeking to hire a Senior Business
