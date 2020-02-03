@@ -104,6 +104,8 @@ jobs:
     desc: >-
       Our Public client is actively seeking to hire a Change Management
       Consultant (Level 3) for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13176403
     location: Ottawa
     title: Change Management Consultant - Level 3
 layout: careers
