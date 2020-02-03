@@ -108,6 +108,16 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13176403
     location: Ottawa
     title: Change Management Consultant - Level 3
+  - date: '2020-02-03'
+    desc: >-
+      Our Public client is actively seeking to hire a Business Consultant (Level
+      3) for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13176322
+    location: Ottawa
+    title: 'Business Consultant '
+  - date: '2020-02-03'
+  - date: '2020-02-03'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
