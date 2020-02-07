@@ -134,6 +134,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13186993
     location: Ottawa
     title: Business Analyst
+  - date: '2020-02-06'
+    desc: >-
+      Our Public sector client is actively seeking to hire a Project Manager
+      (Level 3) for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13186711
+    location: Ottawa
+    title: Project Manager
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
