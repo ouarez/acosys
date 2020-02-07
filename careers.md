@@ -118,6 +118,14 @@ jobs:
     title: 'Business Consultant '
   - date: '2020-02-03'
   - date: '2020-02-03'
+  - date: '2020-02-06'
+    desc: >-
+      Our Public sector client is actively seeking to hire a IM Architect (Level
+      3) for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13187137
+    location: Ottawa
+    title: IM Architect
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
