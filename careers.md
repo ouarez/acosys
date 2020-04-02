@@ -132,6 +132,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13229023
     location: Ottawa
     title: Project Manager - Level 3
+  - date: '2020-03-29'
+    desc: >-
+      Our Public client is actively seeking to hire a Risk Management Specialist
+      (Level 3) for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083582
+    location: Ottawa
+    title: Risk Management Specialist
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
