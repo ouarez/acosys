@@ -140,6 +140,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083582
     location: Ottawa
     title: Risk Management Specialist
+  - date: '2020-05-28'
+    desc: >-
+      Our Public client is actively seeking to hire a Bilingual Help Desk
+      Analyst (Level 2) for a long term contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13505783
+    location: Gatineau
+    title: Bilingual Help Desk Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
