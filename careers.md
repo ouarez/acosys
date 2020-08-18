@@ -70,20 +70,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083582
     location: Ottawa
     title: 'Risk Management Specialist (Level 3) '
-  - date: '2019-12-13'
-    desc: >-
-      Our public client is actively seeking to hire a Proposal Coordinator for a
-      contract position
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13009345
-    location: Vancouver
-    title: Project Administrator
-  - date: '2019-12-13'
-    desc: "\r\n\nOur client is actively seeking Bilingual customer service representatives."
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13016029
-    location: Montreal
-    title: Bilingual Customer Service Representative
   - date: '2020-01-16'
     desc: >-
       Our Public sector client is actively seeking to hire a Senior Business
@@ -100,22 +86,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13176403
     location: Ottawa
     title: Change Management Consultant - Level 3
-  - date: '2020-02-06'
-    desc: >-
-      Our Public sector client is actively seeking to hire an IM Architect
-      (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13187137
-    location: Ottawa
-    title: IM Architect
-  - date: '2020-02-06'
-    desc: >-
-      Our Public sector client is actively seeking to hire a Business Analyst
-      (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13186993
-    location: Ottawa
-    title: Business Analyst
   - date: '2020-02-06'
     desc: >-
       Our Public sector client is actively seeking to hire a Project Manager
@@ -148,6 +118,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13505783
     location: Gatineau
     title: Bilingual Help Desk Analyst
+  - date: '2020-08-18'
+    desc: >-
+      Our Health and Benefits client is actively seeking to hire a Dynamics CRM
+      Develoepr for a permanent position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13678100
+    location: Mississauga
+    title: Dynamics CRM Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
