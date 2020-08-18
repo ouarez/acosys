@@ -126,6 +126,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13678100
     location: Mississauga
     title: Dynamics CRM Developer
+  - date: '2020-08-07'
+    desc: >-
+      Our Public Sector client is actively seeking to hire a Web Architect
+      (Level 2) for a long term contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13633079
+    location: Ottawa/Gatineau
+    title: Web Architect
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
