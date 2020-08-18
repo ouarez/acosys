@@ -1,6 +1,6 @@
 ---
 jobs:
-  - date: '2019-04-22'
+  - date: '2020-07-17'
     desc: >-
       Our client is actively seeking to hire a Network/VOIP Specialist who will
       be reporting to the Sr. Manager of Production Operations as a key member
@@ -24,52 +24,12 @@ jobs:
     title: ' Indigenous/Aboriginal Human Resource Assistant'
   - date: '2019-11-01'
     desc: >-
-      Our Public client is actively seeking to hire a Project Manager - Release
-      Manager (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083597
-    location: Ottawa
-    title: Project Manager - Release Manager (Level 3)
-  - date: '2019-11-01'
-    desc: >-
       Our Public client is actively seeking to hire a Project Manager (Level 3)
       for a contract position
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083600
     location: Ottawa
     title: 'Project Manager (Level 3) '
-  - date: '2019-11-01'
-    desc: >-
-      Our Public client is actively seeking to hire a Project Executive (Level
-      3) for a contract position
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083603
-    location: Ottawa
-    title: Project Executive (Level 3)
-  - date: '2019-11-01'
-    desc: >-
-      Our Public client is actively seeking to hire a Change Management
-      Consultant (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083609
-    location: Ottawa
-    title: Change Management Consultant (Level 3)
-  - date: '2019-11-01'
-    desc: >-
-      Our Public client is actively seeking to hire a Project Scheduler (Level
-      3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083591
-    location: Ottawa
-    title: 'Project Scheduler (Level 3) '
-  - date: '2019-11-01'
-    desc: >-
-      Our Public client is actively seeking to hire a Risk Management Specialist
-      (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083582
-    location: Ottawa
-    title: 'Risk Management Specialist (Level 3) '
   - date: '2020-01-16'
     desc: >-
       Our Public sector client is actively seeking to hire a Senior Business
@@ -102,14 +62,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13229023
     location: Ottawa
     title: Project Manager - Level 3
-  - date: '2020-03-29'
-    desc: >-
-      Our Public client is actively seeking to hire a Risk Management Specialist
-      (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083582
-    location: Ottawa
-    title: Risk Management Specialist
   - date: '2020-05-28'
     desc: >-
       Our Public client is actively seeking to hire a Bilingual Help Desk
