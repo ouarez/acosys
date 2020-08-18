@@ -128,12 +128,12 @@ jobs:
     title: Dynamics CRM Developer
   - date: '2020-08-07'
     desc: >-
-      Our Public Sector client is actively seeking to hire a Web Architect
-      (Level 2) for a long term contract position.
+      Our Public Sector client is actively seeking to hire a Tester/Quality
+      Assurance Specialist (Level 2) for a long term contract position.
     link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13633079
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13677773
     location: Ottawa/Gatineau
-    title: Web Architect
+    title: Tester/Quality Assurance Specialist
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
