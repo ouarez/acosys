@@ -102,6 +102,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13737794
     location: Ottawa
     title: Organization Development Consultant
+  - date: '2020-09-17'
+    desc: >-
+      Our Public client is actively seeking to hire a Human Resource Consultant
+      for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13737599
+    location: Ottawa
+    title: Human Resource Consultant
   - date: '2020-09-21'
 layout: careers
 title: Careers
