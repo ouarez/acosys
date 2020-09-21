@@ -101,7 +101,8 @@ jobs:
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13737794
     location: Ottawa
-    title: Organization Development Conultant
+    title: Organization Development Consultant
+  - date: '2020-09-21'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
