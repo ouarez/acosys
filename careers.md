@@ -94,6 +94,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13677752
     location: Ottawa/Gatineau
     title: Web Architect
+  - date: '2020-09-17'
+    desc: >-
+      Our Public Sector client is actively seeking to hire an Organizational
+      Development Consultant for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13737794
+    location: Ottawa
+    title: Organization Development Conultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
