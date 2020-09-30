@@ -13,23 +13,15 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11963848
     location: 'Mississauga, Ontario'
     title: ' Senior Full Stack Developer'
-  - date: '2019-05-21'
+  - date: '2020-09-30'
     desc: >-
-      Our leading Health and Benefits client in Canada is actively seeking an
-      energetic, conscientious Indigenous Assistant to join their Human
-      Resources Team to gain valuable insight into Talent Management.
+      Acosys is actively seeking an energetic, conscientious Indigenous
+      Assistant to join their Human Resources Team to gain valuable insight into
+      Talent Management.
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327200
-    location: 'Mississauga, Ontario'
+    location: 'Montreal, Quebec'
     title: ' Indigenous/Aboriginal Human Resource Assistant'
-  - date: '2019-11-01'
-    desc: >-
-      Our Public client is actively seeking to hire a Project Manager (Level 3)
-      for a contract position
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12083600
-    location: Ottawa
-    title: 'Project Manager (Level 3) '
   - date: '2020-01-16'
     desc: >-
       Our Public sector client is actively seeking to hire a Senior Business
@@ -110,7 +102,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13737599
     location: Ottawa
     title: Human Resource Consultant
-  - date: '2020-09-21'
   - date: '2020-09-29'
     desc: >-
       Our Public Sector client is actively seeking to hire a Senior Technical
