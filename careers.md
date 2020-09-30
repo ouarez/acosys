@@ -111,6 +111,14 @@ jobs:
     location: Ottawa
     title: Human Resource Consultant
   - date: '2020-09-21'
+  - date: '2020-09-29'
+    desc: >-
+      Our Public Sector client is actively seeking to hire a Senior Technical
+      Writer for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13760629
+    location: Ottawa
+    title: Senior Technical Writer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
