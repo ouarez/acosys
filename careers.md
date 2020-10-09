@@ -118,6 +118,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13757873
     location: Ottawa
     title: Senior Project Manager
+  - date: '2020-10-08'
+    desc: >-
+      Our Public Sector client is actively seeking to hire an Organizational
+      Development Consultant for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13778640
+    location: Ottawa
+    title: Organizational Design and Classification Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
