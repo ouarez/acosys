@@ -22,14 +22,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12327200
     location: 'Montreal, Quebec'
     title: ' Indigenous/Aboriginal Human Resource Assistant'
-  - date: '2020-01-16'
-    desc: >-
-      Our Public sector client is actively seeking to hire a Senior Business
-      Analyst  for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13116658
-    location: Ottawa
-    title: Senior Business Analyst
   - date: '2020-02-03'
     desc: >-
       Our Public client is actively seeking to hire a Change Management
@@ -38,22 +30,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13176403
     location: Ottawa
     title: Change Management Consultant - Level 3
-  - date: '2020-02-06'
-    desc: >-
-      Our Public sector client is actively seeking to hire a Project Manager
-      (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13186711
-    location: Ottawa
-    title: Project Manager
-  - date: '2020-02-14'
-    desc: >-
-      Our Public sector client is actively seeking to hire a Project Manager -
-      (Level 3) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13229023
-    location: Ottawa
-    title: Project Manager - Level 3
   - date: '2020-05-28'
     desc: >-
       Our Public client is actively seeking to hire a Bilingual Help Desk
@@ -70,22 +46,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13678100
     location: Mississauga
     title: Dynamics CRM Developer
-  - date: '2020-08-07'
-    desc: >-
-      Our Public Sector client is actively seeking to hire a Tester/Quality
-      Assurance Specialist (Level 2) for a long term contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13677773
-    location: Ottawa/Gatineau
-    title: Tester/Quality Assurance Specialist
-  - date: '2020-08-07'
-    desc: >-
-      Our Public Sector client is actively seeking to hire a Web Architect
-      (Level 2) for a contract position.
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13677752
-    location: Ottawa/Gatineau
-    title: Web Architect
   - date: '2020-09-17'
     desc: >-
       Our Public Sector client is actively seeking to hire an Organizational
