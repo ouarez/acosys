@@ -126,6 +126,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13778640
     location: Ottawa
     title: Organizational Design and Classification Consultant
+  - date: '2020-10-09'
+    desc: >-
+      Our Public sector client is actively seeking to hire a Human Resource
+      Consultant for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13786011
+    location: Gatineau
+    title: Human Resource Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
