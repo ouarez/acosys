@@ -94,6 +94,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13786011
     location: Gatineau
     title: Human Resource Consultant
+  - date: '2020-10-29'
+    desc: >-
+      Our Public Sector client is actively seeking to hire a Senior Data
+      Modeller / IM Modeller Consultant for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13820757
+    location: Ottawa
+    title: Senior Data Modeller/IM Modeller
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
