@@ -102,6 +102,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13820757
     location: Ottawa
     title: Senior Data Modeller/IM Modeller
+  - date: '2020-11-06'
+    desc: >-
+      Our Health and Benefits Provider client is actively seeking to hire a
+      Product Owner for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13840032
+    location: Mississauga
+    title: Product Owner (Data Analytics & Reporting Solutions)
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
