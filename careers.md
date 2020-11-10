@@ -110,6 +110,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13840032
     location: Mississauga
     title: Product Owner (Data Analytics & Reporting Solutions)
+  - date: '2020-11-10'
+    desc: >-
+      Our Public Sector client is actively seeking to hire a Senior Java
+      Developer Consultant for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13839909
+    location: Ottawa
+    title: Senior Java Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
