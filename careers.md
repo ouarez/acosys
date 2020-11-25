@@ -118,6 +118,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13839909
     location: Ottawa
     title: Senior Java Developer
+  - date: '2020-11-23'
+    desc: >-
+      Our Public Sector client is actively seeking to hire an Intermediate
+      Programmer Analyst for a contract position.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13865426
+    location: Gatineau
+    title: Programmer Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
