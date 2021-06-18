@@ -44,7 +44,11 @@ main_nav:
     title: Business
     url: /business/
   - title: Careers
-    url: /careers
+    url: >-
+      <script type="text/javascript"
+      src="https://jobsapi.ceipal.com/APISource/widget.js"
+      data-ceipal-api-key="ckdLMm9QL2JtL0hQMExKSVQ1MXhOUT09"></script><div
+      id="example-widget-container"></div>
   - title: Contact
     url: /contact
 footer_nav:
