@@ -126,6 +126,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=13865426
     location: Gatineau
     title: Programmer Analyst
+  - date: '2021-06-18'
+    desc: >-
+      Our Health and Benefits Providers client is actively seeking to hire a
+      Senior Dynamics CRM Consultant for a permanent position.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/8f1d43620bc6bb580df6e80b0dc05c48
+    location: Mississauga
+    title: Senior Dynamics CRM Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
