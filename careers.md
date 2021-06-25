@@ -8,6 +8,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/8f1d43620bc6bb580df6e80b0dc05c48
     location: Mississauga
     title: Senior Dynamics CRM Developer
+  - date: '2021-06-25'
+    desc: >-
+      Our Federal Government client is actively seeking to hire a Technical
+      Architect Consultant for a Contract position.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/20d135f0f28185b84a4cf7aa51f29500
+    location: Ottawa
+    title: Technical Architect
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
