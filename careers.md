@@ -24,6 +24,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/9c3b1830513cc3b8fc4b76635d32e692
     location: Ottawa
     title: Senior Analyst - Service Management
+  - date: '2021-07-12'
+    desc: >-
+      Our Federal Government client is actively seeking to hire a Change
+      Management Consultant for a Contract position.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/d6ef5f7fa914c19931a55bb262ec879c
+    location: Ottawa
+    title: Change Management Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
