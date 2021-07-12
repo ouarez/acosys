@@ -16,6 +16,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/20d135f0f28185b84a4cf7aa51f29500
     location: Ottawa
     title: Technical Architect
+  - date: '2021-07-12'
+    desc: >-
+      Our Federal Government client is actively seeking to hire a Senior Analyst
+      - Service Management Consultant for a Contract position.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/9c3b1830513cc3b8fc4b76635d32e692
+    location: Ottawa
+    title: Senior Analyst - Service Management
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
