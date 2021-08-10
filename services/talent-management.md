@@ -21,9 +21,7 @@ Promoting cooperation and fairness, Acosys Consulting Services provides expert a
 
 Acosys acts as an impartial third party for its clients, to prevent or resolve complex problem situations: our methodology respects confidentiality and ensures the fairness of procedures, while respecting the highest ethical principles. Acosys can determine the admissibility of complaints, make recommendations to prevent future workplace disputes, recommend appropriate measures to ensure a healthy workplace, investigate workplace harassment, and offer solutions such as training, mediation, facilitation, and conciliation. 
 
-With a specialty in working with Indigenous businesses, communities, and organisations, Acosys offers a wide range of services, measures, and initiatives to assist employers in creating and maintaining a healthy environment in the workplace.  
-
-Our collaborative, multidisciplinary structure allows us to assemble customized teams that offer our clients tailored advice and counsel unique to their situation. 
+Acosys offers a wide range of services, measures, and initiatives to assist employers in creating and maintaining a healthy environment in the workplace. Our collaborative, multidisciplinary structure allows us to assemble customized teams that offer our clients tailored advice and counsel unique to their situation. 
 
 ### Indigenous Talent Management
 
