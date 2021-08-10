@@ -15,6 +15,16 @@ We assist our clients from recruitment, to retention, to policy advice. We also 
 
 **Our services include:**
 
+### Employee Relations
+
+Promoting cooperation and fairness, Acosys Consulting Services provides expert advice and assistance to employers on all aspects of Human Resources and Labour Relations matters.  
+
+Acosys acts as an impartial third party for its clients, to prevent or resolve complex problem situations: our methodology respects confidentiality and ensures the fairness of procedures, while respecting the highest ethical principles. Acosys can determine the admissibility of complaints, make recommendations to prevent future workplace disputes, recommend appropriate measures to ensure a healthy workplace, investigate workplace harassment, and offer solutions such as training, mediation, facilitation, and conciliation. 
+
+With a specialty in working with Indigenous businesses, communities, and organisations, Acosys offers a wide range of services, measures, and initiatives to assist employers in creating and maintaining a healthy environment in the workplace.  
+
+Our collaborative, multidisciplinary structure allows us to assemble customized teams that offer our clients tailored advice and counsel unique to their situation. 
+
 ### Indigenous Talent Management
 
 Attracting Indigenous talent requires unique strategies, and even once recruited, your Indigenous
@@ -39,7 +49,4 @@ Thinking for Decision Makers, and others.
 Make sure your policies and workforce comply with the latest provincial and federal legislation. We
 can help you with Harassment Policy, Contractor Policy, Employee Guidelines/Integration, and more.
 
-### Employee Relations
-
-Morale affects productivity. We offer a suite of services, including exit and satisfaction interviews,
-employee and management coaching, and issue resolution.
+###
