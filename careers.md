@@ -32,6 +32,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/d6ef5f7fa914c19931a55bb262ec879c
     location: Ottawa
     title: Change Management Consultant
+  - date: '2021-08-13'
+    desc: >-
+      We are actively seeking to hire a Business Consultant for a Contract
+      position.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/dd77279f7d325eec933f05b1672f6a1f/0/c4ca4238a0b923820dcc509a6f75849b
+    location: Work from home
+    title: Business Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
