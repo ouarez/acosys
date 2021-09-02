@@ -56,6 +56,12 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/8597a6cfa74defcbde3047c891d78f90/0/c4ca4238a0b923820dcc509a6f75849b
     location: Ottawa
     title: Database Administrator
+  - date: '2021-09-02'
+    desc: We are actively seeking to hire a HR Intern for our Acosys.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3b712de48137572f3849aabd5666a4e3/0/c4ca4238a0b923820dcc509a6f75849b
+    location: Montreal
+    title: HR Intern
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
