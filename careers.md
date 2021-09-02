@@ -62,6 +62,11 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3b712de48137572f3849aabd5666a4e3/0/c4ca4238a0b923820dcc509a6f75849b
     location: Montreal
     title: HR Intern
+  - date: '2021-09-02'
+    desc: We are actively seeking to hire an IT Recruitment for our Acosys.
+    location: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3a15c7d0bbe60300a39f76f8a5ba6896/0/c4ca4238a0b923820dcc509a6f75849b
+    title: IT Recruiter
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
