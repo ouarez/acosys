@@ -85,6 +85,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/c21002f464c5fc5bee3b98ced83963b8/MQ==?Rfby=FJWSgO4wLAnzswMkgFSA151QewG8e4E1iTYNy6gazsE=
     location: Montreal
     title: Human Resource Consultant
+  - date: '2021-09-11'
+    desc: >-
+      We are actively seeking to hire a Equity, Diversity and Inclusion (EDI)
+      Consultant to join our team.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/ffeed84c7cb1ae7bf4ec4bd78275bb98/MQ==?Rfby=FJWSgO4wLAnzswMkgFSA151QewG8e4E1iTYNy6gazsE=
+    location: 'Montreal, Ottawa'
+    title: 'Equity, Diversity and Inclusion Consultant'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
