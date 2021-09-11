@@ -77,6 +77,7 @@ jobs:
     title: >-
       Organizational Design and Classification Consultant (Contract)- Work from
       Home
+  - date: '2021-09-11'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
