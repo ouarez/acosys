@@ -67,6 +67,16 @@ jobs:
     location: >-
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3a15c7d0bbe60300a39f76f8a5ba6896/0/c4ca4238a0b923820dcc509a6f75849b
     title: IT Recruiter
+  - date: '2021-09-11'
+    desc: >-
+      We are actively seeking to hire a Organizational Design and Consultant
+      (Contract) - Work from Home for our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/c7635bfd99248a2cdef8249ef7bfbef4/MQ==?Rfby=FJWSgO4wLAnzswMkgFSA151QewG8e4E1iTYNy6gazsE=
+    location: Ottawa
+    title: >-
+      Organizational Design and Classification Consultant (Contract)- Work from
+      Home
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
