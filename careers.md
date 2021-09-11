@@ -78,6 +78,13 @@ jobs:
       Organizational Design and Classification Consultant (Contract)- Work from
       Home
   - date: '2021-09-11'
+    desc: >-
+      We are actively seeking to hire a Human Resource Consultant to join our
+      team.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/c21002f464c5fc5bee3b98ced83963b8/MQ==?Rfby=FJWSgO4wLAnzswMkgFSA151QewG8e4E1iTYNy6gazsE=
+    location: Montreal
+    title: Human Resource Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
