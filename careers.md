@@ -109,6 +109,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3fe78a8acf5fda99de95303940a2420c/MQ==?Rfby=FJWSgO4wLAnzswMkgFSA151QewG8e4E1iTYNy6gazsE=
     location: Ottawa
     title: Senior Project Manager
+  - date: '2021-10-06'
+    desc: >-
+      We are actively seeking to hire a Project Manager-Level 3 (Contract) for
+      our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/69a5b5995110b36a9a347898d97a610e/0/c4ca4238a0b923820dcc509a6f75849b
+    location: Ottawa
+    title: Project Manager - Level 3
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
