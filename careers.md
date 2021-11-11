@@ -117,6 +117,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/69a5b5995110b36a9a347898d97a610e/0/c4ca4238a0b923820dcc509a6f75849b
     location: Ottawa
     title: Project Manager - Level 3
+  - date: '2021-11-10'
+    desc: >-
+      We are actively seeking to hire a Organizational Design and Consultant
+      (Contract) for our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/4a213d37242bdcad8e7300e202e7caa4/0/c4ca4238a0b923820dcc509a6f75849b
+    location: Ottawa
+    title: Organizational Design and Classification Consultant (Contract)
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
