@@ -125,6 +125,16 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/4a213d37242bdcad8e7300e202e7caa4/0/c4ca4238a0b923820dcc509a6f75849b
     location: Ottawa
     title: Organizational Design and Classification Consultant (Contract)
+  - date: '2021-11-10'
+    desc: >-
+      We are actively seeking to hire a Organizational Design and Classification
+      Consultant (Contract) - Work from Home for our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/fe709c654eac84d5239d1a12a4f71877/0/c4ca4238a0b923820dcc509a6f75849b
+    location: 'Ottawa, Montreal'
+    title: >-
+      Organizational Design and Classification Consultant (Contract) - Work from
+      Home
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
