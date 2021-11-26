@@ -135,6 +135,14 @@ jobs:
     title: >-
       Organizational Design and Classification Consultant (Contract) - Work from
       Home
+  - date: '2021-11-26'
+    desc: >-
+      We are actively seeking to hire a Bilingual Change Management Consultant
+      for our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/571e0f7e2d992e738adff8b1bd43a521/0/c4ca4238a0b923820dcc509a6f75849b
+    location: 'Ottawa, Quebec'
+    title: Bilingual Change Management Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
