@@ -149,6 +149,12 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/fd06b8ea02fe5b1c2496fe1700e9d16c/0/c4ca4238a0b923820dcc509a6f75849b
     location: Remote
     title: .Net Developer
+  - date: '2022-01-12'
+    desc: We are actively seeking to hire a Java Developer for our Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/7c9d0b1f96aebd7b5eca8c3edaa19ebb/0/c4ca4238a0b923820dcc509a6f75849b
+    location: Ontario
+    title: Java Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
