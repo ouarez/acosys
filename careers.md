@@ -169,6 +169,12 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/47a658229eb2368a99f1d032c8848542/0/c4ca4238a0b923820dcc509a6f75849b
     location: Canada - Remote
     title: Senior Business Consultant
+  - date: '2022-01-20'
+    desc: We are actively seeking to hire an Electrical Design Engineer
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/801c14f07f9724229175b8ef8b4585a8/MQ==?Rfby=FJWSgO4wLAnzswMkgFSA151QewG8e4E1iTYNy6gazsE=
+    location: Ontario
+    title: 'Electrical Design Engineer '
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
