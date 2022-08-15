@@ -92,6 +92,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/1e1d184167ca7676cf665225e236a3d2/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: 'Ottawa, Ontario'
     title: 'Intermediate Web Developer '
+  - date: '2022-08-15'
+    desc: >-
+      We are actively seeking to hire a Business Consultant for our Federal
+      Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/00e26af6ac3b1c1c49d7c3d79c60d000/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: 'Ottawa, Ontario'
+    title: Buisness Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
