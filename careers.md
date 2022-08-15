@@ -72,6 +72,12 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/a3fb4fbf9a6f9cf09166aa9c20cbc1ad/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: 'Ottawa, Ontario'
     title: Organization Development Consultant
+  - date: '2022-08-15'
+    desc: We are actively seeking to hire a Project Planner for our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/9da187a7a191431db943a9a5a6fec6f4/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: 'Ottawa, Ontario'
+    title: Project Planner
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
