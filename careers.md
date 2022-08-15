@@ -66,12 +66,13 @@ jobs:
     title: Senior Business Consultant
   - date: '2022-08-15'
     desc: >-
-      Our Federal Government client is actively seeking to hire a Change
-      Management Consultant for a Contract position.
+      We are actively seeking to hire an Organization Development Consultant for
+      our Federal Client.
     link: >-
-      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/2f29b6e3abc6ebdefb55456ea6ca5dc8/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/a3fb4fbf9a6f9cf09166aa9c20cbc1ad/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: 'Ottawa, Ontario'
-    title: Change Management Consultant
+    title: Organization Development Consultant
+  - date: '2022-08-15'
   - date: '2022-08-15'
 layout: careers
 title: Careers
