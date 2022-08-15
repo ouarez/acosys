@@ -124,6 +124,16 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/884d79963bd8bc0ae9b13a1aa71add73/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Project Administrator
+  - date: '2022-08-15'
+    desc: >-
+      We are actively seeking to hire a Organizational Design and Classification
+      Consultant Resource (Intermediate) for our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/36a1694bce9815b7e38a9dad05ad42e0/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: >-
+      Organizational Design and Classification Consultant Resource
+      (Intermediate) 
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
