@@ -108,6 +108,14 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/6e7d2da6d3953058db75714ac400b584/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: 'Ottawa, Ontario'
     title: 'Business System Analyst '
+  - date: '2022-08-15'
+    desc: >-
+      We are actively seeking to hire a Business Transformation Architect, for
+      our Federal Client.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/abea47ba24142ed16b7d8fbf2c740e0d/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: 'Ottawa, Ontario'
+    title: 'Business Transformation Architect '
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
