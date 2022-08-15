@@ -1,13 +1,5 @@
 ---
 jobs:
-  - date: '2021-06-18'
-    desc: >-
-      Our Health and Benefits Providers client is actively seeking to hire a
-      Senior Dynamics CRM Consultant for a permanent position.
-    link: >-
-      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/8f1d43620bc6bb580df6e80b0dc05c48
-    location: Mississauga
-    title: Senior Dynamics CRM Developer
   - date: '2021-06-25'
     desc: >-
       Our Federal Government client is actively seeking to hire a Technical
@@ -155,26 +147,21 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/7c9d0b1f96aebd7b5eca8c3edaa19ebb/0/c4ca4238a0b923820dcc509a6f75849b
     location: Ontario
     title: Java Developer
-  - date: '2022-01-12'
-    desc: >-
-      We are actively seeking to hire a Instrumentation and Control Engineer for
-      our Client.
-    link: >-
-      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/fd2c5e4680d9a01dba3aada5ece22270/0/c4ca4238a0b923820dcc509a6f75849b
-    location: Ontario
-    title: Instrumentation and Control Engineer
   - date: '2022-01-08'
     desc: We are actively seeking to hire a Business Consultant.
     link: >-
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/47a658229eb2368a99f1d032c8848542/0/c4ca4238a0b923820dcc509a6f75849b
     location: Canada - Remote
     title: Senior Business Consultant
-  - date: '2022-01-20'
-    desc: We are actively seeking to hire an Electrical Design Engineer
+  - date: '2022-08-15'
+    desc: >-
+      Our Federal Government client is actively seeking to hire a Change
+      Management Consultant for a Contract position.
     link: >-
-      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/801c14f07f9724229175b8ef8b4585a8/MQ==?Rfby=FJWSgO4wLAnzswMkgFSA151QewG8e4E1iTYNy6gazsE=
-    location: Ontario
-    title: 'Electrical Design Engineer '
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/2f29b6e3abc6ebdefb55456ea6ca5dc8/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: 'Ottawa, Ontario'
+    title: Change Management Consultant
+  - date: '2022-08-15'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
