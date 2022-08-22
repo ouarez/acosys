@@ -149,6 +149,7 @@ jobs:
     link: >-
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/0a0a0c8aaa00ade50f74a3f0ca981ed7/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Ottawa
+    title: Employee Equity Consultant
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
