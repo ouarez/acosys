@@ -151,6 +151,13 @@ jobs:
     location: Ottawa
     title: Employee Equity Consultant
   - date: '2022-08-23'
+    desc: >-
+      We are actively seeking to hire SIX (6) Field Technicians for one of our
+      clients.
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3473decccb0509fb264818a7512a8b9b/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Montreal
+    title: Field Technician
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
