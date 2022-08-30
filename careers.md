@@ -142,14 +142,6 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/a113c1ecd3cace2237256f4c712f61b5/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: ' Organizational Design and Classification Consultant Resource (Senior)'
-  - date: '2022-08-22'
-    desc: >-
-      We are actively seeking to hire a Employee Equity Consultant , for our
-      Federal Client
-    link: >-
-      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/0a0a0c8aaa00ade50f74a3f0ca981ed7/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
-    location: Ottawa
-    title: Employee Equity Consultant
   - date: '2022-08-30'
     desc: >-
       We are actively seeking to hire an Employment Equity Consultant for our
