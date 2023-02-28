@@ -158,6 +158,12 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3473decccb0509fb264818a7512a8b9b/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Montreal QC
     title: Field Technician
+  - date: '2023-02-28'
+    desc: "We are actively seeking to hire a Senior Business Analyst for one of our Federal Clients.\r\n\n\r\n\nTitle: Senior Business Analyst\r\n\n\r\n\nLocation: Ottawa, Ontario.\n\nhttps://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3f67fd97162d20e6fe27748b5b372509/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ=="
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3f67fd97162d20e6fe27748b5b372509/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Ottawa
+    title: Senior Business Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
