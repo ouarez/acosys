@@ -164,6 +164,12 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3f67fd97162d20e6fe27748b5b372509/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Ottawa
     title: Senior Business Analyst
+  - date: '2023-03-02'
+    desc: "We are actively seeking to hire a Web Developer, for one of our Federal Clients.\r\n\n\r\n\nTitle: Web Developer\r\n\n\r\n\nLocation: Ottawa, Ontario\n\nhttps://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3948ead63a9f2944218de038d8934305/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ=="
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3948ead63a9f2944218de038d8934305/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Ottawa
+    title: Web Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
