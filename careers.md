@@ -170,6 +170,12 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3948ead63a9f2944218de038d8934305/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Ottawa
     title: Web Developer
+  - date: '2023-03-20'
+    desc: "We are actively seeking to hire two SAP Functional Analysts, for one of our federal clients.\r\n\n\r\n\nTitle: SAP Functional Analyst\r\n\n\r\n\nLocation: Hybrid- Ottawa, Ontario\n\nhttps://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/1d72310edc006dadf2190caad5802983/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ=="
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/1d72310edc006dadf2190caad5802983/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Hybrid
+    title: SAP Functional Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
