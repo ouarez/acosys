@@ -176,6 +176,23 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/1d72310edc006dadf2190caad5802983/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Hybrid
     title: SAP Functional Analyst
+  - date: '2023-03-28'
+    desc: >-
+      We are actively seeking to hire a Systems Analyst, for one of our federal
+      clients.
+
+
+      Title: Systems Analyst
+
+
+      Location: Remote
+
+
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/68d13cf26c4b4f4f932e3eff990093ba/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/68d13cf26c4b4f4f932e3eff990093ba/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Systems Analyst
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
