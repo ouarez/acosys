@@ -227,6 +227,26 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/3a029f04d76d32e79367c4b3255dda4d/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Application/Software Architect
+  - date: '2023-03-28'
+    desc: >-
+      We are actively seeking to hire a Tester, for one of our federal clients.
+
+
+      Title: Tester
+
+
+      Location: Remote
+
+
+
+
+
+
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/25df35de87aa441b88f22a6c2a830a17/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/25df35de87aa441b88f22a6c2a830a17/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Tester
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
