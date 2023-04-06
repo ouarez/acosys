@@ -247,6 +247,20 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/25df35de87aa441b88f22a6c2a830a17/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Tester
+  - date: '2023-04-06'
+    desc: >-
+      We are actively seeking to hire an Intermediate Technical Writer, for a
+      contract role, with one of our federal clients.
+
+
+      Location: Remote
+
+
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/eb86d510361fc23b59f18c1bc9802cc6/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/eb86d510361fc23b59f18c1bc9802cc6/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Intermediate Technical Writer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
