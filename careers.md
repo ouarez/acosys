@@ -293,7 +293,17 @@ jobs:
     link: >-
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/e53a0a2978c28872a4505bdb51db06dc/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
-    title: Senior Project Manager
+    title: Senior Change Management Consultant
+  - date: '2023-04-11'
+    desc: >-
+      We are actively seeking to hire a Senior Change Management Consultant, for
+      a contract role, with one of our federal clients.
+
+
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/e034fb6b66aacc1d48f445ddfb08da98/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/e034fb6b66aacc1d48f445ddfb08da98/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
