@@ -261,6 +261,17 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/eb86d510361fc23b59f18c1bc9802cc6/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Intermediate Technical Writer
+  - date: '2023-04-11'
+    desc: >-
+      We are actively seeking to hire a Senior Information Management Architect,
+      for a contract role, with one of our federal clients.
+
+
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/4122cb13c7a474c1976c9706ae36521d/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/4122cb13c7a474c1976c9706ae36521d/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Senior Information Management Architect
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
