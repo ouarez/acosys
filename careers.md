@@ -326,6 +326,18 @@ jobs:
       https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/9996535e07258a7bbfd8b132435c5962/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Senior Systems Analyst
+  - date: '2023-04-28'
+    desc: >-
+      We are actively seeking to hire a Risk Management Specialist, for a
+      contract role, with one of our federal clients.
+
+
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/7bccfde7714a1ebadf06c5f4cea752c1/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://careerportal.ceipal.com/jobs/career/40882bebd317419cfcea3adc3dcfae6c/7bccfde7714a1ebadf06c5f4cea752c1/MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Risk Management Specialist
+  - date: '2023-04-28'
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
