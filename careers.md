@@ -338,6 +338,12 @@ jobs:
     location: Remote
     title: Risk Management Specialist
   - date: '2023-04-28'
+  - date: '2023-08-08'
+    desc: "Title: Salesforce Developer\r\n\n\r\n\nLocation: Remote\r\n\n\r\n\nWe are actively seeking to hire a Salesforce Developer, for a contract role, with one of our federal clients.\r\n\n\r\n\nhttps://candidateportal.ceipal.com/jobs/job_description/Z2ZFZVFnYmdHVjB1T0x4R3Q1UUh2QT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ=="
+    link: >-
+      https://candidateportal.ceipal.com/jobs/job_description/Z2ZFZVFnYmdHVjB1T0x4R3Q1UUh2QT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: 'Ottawa, ON.'
+    title: Salesforce Developer
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
