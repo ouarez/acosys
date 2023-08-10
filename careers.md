@@ -344,6 +344,12 @@ jobs:
       https://candidateportal.ceipal.com/jobs/job_description/Z2ZFZVFnYmdHVjB1T0x4R3Q1UUh2QT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: 'Ottawa, ON.'
     title: Salesforce Developer
+  - date: '2023-08-10'
+    desc: "\n\nTitle: Technical Recruiter\r\n\nDate: August 10th, 2023\r\n\nLocation: Remote\n\nWe are actively seeking to hire a Technical Recruiter, for a contract role!\n\nhttps://candidateportal.ceipal.com/jobs/job_description/dnZvT0h0a0luS2NwdERWTTdrNWYyZz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ=="
+    link: >-
+      https://candidateportal.ceipal.com/jobs/job_description/dnZvT0h0a0luS2NwdERWTTdrNWYyZz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Technical Recruiter
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
