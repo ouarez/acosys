@@ -350,6 +350,23 @@ jobs:
       https://candidateportal.ceipal.com/jobs/job_description/dnZvT0h0a0luS2NwdERWTTdrNWYyZz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Technical Recruiter
+  - date: '2023-08-24'
+    desc: >-
+      **Title: **Programmer/Analyst Level 2
+
+
+      **Location:** Remote
+
+
+      We are actively seeking to hire a Level 2 Programmer/Analyst, for a
+      contract role with one of our federal clients.
+
+
+      https://candidateportal.ceipal.com/jobs/job_description/clFSWmlFM2R0UG9jVHBRd3I4OVFPUT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://candidateportal.ceipal.com/jobs/job_description/clFSWmlFM2R0UG9jVHBRd3I4OVFPUT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Programmer/Analyst Level 2
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
