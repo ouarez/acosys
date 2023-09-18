@@ -401,6 +401,23 @@ jobs:
       https://candidateportal.ceipal.com/jobs/job_description/TXZsUmZvQnUzbFZBVXExcEE5YUtzQT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Tester-Level 2
+  - date: '2023-09-18'
+    desc: >-
+      Title: Programmer/Analyst
+
+
+      Location: Remote
+
+
+      We are actively seeking to hire a Level 3 Programmer/Analyst, for a
+      contract role with one of our federal clients.
+
+
+      https://candidateportal.ceipal.com/jobs/job_description/TlI2UzhjUGFOa083M1ZEcjhLbWRWQT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://candidateportal.ceipal.com/jobs/job_description/TlI2UzhjUGFOa083M1ZEcjhLbWRWQT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Programmer/Analyst- Level 3
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
