@@ -437,6 +437,23 @@ jobs:
       https://candidateportal.ceipal.com/jobs/job_description/aENhdFFaT0RGcEdJK3haU2lBZFR0Zz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Intermediate Salesforce Professionals
+  - date: '2023-10-16'
+    desc: >-
+      We are actively seeking to hire Senior Salesforce Professionals, to join
+      our team!
+
+
+      **Title:** Senior Salesforce Professionals
+
+
+      **Location**: Remote
+
+
+      https://candidateportal.ceipal.com/jobs/job_description/NzF0TDNVa1hIcGZ0dUxQazdaeUthUT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://candidateportal.ceipal.com/jobs/job_description/NzF0TDNVa1hIcGZ0dUxQazdaeUthUT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Senior Salesforce Professional
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
