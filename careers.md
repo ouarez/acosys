@@ -418,6 +418,25 @@ jobs:
       https://candidateportal.ceipal.com/jobs/job_description/TlI2UzhjUGFOa083M1ZEcjhLbWRWQT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Programmer/Analyst- Level 3
+  - date: '2023-10-16'
+    desc: >-
+      We are actively looking to hire Intermediate Salesforce Professionals, to
+      join our team!
+
+
+
+
+      **Title:** Intermediate Salesforce Professionals
+
+
+      **Location**: Remote
+
+
+      https://candidateportal.ceipal.com/jobs/job_description/aENhdFFaT0RGcEdJK3haU2lBZFR0Zz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://candidateportal.ceipal.com/jobs/job_description/aENhdFFaT0RGcEdJK3haU2lBZFR0Zz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: Remote
+    title: Intermediate Salesforce Professionals
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
