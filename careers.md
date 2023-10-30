@@ -454,6 +454,18 @@ jobs:
       https://candidateportal.ceipal.com/jobs/job_description/NzF0TDNVa1hIcGZ0dUxQazdaeUthUT09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
     location: Remote
     title: Senior Salesforce Professional
+  - date: '2023-10-30'
+    desc: >-
+      We are actively seeking to hire an Office Administrative Coordinator, for
+      a role with our company!
+
+
+      **Location: Montreal,
+      **QChttps://candidateportal.ceipal.com/jobs/job_description/QTRlK0dnTkRBNUFoRnNJUlZLVHJNZz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    link: >-
+      https://candidateportal.ceipal.com/jobs/job_description/QTRlK0dnTkRBNUFoRnNJUlZLVHJNZz09//MQ==?Rfby=ozFLu6SfQn+oKDDWe0LvZKOGOKV6aU1jk6YFbuo06p6FeHwI4GYYSSuT4FkNnY88/0yp0LUfJwyGsmjNc+2sFQ==
+    location: 'Montreal, QC'
+    title: Office Administrative Coordinator
 layout: careers
 title: Careers
 translation_url: 'https://fr.acosysconsulting.com/emplois'
