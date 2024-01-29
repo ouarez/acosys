@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 layout: page
+translation_url: 'https://acosysconsulting.com'
 permalink: /privacy-policy
 description: >-
   This page informs you of our policies regarding the collection, use, and
@@ -10,7 +11,7 @@ cover_image: /img/cover2.jpg
 ---
 ## Privacy Policy
 
-Effective date: July 11, 2018
+Effective date: December 23, 2023
 
 Acosys Consulting Services ("us", "we", or "our") operates the <https://acosysconsulting.com> website (the "Service").
 
@@ -18,94 +19,61 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <https://acosysconsulting.com>
 
-## Information Collection And Use
+## Introduction
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+Purpose: Acosys Consulting Services Inc. (Acosys) is committed to protecting the privacy and security of our clients', employees, contractors, and website visitors' personal information. This policy outlines our practices regarding data collection, use, and sharing.
 
-## Types of Data Collected
+Scope: This policy applies to all personal information collected by Acosys through our website, client interactions, and other business operations.
 
-### Personal Data
+## Information Collection
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+Types of Data Collected: Acosys may collect personal information such as names, contact details, professional information, and other relevant data necessary for our business operations.
 
-* Email address
-* First name and last name
-* Phone number
-* Cookies and Usage Data
+Methods of Collection: Data is collected through direct interactions (e.g., client consultations etc.), our website (e.g., contact forms, etc.), visitor information sign-in requirements should on-site visitation occur, and other professional engagements as required.
 
-### Usage Data
+On-site information collection: With respect to video surveillance on our premises is restricted to outside our office and managed by the building owners (AutoPark Stanley): Autoparc Stanley | Worry-free Parking in Downtown Montreal) and Alarm Monitoring. Acosys also have video doorbell (Skybell) that takes images of visitors who either push or ring the front door of the office. The front door is accessible at the street level. This is managed by our security monitoring service provider (Sentinel: English — Sentinel Alarm (alarmesentinelle.com).
 
-We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+We use images and footage collected to ensure the safety of our employees, customers, and visitors, monitor and manage the use of our parking lots or front door, prevent and detect crimes, and investigate accidents, incidents, and claims, investigate potential breaches of PwC policies, and to understand operational efficiencies and challenges. The inside our offices do not have cameras to maintain worker privacy and comply with security requirements of PSPC’s Industrial Security Service (ISS) Program.
 
-### Tracking & Cookies Data
+## Use of Information
 
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+Purpose: Collected data is used to provide and improve our services, communicate with clients, comply with legal obligations, and for marketing purposes, where applicable.
 
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+Legal Basis: Acosys process data based on consent, contractual necessity, and as required by law.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+## Information Sharing and Disclosure
 
-Examples of Cookies we use:
+Third Parties: Acosys may share data with service providers, business partners, and affiliates as necessary for business operations. Acosys will never sell or distribute personal information to Third Parties for financial gain.
 
-* Session Cookies. We use Session Cookies to operate our Service.
-* Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-* Security Cookies. We use Security Cookies for security purposes.
+Legal Requirements: Data may be disclosed if required by law or in response to legal processes.
 
-### Use of Data
+## Data Security
 
-Acosys Consulting Services uses the collected data for various purposes:
+Security Measures: Acosys implement robust security measures such as encryption and access controls to protect personal data.
 
-* To provide and maintain the Service
-* To notify you about changes to our Service
-* To allow you to participate in interactive features of our Service when you choose to do so
-* To provide customer care and support
-* To provide analysis or valuable information so that we can improve the Service
-* To monitor the usage of the Service
-* To detect, prevent and address technical issues
+Data Breach Response: In case of a data breach, Acosys will take immediate steps to mitigate harm and notify affected individuals as required by law.
 
-## Transfer Of Data
+## Data Retention
 
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+Retention Period: Personal data is retained for 7 years, as specified by clients’ on a project specific basis, or as required by law.
 
-If you are located outside Canada and choose to provide information to us, please note that we transfer the data, including Personal Data, to Canada and process it there.
+Disposal: Data is securely disposed of or anonymized when no longer needed.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+## Rights of Individuals
 
-Acosys Consulting Services will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Access and Control: Individuals have the right to access, correct, or delete their personal data.
 
-## Disclosure Of Data
+Exercising Rights: For requests or inquiries regarding your personal data that may be held by Acosys, please Contact Us.
 
-### Legal Requirements
+## International Data Transfers
 
-Acosys Consulting Services may disclose your Personal Data in the good faith belief that such action is necessary to:
+Transfer Mechanisms: If personal data is transferred internationally, Acosys ensure appropriate safeguards are in place.
 
-* To comply with a legal obligation
-* To protect and defend the rights or property of Acosys Consulting Services
-* To prevent or investigate possible wrongdoing in connection with the Service
-* To protect the personal safety of users of the Service or the public
-* To protect against legal liability
+## Policy Updates
 
-## Security Of Data
+Changes to Policy: This policy may be updated periodically to reflect changes in our practices or legal requirements. Acosys will revise the “last updated” date at the bottom of the Privacy Statement. We encourage you to periodically review this Privacy Statement to learn how Acosys is protecting your information.
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
-
-## Service Providers
-
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
-
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
-## Links To Other Sites
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-## Children's Privacy
-
-Our Service does not address anyone under the age of 18 ("Children").
-
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+Notification: Significant changes will be communicated through our website or direct communication with clients’, employees, contractors, or others as required and appropriate.
 
 ## Changes To This Privacy Policy
 
@@ -114,6 +82,10 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Proudly Canadian
+
+Commitment to Excellence: In instances where differing security approaches or standards are present, our policy is to adopt the most stringent and effective measures. This approach is guided by a principle of proactive risk management, ensuring that the confidentiality, integrity, and availability of data are maintained at the highest level.
 
 ## Contact Us
 
