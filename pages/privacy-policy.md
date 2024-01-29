@@ -31,7 +31,7 @@ Types of Data Collected: Acosys may collect personal information such as names, 
 
 Methods of Collection: Data is collected through direct interactions (e.g., client consultations etc.), our website (e.g., contact forms, etc.), visitor information sign-in requirements should on-site visitation occur, and other professional engagements as required.
 
-On-site information collection: With respect to video surveillance on our premises is restricted to outside our office and managed by the building owners (AutoPark Stanley): Autoparc Stanley | Worry-free Parking in Downtown Montreal) and Alarm Monitoring. 
+On-site information collection: With respect to video surveillance on our premises is restricted to outside our office and managed by the building owners (AutoPark Stanley) and Alarm Monitoring. 
 
 Acosys also have video doorbell (Skybell) that takes images of visitors who either push or ring the front door of the office. The front door is accessible at the street level. This is managed by our security monitoring service provider (Sentinel: English — Sentinel Alarm (alarmesentinelle.com).
 
