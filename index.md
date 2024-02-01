@@ -64,7 +64,8 @@ intro_services:
       We also help both their business units and recruiters engage resources,
       and help the candidates ready themselves for the client’s business.
     title: TALENT MANAGEMENT
-  - link: /services/environmental-and-geomatics
+  - icon: water
+    link: /services/environmental-and-geomatics
     text: >-
       Excellence in interdisciplinary studies to facilitate broader
       understanding of current research and policy issues. We bring expertise in
