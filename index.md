@@ -42,37 +42,50 @@ url_2: /business
 url_text_2: Business Insights
 intro_services:
   - icon: lightbulb
+    link: /services/business-solutions
     text: >-
       Effective management demands continuous improvement, especially in today's
       business world, where change is constant. You may need unique expertise:
       that’s what we’re here for.
     title: BUSINESS SOLUTIONS
-    link: /services/business-solutions
   - icon: cog
+    link: /services/technology-integration
     text: >-
       You need the best infrastructure you can get. When it comes to a
 
       tight delivery, so much can depend on a seamless, up-to-date combination
       of software and hardware that responds directly to your needs.
-    link: /services/technology-integration
     title: TECHNOLOGY INTEGRATION
   - icon: handshake
+    link: /services/talent-management
     text: >-
       We help our clients from recruitment, to retention, to policy advice.
 
       We also help both their business units and recruiters engage resources,
       and help the candidates ready themselves for the client’s business.
-    link: /services/talent-management
     title: TALENT MANAGEMENT
+  - link: /services/environmental-and-geomatics
+    text: >-
+      Excellence in interdisciplinary studies to facilitate broader
+      understanding of current research and policy issues. We bring expertise in
+      geomatic data acquisition, aquatic systems, species at risk, habitats,
+      monitoring, historical environmental research, and related facilitation
+      and communications.
+    title: ENVIRONMENTAL AND GEOMATICS
 jobs:
   amount: 3
   title: LATEST JOB OFFERS
 box:
-  title: INTERNSHIPS
   image: /img/internships.jpg
-  slogan: TRAINING, MENTORING AND EMPLOYMENT
-  text: >-
-    Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting. Our Aboriginal Internship Program (AIP) helps make that happen. These internships provide candidates with the skills and experience necessary to become in-demand professionals.
   link: /internships
   link_text: Learn more about Internships
+  slogan: 'TRAINING, MENTORING AND EMPLOYMENT'
+  text: >-
+    Acosys is committed to providing these things to all Indigenous people who
+    have a desire to work in the field of business consulting. Our Aboriginal
+    Internship Program (AIP) helps make that happen. These internships provide
+    candidates with the skills and experience necessary to become in-demand
+    professionals.
+  title: INTERNSHIPS
 ---
+
