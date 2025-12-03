@@ -20,10 +20,8 @@ text_1: >-
   solutions catering to nearly every major industry.
 
 
-
-
   While we wish to be recognized on the strength of our expertise and consistent
-  delivery, we are also proud to be an Indigenous company.
+  delivery, we are also proud to be an Indigenous companys.
 url_1: /about
 url_text_1: Our company
 title_2: BUILDING BRIDGES
