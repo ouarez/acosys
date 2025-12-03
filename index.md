@@ -21,7 +21,7 @@ text_1: >-
 
 
   While we wish to be recognized on the strength of our expertise and consistent
-  delivery, we are also proud to be an Indigenous companys.
+  delivery, we are also proud to be an Indigenous companies.
 url_1: /about
 url_text_1: Our company
 title_2: BUILDING BRIDGES
