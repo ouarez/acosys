@@ -81,4 +81,4 @@ portrait:
     image: /img/20240111_julie-lepage_picture.jpg
     name: Julie Lepage
 ---
-Acosys Consulting is led by David Acco and Julie Lepage.
+Acosys Consulting is led by David Carrière-Acco and Julie Lepage.
