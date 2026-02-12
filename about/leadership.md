@@ -4,11 +4,10 @@ layout: leadership
 translation_url: 'https://fr.acosysconsulting.com/a-propos/leadership'
 permalink: /about/leadership
 description: >-
-  David Acco, President and CEO, is a Cree-Métis descended from Cumberland
-  House, Saskatchewan, and a member of Métis Nation - Saskatchewan.  Julie
-  Lepage, a member of the Nipissing-Ojibway First Nation, graduated from the
-  University of Ottawa Common Law and Civil Law Programs and is a member of the
-  Law Society of Upper Canada.
+  David Carriere-Acco, a Business Analyst and Entrepreneur, is a member of the
+  Peter Ballantyne Cree Nation in Saskatchewan.  Julie Lepage, a member of the
+  Nipissing-Ojibway First Nation, graduated from the University of Ottawa Common
+  Law and Civil Law Programs and is a member of the Law Society of Upper Canada.
 cover_image: /img/cover.jpg
 portrait:
   - content: >-
